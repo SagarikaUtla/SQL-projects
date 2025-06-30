@@ -1,0 +1,501 @@
+crime_id,type,date,location_id,reported_by,severity_level,victim_count,status
+1,Robbery,2024-07-20,328,Jiya Bobal,Critical,9,Closed
+2,Kidnapping,2025-01-06,171,Misha Sarna,Medium,6,Under Investigation
+3,Murder,2025-01-24,152,Aradhya Tandon,Critical,7,Under Investigation
+4,Assault,2024-01-25,147,Urvi Kumer,Medium,0,Open
+5,Fraud,2024-01-22,144,Neysa Bhargava,Medium,9,Open
+6,Kidnapping,2024-04-07,252,Oorja Barad,Low,7,Under Investigation
+7,Kidnapping,2025-06-07,118,Inaaya  Anne,Low,0,Pending
+8,Assault,2024-10-19,79,Ahana  Gara,High,7,Pending
+9,Murder,2025-02-18,116,Prisha Dugal,Medium,7,Closed
+10,Kidnapping,2024-01-07,474,Hiran Cheema,Low,8,Closed
+11,Cybercrime,2025-05-11,306,Yuvraj  Dhaliwal,Critical,9,Pending
+12,Murder,2025-02-06,33,Azad Vora,Critical,3,Closed
+13,Fraud,2024-01-15,483,Drishya Jain,Medium,2,Pending
+14,Assault,2024-02-13,459,Shalv Karpe,High,4,Closed
+15,Fraud,2024-05-23,45,Dhanuk Ben,Critical,0,Open
+16,Robbery,2023-12-16,340,Ojas Kapur,Medium,5,Under Investigation
+17,Cybercrime,2025-04-05,372,Yakshit Dani,Low,2,Open
+18,Robbery,2024-05-04,133,Aaina Dubey,Low,6,Closed
+19,Kidnapping,2025-02-23,478,Nirvaan Dhingra,Critical,0,Under Investigation
+20,Cybercrime,2023-07-13,371,Gatik Suresh,Medium,3,Closed
+21,Fraud,2024-12-20,27,Vanya Jhaveri,High,7,Open
+22,Murder,2023-11-16,439,Kartik Uppal,High,4,Pending
+23,Kidnapping,2025-04-20,447,Saksham Chad,Medium,6,Under Investigation
+24,Murder,2024-09-29,220,Sana Sahota,Low,5,Pending
+25,Fraud,2024-08-28,373,Mishti Kanda,Low,10,Under Investigation
+26,Cybercrime,2024-06-24,482,Vidur Sodhi,Medium,7,Pending
+27,Assault,2023-10-17,27,Saksham Sharaf,Critical,6,Pending
+28,Theft,2024-09-08,13,Lavanya Ravi,Medium,5,Open
+29,Robbery,2024-02-11,98,Nishith Buch,High,8,Closed
+30,Murder,2024-09-11,413,Mohanlal Rama,Critical,1,Pending
+31,Kidnapping,2024-09-26,218,Indrajit Loke,Low,0,Open
+32,Murder,2024-10-09,222,Dharmajan Saxena,Critical,1,Open
+33,Kidnapping,2023-11-01,328,Mannat Deshpande,High,6,Under Investigation
+34,Cybercrime,2025-04-17,133,Kavya Gupta,Critical,3,Pending
+35,Cybercrime,2023-08-09,85,Zaina Jhaveri,High,2,Closed
+36,Murder,2023-09-03,482,Faiyaz Bhandari,Medium,5,Open
+37,Fraud,2025-02-27,109,Miraan Gara,Critical,8,Under Investigation
+38,Theft,2025-03-21,481,Jivika Bhargava,Medium,1,Pending
+39,Theft,2024-03-04,459,Suhana Chawla,High,8,Pending
+40,Fraud,2024-03-26,317,Ira Randhawa,Critical,2,Open
+41,Robbery,2023-07-22,449,Neysa Sharma,High,0,Open
+42,Fraud,2024-11-04,302,Ishita Bahl,High,0,Closed
+43,Cybercrime,2024-10-13,305,Dhanush Sani,Critical,3,Under Investigation
+44,Theft,2024-04-27,185,Dhanush Bhargava,Low,2,Open
+45,Assault,2024-08-04,194,Aradhya Wadhwa,High,8,Closed
+46,Murder,2024-04-23,293,Miraan Dash,Low,3,Under Investigation
+47,Fraud,2023-12-19,335,Mahika Shan,Low,2,Pending
+48,Cybercrime,2023-10-17,334,Riaan Krishna,Critical,10,Closed
+49,Cybercrime,2025-05-08,253,Lakshay Din,Medium,2,Closed
+50,Theft,2023-11-26,123,Shayak Ganesh,Medium,1,Closed
+51,Assault,2024-05-31,160,Devansh Dalal,Critical,6,Under Investigation
+52,Theft,2023-11-22,67,Ivana Gade,High,1,Under Investigation
+53,Assault,2023-07-22,260,Oorja Hari,High,1,Pending
+54,Robbery,2023-12-10,97,Shayak Sarna,Critical,6,Under Investigation
+55,Cybercrime,2023-07-01,187,Samaira Sani,High,7,Open
+56,Cybercrime,2025-04-02,453,Riaan Gola,Critical,4,Pending
+57,Murder,2023-08-30,221,Madhav Dube,Low,5,Under Investigation
+58,Kidnapping,2025-06-08,479,Advik Dubey,Medium,10,Pending
+59,Kidnapping,2023-09-15,152,Baiju Yogi,Critical,5,Closed
+60,Murder,2024-12-17,141,Aarush Bajwa,Critical,3,Open
+61,Kidnapping,2024-03-21,165,Misha Dora,Critical,4,Closed
+62,Robbery,2024-11-19,16,Sana Bhasin,Low,3,Closed
+63,Cybercrime,2023-07-02,26,Riaan Kashyap,Medium,9,Pending
+64,Cybercrime,2024-06-03,64,Rhea Tella,Medium,4,Closed
+65,Theft,2023-06-21,385,Hiran Dugal,Critical,5,Under Investigation
+66,Theft,2024-04-19,49,Rania Madan,Medium,2,Pending
+67,Cybercrime,2025-01-08,38,Navya Walia,Medium,3,Under Investigation
+68,Theft,2024-03-09,432,Taran Varghese,Medium,9,Pending
+69,Robbery,2024-11-05,198,Ivana Kaur,Critical,1,Pending
+70,Fraud,2023-12-10,223,Ira Ratti,High,2,Under Investigation
+71,Kidnapping,2023-12-19,43,Purab Dugar,Critical,1,Under Investigation
+72,Theft,2024-05-19,139,Myra Sankaran,High,4,Closed
+73,Theft,2023-11-26,284,Taran Contractor,Low,4,Closed
+74,Murder,2024-01-05,263,Rati Kata,Critical,2,Closed
+75,Theft,2024-03-25,419,Romil Gandhi,Low,4,Closed
+76,Robbery,2023-06-12,13,Rati Halder,Medium,10,Pending
+77,Theft,2023-08-13,222,Armaan Garg,High,2,Under Investigation
+78,Cybercrime,2024-04-29,160,Shanaya Talwar,High,7,Closed
+79,Murder,2024-04-26,347,Aaina Bansal,Medium,5,Pending
+80,Theft,2024-04-06,39,Kavya Chaudhari,High,7,Closed
+81,Robbery,2025-02-12,423,Aarav Kale,Medium,1,Under Investigation
+82,Cybercrime,2023-10-30,399,Onkar Bawa,High,4,Closed
+83,Assault,2024-06-29,293,Arhaan Chaudry,High,4,Under Investigation
+84,Cybercrime,2024-04-07,15,Shamik Krishnan,Critical,2,Closed
+85,Robbery,2025-03-31,351,Darshit Sunder,Medium,5,Closed
+86,Robbery,2023-12-14,214,Mohanlal Joshi,High,10,Under Investigation
+87,Fraud,2024-11-26,84,Pranay Savant,Low,3,Open
+88,Kidnapping,2024-07-23,167,Miraan Rout,Medium,8,Pending
+89,Fraud,2025-03-14,179,Suhana Tiwari,Critical,8,Under Investigation
+90,Assault,2024-02-05,452,Nishith Basu,Low,7,Under Investigation
+91,Cybercrime,2023-08-16,295,Aayush Sanghvi,Medium,7,Pending
+92,Cybercrime,2025-03-09,337,Tarini Char,High,2,Closed
+93,Assault,2023-08-11,389,Sana Ratti,Medium,4,Closed
+94,Assault,2024-04-20,433,Gatik Ranganathan,Low,2,Open
+95,Assault,2023-12-15,232,Anahita Lad,High,6,Closed
+96,Kidnapping,2024-05-06,147,Indranil Baria,High,3,Pending
+97,Assault,2025-01-27,49,Himmat Dhawan,Medium,4,Open
+98,Theft,2024-12-31,211,Nirvi Batra,Critical,0,Pending
+99,Assault,2024-02-05,290,Abram Chandra,Critical,2,Under Investigation
+100,Fraud,2023-07-06,487,Shalv Lata,High,3,Pending
+101,Murder,2024-07-25,310,Lakshay Bajaj,Critical,5,Under Investigation
+102,Fraud,2023-09-07,160,Kartik Sodhi,Medium,3,Under Investigation
+103,Robbery,2025-01-22,469,Yuvraj  Tak,Low,4,Closed
+104,Murder,2024-04-21,370,Eva Saha,High,5,Pending
+105,Cybercrime,2024-09-02,260,Ivan Baral,Medium,7,Under Investigation
+106,Cybercrime,2023-07-01,413,Hridaan Subramanian,Critical,9,Closed
+107,Theft,2024-06-06,499,Riaan Yogi,Low,5,Under Investigation
+108,Cybercrime,2025-05-23,419,Suhana Talwar,Critical,7,Under Investigation
+109,Assault,2025-01-15,490,Riya Sibal,Medium,9,Under Investigation
+110,Robbery,2023-08-05,437,Gatik Kala,Critical,6,Open
+111,Theft,2024-02-26,394,Nayantara Kota,High,1,Closed
+112,Theft,2025-03-28,292,Alisha Manda,High,2,Under Investigation
+113,Murder,2024-02-03,141,Pihu Devi,High,5,Open
+114,Cybercrime,2024-12-14,196,Keya Barad,High,0,Open
+115,Fraud,2025-04-11,1,Ishita Sachar,Critical,4,Pending
+116,Theft,2023-09-05,211,Ryan Boase,High,7,Open
+117,Cybercrime,2024-04-09,102,Bhamini Dixit,Low,0,Under Investigation
+118,Assault,2024-11-30,316,Aayush Wagle,Critical,9,Pending
+119,Murder,2024-12-03,493,Aaina Bhat,Medium,0,Pending
+120,Kidnapping,2024-01-25,124,Ira Malhotra,High,9,Pending
+121,Theft,2025-02-15,137,Suhana Loke,High,2,Closed
+122,Kidnapping,2024-05-27,492,Shaan Goel,High,7,Closed
+123,Fraud,2024-01-02,448,Rhea Samra,Low,9,Open
+124,Theft,2024-06-24,309,Onkar Kuruvilla,High,0,Open
+125,Robbery,2025-02-02,251,Madhav Zacharia,Medium,1,Closed
+126,Kidnapping,2024-08-14,207,Aaina Cherian,High,9,Pending
+127,Robbery,2024-06-01,297,Saksham Madan,High,7,Open
+128,Theft,2025-01-15,273,Advika Kadakia,High,4,Open
+129,Theft,2024-01-30,52,Vardaniya Saraf,High,0,Under Investigation
+130,Cybercrime,2024-04-12,228,Sahil Gaba,Low,1,Pending
+131,Cybercrime,2023-11-27,467,Indrajit Chokshi,Critical,9,Closed
+132,Fraud,2024-12-12,129,Vritika Cheema,High,5,Open
+133,Assault,2025-04-10,164,Neysa Basak,Low,5,Under Investigation
+134,Theft,2025-04-17,205,Samiha Korpal,Low,1,Pending
+135,Assault,2025-03-25,295,Himmat Suresh,Critical,0,Under Investigation
+136,Theft,2024-01-22,108,Aaryahi Sangha,High,5,Pending
+137,Assault,2025-05-08,422,Tarini Dyal,High,8,Pending
+138,Fraud,2024-03-28,418,Parinaaz Agate,Critical,4,Open
+139,Assault,2023-07-31,315,Veer Ratta,Low,4,Pending
+140,Robbery,2025-01-08,88,Divij Kumar,Critical,9,Open
+141,Robbery,2025-03-21,33,Tejas Ganesh,Low,1,Pending
+142,Theft,2023-08-15,66,Aarav Bora,Critical,2,Pending
+143,Robbery,2023-08-04,37,Ishaan Raju,Critical,1,Closed
+144,Cybercrime,2025-01-31,225,Piya Kaur,Low,4,Pending
+145,Murder,2024-12-14,113,Ela Ramanathan,High,9,Closed
+146,Murder,2024-10-16,402,Saira Tripathi,Low,5,Pending
+147,Fraud,2025-06-05,95,Raghav Majumdar,Low,8,Closed
+148,Theft,2024-07-08,47,Khushi Master,Critical,4,Open
+149,Cybercrime,2025-04-19,63,Shlok Manne,Critical,6,Under Investigation
+150,Theft,2024-05-20,37,Misha Rattan,High,9,Open
+151,Robbery,2025-03-21,76,Raunak Kant,High,9,Under Investigation
+152,Murder,2024-09-03,333,Onkar Kaul,Medium,10,Closed
+153,Theft,2025-05-04,454,Charvi Karpe,Critical,9,Open
+154,Kidnapping,2023-06-30,375,Ishaan Shah,Low,0,Pending
+155,Fraud,2024-03-01,169,Prisha Hari,Medium,0,Open
+156,Robbery,2024-03-02,303,Zaina Chawla,Medium,4,Open
+157,Cybercrime,2023-11-28,140,Pihu Jha,High,10,Open
+158,Kidnapping,2024-05-03,168,Dharmajan Baria,Critical,1,Under Investigation
+159,Kidnapping,2023-09-14,391,Parinaaz Ramanathan,Critical,6,Under Investigation
+160,Theft,2024-04-20,164,Indranil Choudhary,Medium,6,Pending
+161,Kidnapping,2024-06-02,443,Divyansh Karpe,High,1,Under Investigation
+162,Kidnapping,2023-08-14,250,Kismat Vora,High,10,Open
+163,Fraud,2024-05-07,240,Dhanuk Sangha,Medium,7,Under Investigation
+164,Theft,2024-10-04,373,Rhea Vaidya,Low,8,Under Investigation
+165,Murder,2024-08-17,209,Mehul Kale,Medium,7,Under Investigation
+166,Kidnapping,2023-11-13,331,Dhruv Dhaliwal,Low,0,Closed
+167,Theft,2024-01-12,268,Shayak Dass,Critical,7,Closed
+168,Assault,2024-07-16,204,Shlok Handa,Low,0,Open
+169,Robbery,2023-12-19,491,Miraya Sachdeva,Medium,7,Closed
+170,Kidnapping,2024-09-14,426,Eva Sen,Medium,5,Closed
+171,Cybercrime,2025-05-15,49,Ojas Dugar,Medium,1,Closed
+172,Murder,2024-03-28,47,Riaan Magar,Low,10,Closed
+173,Murder,2024-10-08,402,Anika Buch,Medium,6,Closed
+174,Fraud,2023-11-03,436,Gatik Chakraborty,Critical,8,Closed
+175,Kidnapping,2024-02-08,245,Rohan Chander,Critical,2,Pending
+176,Murder,2024-12-22,45,Ishaan Khanna,Low,9,Open
+177,Murder,2024-03-22,189,Reyansh Kala,High,0,Pending
+178,Theft,2023-10-22,316,Reyansh Som,Medium,7,Pending
+179,Kidnapping,2025-04-26,172,Seher Wagle,Low,2,Pending
+180,Fraud,2024-07-16,276,Suhana Dugar,High,8,Under Investigation
+181,Kidnapping,2025-02-22,419,Yuvaan Luthra,Critical,6,Under Investigation
+182,Cybercrime,2024-12-23,90,Aarav Manne,Critical,7,Open
+183,Kidnapping,2023-12-16,189,Faiyaz Madan,Low,6,Open
+184,Theft,2023-11-11,492,Priyansh Dara,Medium,5,Pending
+185,Murder,2024-04-05,169,Badal Vala,Medium,2,Open
+186,Cybercrime,2024-03-24,217,Khushi Iyer,Low,0,Closed
+187,Assault,2025-03-19,434,Nehmat Viswanathan,Low,9,Pending
+188,Assault,2023-12-17,149,Keya Sachdev,Critical,8,Open
+189,Cybercrime,2024-08-29,11,Bhavin Cheema,Low,2,Open
+190,Theft,2024-09-06,171,Ojas Bumb,Critical,5,Under Investigation
+191,Murder,2024-10-24,335,Uthkarsh Deshpande,Critical,5,Closed
+192,Fraud,2023-12-23,89,Biju Varkey,Medium,6,Under Investigation
+193,Kidnapping,2024-12-16,180,Alisha Thakur,High,2,Under Investigation
+194,Murder,2023-09-04,363,Kaira Tara,Critical,4,Pending
+195,Fraud,2024-08-04,70,Jivika Sura,Medium,8,Open
+196,Assault,2025-05-11,176,Lakshit Rajagopal,Low,3,Pending
+197,Murder,2024-04-19,142,Uthkarsh Yogi,High,10,Under Investigation
+198,Assault,2024-01-08,365,Rohan Mallick,Medium,10,Pending
+199,Cybercrime,2023-08-11,394,Azad Toor,High,10,Closed
+200,Murder,2024-05-29,435,Hansh Desai,Critical,5,Open
+201,Assault,2025-03-14,140,Himmat Bhatia,Critical,2,Pending
+202,Murder,2024-05-27,159,Jayan Chaudhary,High,9,Under Investigation
+203,Theft,2025-04-29,357,Pihu Chacko,Low,1,Pending
+204,Robbery,2025-05-16,77,Alisha Dani,High,3,Under Investigation
+205,Cybercrime,2025-04-26,443,Aarna Singh,Low,3,Closed
+206,Kidnapping,2023-08-10,71,Kanav Kant,Critical,10,Closed
+207,Theft,2024-03-14,73,Darshit Mammen,High,1,Open
+208,Fraud,2023-10-18,204,Vanya Kade,Low,9,Under Investigation
+209,Assault,2023-08-09,141,Ritvik Sathe,Critical,0,Under Investigation
+210,Cybercrime,2025-01-13,98,Anya Thaman,Critical,6,Closed
+211,Assault,2024-09-16,391,Adah Rege,High,7,Open
+212,Assault,2024-09-25,233,Aradhya Chacko,High,3,Open
+213,Theft,2024-02-18,46,Miraya Mander,Low,10,Closed
+214,Murder,2023-07-14,189,Anya Sabharwal,Critical,0,Open
+215,Robbery,2024-01-04,192,Rati Zachariah,Critical,1,Open
+216,Theft,2024-11-08,228,Tiya Shah,Low,9,Pending
+217,Assault,2024-02-03,77,Ritvik Bajaj,High,8,Under Investigation
+218,Cybercrime,2024-05-09,475,Biju Kannan,Low,4,Open
+219,Assault,2024-11-12,233,Sumer Lalla,Critical,4,Open
+220,Cybercrime,2024-01-13,341,Vivaan Bahl,Low,4,Pending
+221,Theft,2024-06-12,337,Anika Gaba,High,5,Closed
+222,Theft,2025-05-27,186,Samar Gola,Low,0,Closed
+223,Robbery,2024-01-01,220,Anahita Chowdhury,Critical,0,Open
+224,Robbery,2025-04-09,180,Shray Solanki,Low,3,Closed
+225,Theft,2025-01-11,425,Faiyaz Maharaj,Critical,0,Closed
+226,Theft,2025-05-09,395,Samar Shankar,Medium,9,Closed
+227,Assault,2024-09-09,266,Riya Dugar,Critical,2,Under Investigation
+228,Robbery,2024-09-09,335,Shanaya Jain,Low,5,Open
+229,Kidnapping,2023-07-25,324,Taimur Banerjee,Low,0,Open
+230,Assault,2025-03-20,347,Abram Bhattacharyya,High,0,Open
+231,Robbery,2024-11-02,117,Jiya Sinha,Medium,10,Under Investigation
+232,Fraud,2024-06-06,150,Ivana Sengupta,Medium,7,Open
+233,Kidnapping,2025-01-04,456,Anaya Dalal,Medium,4,Closed
+234,Kidnapping,2025-05-09,322,Ishita Atwal,Medium,8,Closed
+235,Assault,2023-08-04,168,Heer Loyal,Critical,4,Pending
+236,Assault,2025-04-26,278,Dishani Bali,Low,5,Pending
+237,Assault,2023-07-30,73,Devansh Chaudhry,High,5,Closed
+238,Kidnapping,2024-09-18,489,Anahita Bhandari,Medium,5,Closed
+239,Assault,2025-05-11,303,Hrishita Taneja,Critical,0,Pending
+240,Theft,2024-02-16,438,Samarth Gokhale,Critical,6,Under Investigation
+241,Theft,2023-09-01,35,Indrans Thaker,Critical,8,Closed
+242,Robbery,2024-10-10,370,Charvi Wason,High,9,Pending
+243,Murder,2024-08-11,292,Manjari Sundaram,Critical,3,Pending
+244,Assault,2024-04-02,500,Mannat Sem,Low,10,Closed
+245,Assault,2024-06-02,197,Rati Sani,Low,8,Pending
+246,Cybercrime,2025-01-30,76,Reyansh Walla,Low,5,Under Investigation
+247,Theft,2024-09-09,414,Adah Luthra,Critical,1,Under Investigation
+248,Fraud,2023-12-24,41,Taimur Chandra,High,0,Under Investigation
+249,Cybercrime,2024-07-16,292,Adira Dave,Low,3,Pending
+250,Cybercrime,2024-03-07,66,Reyansh Roy,High,4,Under Investigation
+251,Murder,2023-07-18,269,Nitya Kumer,Low,10,Pending
+252,Cybercrime,2023-11-15,114,Aarush Mangal,High,7,Open
+253,Assault,2024-01-13,29,Neelofar Chandra,High,1,Closed
+254,Assault,2024-11-03,134,Prerak Banerjee,Low,1,Pending
+255,Kidnapping,2023-06-28,73,Myra Jhaveri,Low,7,Pending
+256,Kidnapping,2023-08-07,63,Ehsaan Bansal,Critical,1,Open
+257,Assault,2024-12-07,254,Tiya Lal,Medium,2,Open
+258,Murder,2024-04-15,433,Lavanya Hari,Medium,2,Open
+259,Fraud,2024-07-21,370,Manjari Kata,Low,8,Under Investigation
+260,Fraud,2024-02-08,131,Jiya Viswanathan,Medium,7,Under Investigation
+261,Cybercrime,2023-10-29,21,Aaryahi Chaudhuri,Critical,9,Pending
+262,Fraud,2024-10-29,347,Anahi Seshadri,Medium,0,Pending
+263,Kidnapping,2024-01-17,382,Tushar Sama,Medium,1,Closed
+264,Murder,2024-09-08,479,Mehul Sekhon,High,3,Under Investigation
+265,Murder,2024-05-08,187,Khushi Andra,Critical,3,Open
+266,Robbery,2024-03-06,121,Bhavin Wagle,Medium,0,Closed
+267,Fraud,2023-09-28,121,Armaan Dayal,Critical,3,Under Investigation
+268,Fraud,2023-10-25,326,Dharmajan Krishna,Critical,7,Open
+269,Robbery,2024-08-20,364,Rati Shere,Medium,7,Under Investigation
+270,Assault,2024-01-28,349,Kavya Desai,Critical,4,Closed
+271,Cybercrime,2024-12-30,278,Ela Jhaveri,Medium,2,Open
+272,Murder,2024-09-15,159,Renee Acharya,High,1,Closed
+273,Theft,2024-09-07,488,Ahana  Kanda,Critical,6,Open
+274,Kidnapping,2024-03-03,491,Seher Bhatnagar,Medium,10,Closed
+275,Assault,2024-10-08,195,Shamik Gade,High,8,Open
+276,Assault,2024-08-06,303,Misha Tara,Critical,1,Pending
+277,Kidnapping,2024-01-03,97,Charvi Varty,Medium,5,Closed
+278,Robbery,2024-10-09,133,Prerak Brar,Medium,6,Under Investigation
+279,Fraud,2023-09-20,488,Jhanvi Chawla,Low,3,Pending
+280,Robbery,2025-03-09,36,Taimur Sahota,High,1,Open
+281,Theft,2024-06-17,137,Pranay Barad,Low,1,Under Investigation
+282,Assault,2024-11-06,166,Divyansh Sandhu,Critical,1,Open
+283,Cybercrime,2024-10-15,375,Advik Swamy,Medium,9,Open
+284,Kidnapping,2024-05-21,344,Farhan Grewal,Low,8,Open
+285,Assault,2025-03-11,362,Kartik Bajaj,Low,9,Closed
+286,Theft,2023-06-23,201,Ivana Balasubramanian,Medium,5,Closed
+287,Kidnapping,2024-01-18,220,Dhruv Mani,Medium,3,Open
+288,Assault,2024-07-28,151,Parinaaz Dass,Critical,10,Under Investigation
+289,Assault,2023-06-14,109,Yuvraj  Bobal,High,9,Under Investigation
+290,Cybercrime,2024-09-07,20,Anvi Dewan,Medium,6,Open
+291,Robbery,2025-05-04,187,Dhanuk Luthra,Medium,8,Pending
+292,Robbery,2025-02-12,40,Gatik Krish,Critical,1,Closed
+293,Cybercrime,2023-07-04,36,Priyansh Kannan,Medium,5,Pending
+294,Theft,2025-01-14,156,Shayak Bains,Low,2,Pending
+295,Assault,2024-01-04,172,Krish Shroff,High,10,Pending
+296,Cybercrime,2023-08-11,296,Tanya Saxena,Medium,3,Pending
+297,Assault,2024-06-23,363,Jayant Basak,Medium,7,Open
+298,Assault,2023-12-09,232,Kaira Bava,Critical,10,Under Investigation
+299,Murder,2024-11-26,272,Jhanvi Loyal,High,7,Open
+300,Fraud,2024-11-28,114,Kismat Date,Critical,5,Closed
+301,Robbery,2025-03-17,51,Saksham Kurian,Low,9,Open
+302,Cybercrime,2024-03-27,178,Krish Kapadia,Critical,6,Closed
+303,Fraud,2024-12-29,492,Ojas Dar,High,1,Under Investigation
+304,Assault,2023-08-25,66,Raunak Kale,Medium,5,Closed
+305,Theft,2023-12-04,383,Yuvraj  Trivedi,Low,2,Open
+306,Murder,2025-05-27,50,Nirvi Raja,Medium,3,Open
+307,Fraud,2025-05-05,267,Stuvan Toor,High,4,Open
+308,Assault,2024-01-29,390,Mishti Bhat,Critical,6,Pending
+309,Robbery,2024-09-25,396,Farhan Sarma,Medium,1,Under Investigation
+310,Fraud,2024-08-01,157,Nirvaan Boase,Low,2,Under Investigation
+311,Theft,2024-08-07,249,Yashvi Rao,High,10,Closed
+312,Cybercrime,2024-06-20,378,Neelofar Bhatia,Critical,3,Under Investigation
+313,Assault,2024-07-09,56,Madhup Chhabra,Critical,4,Under Investigation
+314,Kidnapping,2023-09-01,111,Aarna Sama,Critical,5,Closed
+315,Assault,2025-03-01,51,Siya Gole,Critical,9,Closed
+316,Cybercrime,2024-09-12,483,Vaibhav Raj,High,4,Open
+317,Assault,2025-01-05,7,Rhea Karan,Low,9,Open
+318,Theft,2023-12-14,292,Pari Balasubramanian,Critical,0,Open
+319,Murder,2024-02-15,451,Neysa Korpal,Low,9,Pending
+320,Assault,2025-04-11,252,Tejas Anand,Medium,10,Pending
+321,Fraud,2024-09-19,302,Amani Chana,Medium,7,Under Investigation
+322,Cybercrime,2024-03-31,46,Shamik Dani,Critical,4,Under Investigation
+323,Fraud,2024-12-06,43,Tarini Chad,High,1,Open
+324,Theft,2023-10-13,41,Baiju Sethi,High,2,Open
+325,Cybercrime,2024-11-24,376,Divyansh Vora,High,10,Pending
+326,Assault,2023-12-03,60,Arhaan Sanghvi,Critical,8,Under Investigation
+327,Murder,2023-12-04,264,Lakshit Garde,High,1,Open
+328,Murder,2024-03-17,146,Pari Johal,Medium,5,Closed
+329,Theft,2023-10-27,68,Advik Kari,High,6,Open
+330,Kidnapping,2025-01-02,158,Heer Gade,Critical,7,Pending
+331,Fraud,2025-04-26,161,Mishti Sarna,Low,3,Closed
+332,Theft,2024-11-25,429,Dhanuk Ganesh,Medium,6,Closed
+333,Kidnapping,2023-06-25,363,Elakshi Gandhi,Low,8,Under Investigation
+334,Cybercrime,2023-12-18,381,Shray Srinivasan,Critical,0,Under Investigation
+335,Assault,2024-01-11,214,Shlok Dash,Critical,2,Pending
+336,Murder,2025-02-11,95,Sahil Dada,Medium,4,Pending
+337,Cybercrime,2024-07-22,232,Taran Hari,High,2,Open
+338,Murder,2024-03-26,89,Aniruddh Bhatia,Low,0,Closed
+339,Robbery,2023-11-21,441,Piya Warrior,High,6,Closed
+340,Assault,2025-06-10,420,Gokul Sodhi,Medium,9,Open
+341,Robbery,2024-06-09,468,Samarth Bansal,Critical,6,Under Investigation
+342,Kidnapping,2024-10-08,214,Kismat Sethi,Critical,10,Closed
+343,Assault,2025-03-29,115,Arnav Anne,Critical,4,Pending
+344,Theft,2023-07-11,248,Dhanuk Bains,High,0,Pending
+345,Kidnapping,2024-09-28,389,Dishani Saini,Low,5,Open
+346,Murder,2023-08-10,22,Eshani Rattan,High,4,Pending
+347,Murder,2023-08-25,410,Aarav Din,Medium,10,Under Investigation
+348,Robbery,2024-09-28,280,Aarav Bains,Medium,0,Under Investigation
+349,Murder,2024-06-17,97,Divit Suresh,Low,7,Open
+350,Murder,2024-10-29,125,Samar Dave,Medium,0,Under Investigation
+351,Assault,2025-03-23,253,Seher Boase,Critical,1,Closed
+352,Kidnapping,2025-01-31,476,Armaan Goyal,High,5,Under Investigation
+353,Cybercrime,2023-10-29,428,Hrishita Boase,High,2,Closed
+354,Murder,2023-06-14,438,Vritika Badami,Medium,10,Under Investigation
+355,Kidnapping,2025-05-26,473,Aniruddh Jayaraman,High,0,Under Investigation
+356,Kidnapping,2024-04-04,229,Vardaniya Maharaj,Low,3,Open
+357,Murder,2024-01-11,260,Indranil Chandra,Critical,9,Closed
+358,Robbery,2024-07-02,136,Zoya Bora,Critical,6,Under Investigation
+359,Murder,2024-01-04,345,Taran Arora,High,8,Under Investigation
+360,Theft,2024-07-19,89,Yashvi Sehgal,Medium,1,Pending
+361,Cybercrime,2024-03-01,160,Eshani Guha,Critical,6,Open
+362,Robbery,2024-12-13,65,Aayush Jayaraman,High,3,Pending
+363,Kidnapping,2023-12-23,175,Indrans Hayre,High,4,Pending
+364,Theft,2025-02-05,108,Divij Shankar,Critical,10,Closed
+365,Theft,2024-04-15,270,Hridaan Loyal,High,4,Under Investigation
+366,Robbery,2023-11-04,442,Navya Sachar,Low,9,Open
+367,Robbery,2025-05-04,297,Alia Grewal,Low,2,Pending
+368,Assault,2025-01-15,221,Kimaya Mammen,Low,9,Open
+369,Cybercrime,2024-02-25,461,Kabir Varkey,Medium,3,Open
+370,Kidnapping,2024-07-01,480,Nirvaan Banik,Critical,2,Under Investigation
+371,Kidnapping,2025-04-27,265,Sara Ramanathan,Critical,10,Under Investigation
+372,Robbery,2024-04-20,129,Alia Basak,Critical,10,Under Investigation
+373,Murder,2024-04-07,197,Dhanuk Kakar,Medium,1,Pending
+374,Theft,2024-10-04,102,Bhavin Joshi,High,3,Under Investigation
+375,Kidnapping,2024-07-01,199,Vivaan Garg,Low,1,Closed
+376,Murder,2023-09-02,355,Rania Balay,Low,0,Under Investigation
+377,Murder,2023-09-13,18,Vidur Doctor,Low,1,Under Investigation
+378,Theft,2024-04-27,262,Miraan Seshadri,Critical,3,Open
+379,Assault,2025-01-25,11,Amani Dara,Low,0,Closed
+380,Fraud,2024-07-02,63,Madhup Madan,High,7,Under Investigation
+381,Assault,2024-12-15,457,Zoya Ganesh,Critical,10,Under Investigation
+382,Assault,2024-07-10,55,Siya Raja,Medium,9,Open
+383,Cybercrime,2024-04-08,80,Madhup Raman,Low,8,Closed
+384,Murder,2025-05-27,89,Shalv Hora,Critical,0,Under Investigation
+385,Theft,2024-07-09,425,Aarna Balan,Critical,4,Open
+386,Kidnapping,2024-11-16,62,Siya Batta,Medium,3,Closed
+387,Robbery,2024-12-12,237,Ritvik Mani,Low,6,Closed
+388,Assault,2024-12-12,114,Shlok Shankar,High,3,Under Investigation
+389,Murder,2023-12-03,89,Eshani Ramanathan,High,8,Open
+390,Assault,2025-04-14,87,Mishti Sha,High,6,Open
+391,Murder,2024-03-23,478,Saanvi Master,Medium,0,Open
+392,Fraud,2025-01-08,99,Himmat Barman,Medium,7,Closed
+393,Theft,2024-06-05,404,Umang Sarna,High,9,Open
+394,Theft,2025-02-25,366,Devansh Ramaswamy,High,6,Pending
+395,Murder,2024-11-07,178,Ehsaan Mahal,High,6,Under Investigation
+396,Theft,2024-01-05,187,Vidur Barman,Critical,0,Closed
+397,Fraud,2025-05-22,314,Ryan Talwar,Critical,4,Closed
+398,Theft,2023-10-08,495,Heer Sule,Critical,2,Open
+399,Robbery,2025-01-02,429,Umang Verma,Medium,0,Under Investigation
+400,Kidnapping,2023-08-31,380,Akarsh Dhingra,Low,4,Pending
+401,Murder,2025-01-20,22,Romil Dutta,Low,2,Open
+402,Theft,2023-07-30,199,Raghav Chandran,Critical,7,Under Investigation
+403,Cybercrime,2024-04-06,295,Charvi Bora,Low,8,Closed
+404,Assault,2023-12-22,197,Miraan Agarwal,Medium,4,Under Investigation
+405,Kidnapping,2025-04-21,300,Hazel Andra,High,10,Open
+406,Assault,2024-01-05,276,Anaya Mall,Medium,4,Closed
+407,Assault,2023-08-14,408,Kiara Dhawan,High,2,Pending
+408,Robbery,2024-03-19,321,Nehmat Loke,Medium,8,Open
+409,Assault,2024-06-08,312,Seher Tella,Low,2,Open
+410,Fraud,2024-11-27,52,Kashvi Kulkarni,High,1,Open
+411,Theft,2024-11-10,247,Yuvaan Khanna,Low,4,Pending
+412,Cybercrime,2024-10-30,35,Shlok Dyal,Critical,5,Open
+413,Fraud,2024-11-11,295,Samar Babu,Medium,9,Under Investigation
+414,Murder,2024-11-27,119,Vardaniya Vyas,Medium,2,Open
+415,Assault,2024-06-10,10,Aniruddh Sankar,High,3,Open
+416,Assault,2023-06-30,104,Arnav Bahl,Low,0,Under Investigation
+417,Kidnapping,2023-06-18,34,Urvi Deshpande,High,3,Pending
+418,Kidnapping,2023-12-18,158,Kavya Thakur,High,7,Under Investigation
+419,Theft,2024-02-27,336,Anika Bath,High,8,Open
+420,Cybercrime,2025-04-09,404,Sumer Agarwal,Low,7,Open
+421,Theft,2024-03-04,496,Saanvi Varughese,High,9,Open
+422,Cybercrime,2024-02-20,334,Kiara Jani,High,5,Under Investigation
+423,Kidnapping,2024-08-11,403,Ela Manne,Critical,5,Closed
+424,Fraud,2025-03-04,251,Saanvi Bhargava,Critical,3,Pending
+425,Kidnapping,2024-03-30,472,Anahita Warrior,High,10,Closed
+426,Murder,2024-04-29,402,Badal Bora,Low,2,Closed
+427,Assault,2025-03-27,397,Vaibhav Sane,Critical,1,Pending
+428,Kidnapping,2024-01-17,269,Eshani Sandhu,Critical,2,Pending
+429,Theft,2024-01-23,411,Shalv Magar,Critical,2,Under Investigation
+430,Cybercrime,2024-02-27,338,Manikya Dave,Low,9,Closed
+431,Theft,2024-08-28,57,Advika Vohra,Low,7,Pending
+432,Assault,2023-06-20,355,Rhea Din,Low,10,Pending
+433,Murder,2024-01-02,40,Trisha Gokhale,High,3,Pending
+434,Cybercrime,2024-05-05,275,Samarth Gara,Medium,10,Closed
+435,Kidnapping,2024-06-27,397,Shayak Luthra,Low,8,Under Investigation
+436,Assault,2025-01-27,347,Prisha Hayer,Critical,5,Pending
+437,Theft,2024-10-19,488,Shayak Sehgal,Low,2,Open
+438,Murder,2025-05-13,54,Zoya Iyer,High,1,Open
+439,Murder,2024-06-08,195,Piya Sathe,Low,0,Closed
+440,Kidnapping,2023-07-26,414,Prerak Sibal,Critical,3,Closed
+441,Murder,2024-04-09,304,Heer Venkataraman,Low,9,Under Investigation
+442,Robbery,2024-06-25,46,Aniruddh Kaul,Critical,5,Pending
+443,Kidnapping,2023-07-07,394,Saira Dugar,Critical,6,Closed
+444,Murder,2025-04-11,435,Samar Keer,Critical,8,Pending
+445,Murder,2024-09-09,109,Purab Sami,Medium,6,Open
+446,Murder,2025-05-16,419,Charvi Contractor,Medium,2,Closed
+447,Kidnapping,2025-01-21,350,Neysa Behl,High,5,Under Investigation
+448,Murder,2024-07-12,485,Alia Bajaj,High,9,Open
+449,Theft,2025-04-27,492,Alisha Banik,Critical,1,Pending
+450,Kidnapping,2025-02-05,134,Indrajit Wason,Critical,1,Under Investigation
+451,Assault,2025-01-13,487,Kartik Dada,Low,8,Open
+452,Cybercrime,2023-06-20,214,Elakshi Brahmbhatt,Low,5,Under Investigation
+453,Theft,2023-06-20,397,Shalv Bhatt,Low,6,Closed
+454,Fraud,2025-03-13,467,Ryan Sehgal,Low,0,Under Investigation
+455,Kidnapping,2024-01-03,65,Rasha Lala,High,9,Open
+456,Fraud,2025-02-11,305,Tanya Shroff,Medium,7,Open
+457,Kidnapping,2024-09-13,148,Aradhya Batta,Low,3,Closed
+458,Kidnapping,2024-05-18,283,Piya Lalla,Low,8,Under Investigation
+459,Murder,2024-10-18,498,Shray Kothari,High,6,Closed
+460,Robbery,2024-10-15,202,Seher Vora,Medium,2,Under Investigation
+461,Cybercrime,2024-04-23,64,Ritvik Dara,Low,9,Under Investigation
+462,Theft,2024-12-11,130,Shalv Sankaran,Critical,1,Under Investigation
+463,Theft,2024-12-07,344,Uthkarsh Dhar,Medium,8,Pending
+464,Theft,2025-05-06,33,Reyansh Dash,Medium,3,Closed
+465,Theft,2024-01-30,136,Amani Goyal,High,3,Open
+466,Cybercrime,2025-01-29,303,Anya Thaman,Low,4,Open
+467,Murder,2025-05-26,149,Eva Ranganathan,Low,3,Under Investigation
+468,Assault,2024-09-02,37,Sana Walla,Medium,8,Pending
+469,Theft,2024-10-22,160,Samaira Chadha,High,10,Under Investigation
+470,Cybercrime,2024-07-28,218,Priyansh Khosla,Medium,3,Under Investigation
+471,Robbery,2023-11-09,486,Amira Deshpande,Critical,0,Under Investigation
+472,Murder,2023-07-18,167,Navya Chada,Low,8,Pending
+473,Assault,2023-10-04,106,Jivika Grewal,Medium,6,Under Investigation
+474,Robbery,2024-07-20,442,Pihu Mallick,Critical,7,Under Investigation
+475,Cybercrime,2023-08-24,390,Taran Gulati,High,4,Under Investigation
+476,Fraud,2024-06-12,185,Jayesh Balakrishnan,Low,7,Closed
+477,Cybercrime,2024-01-22,185,Jayesh Mangal,Critical,9,Under Investigation
+478,Fraud,2024-08-04,188,Devansh Chandran,High,7,Open
+479,Kidnapping,2025-02-14,409,Bhamini Banerjee,Medium,0,Closed
+480,Robbery,2024-10-13,365,Devansh Grover,Low,5,Open
+481,Fraud,2023-07-28,321,Dhanush Kapur,Medium,0,Under Investigation
+482,Theft,2024-10-08,423,Ivana Baral,Critical,2,Under Investigation
+483,Kidnapping,2023-08-20,366,Tushar Varkey,Low,2,Under Investigation
+484,Kidnapping,2023-06-26,360,Advik Goda,Low,1,Under Investigation
+485,Murder,2024-04-29,247,Lagan Vasa,Critical,6,Under Investigation
+486,Assault,2024-12-04,133,Farhan Wadhwa,Critical,9,Pending
+487,Theft,2024-06-27,343,Kimaya Sahota,Low,9,Closed
+488,Assault,2024-03-12,43,Tushar Mann,Medium,1,Closed
+489,Cybercrime,2024-06-17,413,Trisha Sankar,Medium,2,Under Investigation
+490,Assault,2025-01-15,271,Indrans Sekhon,Critical,10,Under Investigation
+491,Kidnapping,2024-02-06,425,Nakul Yohannan,Medium,5,Pending
+492,Assault,2025-05-25,370,Kimaya Wason,Critical,0,Open
+493,Robbery,2023-06-29,312,Rohan Bhalla,High,1,Pending
+494,Assault,2025-01-01,235,Umang Chandra,Critical,7,Under Investigation
+495,Theft,2024-01-28,245,Pranay Mander,Critical,2,Open
+496,Fraud,2025-02-07,218,Urvi Dar,Low,1,Under Investigation
+497,Cybercrime,2023-11-04,135,Reyansh Toor,Critical,10,Pending
+498,Murder,2023-10-10,325,Hazel Goswami,Low,0,Under Investigation
+499,Assault,2025-04-27,392,Veer Ganesan,High,6,Under Investigation
+500,Murder,2023-12-21,31,Sana Bhavsar,Low,4,Closed

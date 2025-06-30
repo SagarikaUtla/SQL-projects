@@ -1,0 +1,501 @@
+suspect_id,name,crime_id,age,gender,last_known_location,is_repeat_offender,arrest_status
+1,Riaan Hegde,497,55,Other,Kota,No,At Large
+2,Nakul Venkataraman,171,31,Other,Madurai,Yes,Arrested
+3,Lagan Iyengar,488,30,Female,Nashik,No,At Large
+4,Kavya Behl,384,58,Female,Rampur,No,Under Surveillance
+5,Devansh Bajwa,13,44,Other,Korba,No,Arrested
+6,Bhavin Zachariah,385,49,Other,Purnia,No,At Large
+7,Hrishita Majumdar,225,49,Male,Indore,No,Under Surveillance
+8,Nehmat Korpal,12,44,Female,Sikar,No,At Large
+9,Kiara Verma,438,57,Other,Satna,No,Under Surveillance
+10,Heer Deol,329,54,Male,Tiruppur,No,Arrested
+11,Kavya Mallick,491,45,Other,Siliguri,Yes,At Large
+12,Anahita Chad,249,59,Other,Kalyan-Dombivli,Yes,Under Surveillance
+13,Nakul Vyas,314,41,Female,Thiruvananthapuram,No,Arrested
+14,Bhavin Vora,188,29,Female,Ratlam,No,Under Surveillance
+15,Jayan Mangal,454,47,Male,Jaipur,No,Under Surveillance
+16,Prerak Aurora,22,32,Other,Faridabad,Yes,At Large
+17,Eva Krishna,64,54,Other,Patna,No,Under Surveillance
+18,Hazel Sama,175,24,Female,Gandhinagar,Yes,At Large
+19,Advika Sule,78,60,Male,Nagpur,Yes,At Large
+20,Mahika Bhatt,208,34,Female,Surat,Yes,Under Surveillance
+21,Akarsh Badami,316,18,Other,Kadapa,Yes,Under Surveillance
+22,Ira Hegde,189,30,Female,Anand,Yes,Under Surveillance
+23,Indranil Kapoor,162,23,Other,Patiala,Yes,Under Surveillance
+24,Kashvi Chhabra,3,47,Male,Jalandhar,No,Under Surveillance
+25,Raghav Karpe,284,47,Male,Srikakulam,Yes,Under Surveillance
+26,Nishith Devan,448,47,Other,Dibrugarh,Yes,Under Surveillance
+27,Shlok Bath,60,40,Other,Jodhpur,No,Arrested
+28,Mamooty Bhakta,314,52,Male,Alappuzha,Yes,Under Surveillance
+29,Nitara Rana,276,48,Male,Erode,Yes,Arrested
+30,Samar Bassi,326,53,Other,Bhagalpur,Yes,Arrested
+31,Siya Master,182,19,Male,Jaipur,No,At Large
+32,Advik Majumdar,345,32,Other,New Delhi,No,At Large
+33,Jiya Deshmukh,141,30,Female,Berhampore,Yes,Arrested
+34,Pranay Kuruvilla,88,23,Male,Serampore,No,Under Surveillance
+35,Anika Seth,148,48,Female,Rewa,No,Arrested
+36,Himmat Kalla,115,39,Other,Mira-Bhayandar,No,At Large
+37,Sumer Gaba,161,31,Male,Kolhapur,Yes,Under Surveillance
+38,Nitya Trivedi,495,55,Female,Solapur,No,Arrested
+39,Charvi Sachar,205,43,Male,Durgapur,No,Under Surveillance
+40,Hiran Buch,167,33,Male,Bhalswa Jahangir Pur,No,Arrested
+41,Armaan Suri,322,32,Other,Mathura,No,Arrested
+42,Indrajit Krishna,467,31,Male,Shivpuri,No,At Large
+43,Eva Vala,465,45,Male,Bhavnagar,No,At Large
+44,Neelofar Butala,233,46,Other,Dewas,Yes,At Large
+45,Anika Sampath,87,54,Male,Gaya,Yes,Arrested
+46,Faiyaz Badal,413,22,Female,Mahbubnagar,No,Arrested
+47,Aniruddh Chanda,34,46,Female,Jaipur,No,At Large
+48,Gatik Bose,101,23,Male,Adoni,Yes,Under Surveillance
+49,Madhav Yadav,13,34,Male,Hazaribagh,Yes,Under Surveillance
+50,Shamik Chawla,412,32,Female,Nadiad,Yes,Arrested
+51,Anvi Chopra,84,32,Male,Mumbai,No,At Large
+52,Kaira Chopra,176,41,Male,Sagar,No,At Large
+53,Yasmin Virk,38,54,Female,Nellore,No,Arrested
+54,Yuvaan Mallick,194,35,Male,Parbhani,Yes,Under Surveillance
+55,Anahita Bhatnagar,121,47,Male,Vellore,No,Arrested
+56,Yakshit Chacko,160,31,Female,Hapur,Yes,At Large
+57,Urvi Sood,486,29,Male,Haldia,Yes,Under Surveillance
+58,Hridaan Sibal,450,41,Other,Latur,Yes,Arrested
+59,Chirag Kohli,241,47,Male,Vijayanagaram,Yes,At Large
+60,Madhup Talwar,400,41,Male,Dibrugarh,Yes,At Large
+61,Arhaan Bava,53,24,Female,Bhusawal,Yes,At Large
+62,Nayantara Bumb,331,24,Male,Ghaziabad,No,Under Surveillance
+63,Khushi Krishnan,223,55,Female,Udaipur,Yes,Arrested
+64,Umang Venkatesh,58,54,Female,Jalna,No,At Large
+65,Priyansh Kalla,174,29,Other,Guntur,Yes,At Large
+66,Lavanya Venkatesh,382,39,Other,Bhiwani,No,Under Surveillance
+67,Hiran Sehgal,79,22,Male,Srinagar,No,Under Surveillance
+68,Inaaya  Barman,257,18,Male,Ahmednagar,Yes,At Large
+69,Dharmajan Saha,16,25,Other,Unnao,Yes,Arrested
+70,Piya Balay,10,43,Other,Faridabad,No,Arrested
+71,Farhan Dara,310,33,Male,Madanapalle,No,Arrested
+72,Indranil Chawla,12,21,Male,Mahbubnagar,No,Under Surveillance
+73,Vidur Dora,80,41,Other,Sangli-Miraj & Kupwad,No,At Large
+74,Pari Tata,155,36,Other,Allahabad,No,Under Surveillance
+75,Miraya Chadha,184,31,Other,Chittoor,No,Under Surveillance
+76,Rania Bhatti,152,20,Female,Rewa,No,Arrested
+77,Jhanvi Sarkar,155,56,Female,Sultan Pur Majra,Yes,Arrested
+78,Charvi Guha,188,49,Female,Bulandshahr,Yes,Under Surveillance
+79,Tara Srivastava,441,41,Female,Khora ,No,Arrested
+80,Shamik Borde,130,53,Male,Guwahati,No,Arrested
+81,Ivana Chanda,333,57,Male,Bidar,No,At Large
+82,Shanaya Vig,104,46,Male,Anand,Yes,At Large
+83,Sana Chatterjee,398,56,Male,Gandhinagar,No,Under Surveillance
+84,Chirag Das,147,27,Other,Nandyal,Yes,Under Surveillance
+85,Nishith Samra,224,48,Female,Bokaro,Yes,At Large
+86,Tiya Rajagopal,69,24,Female,Thrissur,No,Arrested
+87,Shanaya Lal,399,34,Other,Ulhasnagar,Yes,Arrested
+88,Pihu Dayal,125,33,Other,Nanded,No,Arrested
+89,Uthkarsh Korpal,25,39,Other,Kolhapur,No,Under Surveillance
+90,Darshit Kala,469,36,Other,Imphal,No,Under Surveillance
+91,Romil Dada,151,40,Male,Muzaffarnagar,No,Under Surveillance
+92,Yashvi Rau,27,41,Female,Bathinda,No,At Large
+93,Bhavin Bir,462,53,Male,Dharmavaram,No,Under Surveillance
+94,Jivin Cherian,386,33,Female,Katni,Yes,Arrested
+95,Vaibhav Bumb,143,43,Female,Akola,Yes,At Large
+96,Purab Ben,345,46,Male,Howrah,Yes,Arrested
+97,Divit Sem,230,55,Male,Mango,Yes,Arrested
+98,Adira Wagle,146,24,Female,Coimbatore,Yes,Arrested
+99,Devansh Loyal,481,30,Other,Jodhpur,No,Under Surveillance
+100,Jayesh Sharaf,475,44,Other,Salem,Yes,Under Surveillance
+101,Anay Sama,104,43,Male,Rampur,No,At Large
+102,Stuvan Khatri,362,58,Other,Akola,No,Arrested
+103,Vivaan Divan,490,44,Male,Hospet,Yes,Arrested
+104,Emir Bala,185,55,Female,Aurangabad,No,Under Surveillance
+105,Romil Subramaniam,313,47,Male,Dhanbad,Yes,Under Surveillance
+106,Kashvi Vohra,438,47,Female,Thoothukudi,No,At Large
+107,Rasha Kalla,40,48,Male,Mysore,Yes,Under Surveillance
+108,Romil Suri,72,49,Female,Karawal Nagar,No,Arrested
+109,Dhanuk Sodhi,305,22,Female,Haldia,No,At Large
+110,Neelofar Balasubramanian,482,44,Male,Orai,No,At Large
+111,Romil Seth,317,60,Other,Jamshedpur,No,Under Surveillance
+112,Tiya Shetty,378,32,Female,Danapur,No,At Large
+113,Purab Ravel,373,25,Female,Agra,No,Under Surveillance
+114,Vihaan Dua,350,26,Female,Kharagpur,Yes,At Large
+115,Miraan Sangha,358,28,Female,Durgapur,Yes,Under Surveillance
+116,Zain Sankaran,232,26,Female,Kavali,No,At Large
+117,Nishith Wadhwa,141,33,Female,Ratlam,Yes,Under Surveillance
+118,Indrans Rege,334,47,Male,Tadepalligudem,No,At Large
+119,Samaira Hayer,235,26,Male,Katihar,No,At Large
+120,Alia Dani,21,46,Female,Satara,No,At Large
+121,Tejas Venkataraman,66,59,Male,Warangal,No,Arrested
+122,Saira Chada,437,47,Other,Belgaum,Yes,At Large
+123,Aaina Ravel,434,24,Other,Mahbubnagar,No,Arrested
+124,Yuvaan Saran,258,23,Female,Sasaram,No,Under Surveillance
+125,Dhanush Anne,51,43,Male,Raiganj,Yes,Arrested
+126,Raghav Bala,292,41,Female,Nellore,Yes,Arrested
+127,Mahika Saini,441,28,Female,Shimla,No,Under Surveillance
+128,Pranay Bahl,478,59,Male,Ambala,No,Arrested
+129,Nitara Shan,102,22,Female,Jalna,No,Under Surveillance
+130,Nishith Chad,374,56,Male,Shimoga,Yes,At Large
+131,Eva Hora,39,39,Other,Eluru,Yes,Arrested
+132,Khushi Lad,73,37,Other,Guntur,Yes,Arrested
+133,Trisha Lala,8,36,Female,Singrauli,No,Under Surveillance
+134,Jiya Divan,365,56,Male,Guntur,No,At Large
+135,Kaira Chadha,366,32,Male,Bhimavaram,Yes,Under Surveillance
+136,Zeeshan Kakar,163,20,Female,Tenali,Yes,Arrested
+137,Suhana Shroff,9,55,Female,Alappuzha,No,Under Surveillance
+138,Dharmajan Batta,336,31,Other,Thanjavur,Yes,Under Surveillance
+139,Dhruv Lanka,182,22,Male,Sirsa,No,Under Surveillance
+140,Alisha Bhatnagar,283,35,Other,Gopalpur,No,Under Surveillance
+141,Rania Chowdhury,331,25,Other,South Dumdum,No,At Large
+142,Pihu Krishna,185,55,Other,Amravati,No,Under Surveillance
+143,Aniruddh Soni,35,22,Female,Phusro,No,Arrested
+144,Khushi Halder,302,22,Other,Haldia,No,At Large
+145,Tanya Deshmukh,69,58,Other,Pudukkottai,No,Under Surveillance
+146,Reyansh Sachdev,193,20,Other,Narasaraopet,No,Under Surveillance
+147,Seher Mallick,476,49,Male,Phagwara,Yes,Under Surveillance
+148,Vidur Cheema,457,44,Male,Katihar,Yes,At Large
+149,Keya Suresh,273,38,Female,Bilaspur,No,Under Surveillance
+150,Azad Vala,230,50,Other,Dhule,Yes,Under Surveillance
+151,Vaibhav Chahal,154,18,Other,Sambhal,Yes,Arrested
+152,Riya Shroff,311,44,Other,Kishanganj,Yes,Arrested
+153,Piya Goyal,453,28,Male,Loni,Yes,Arrested
+154,Umang Doctor,68,30,Male,Hosur,Yes,Under Surveillance
+155,Aayush Shukla,156,32,Other,Sonipat,Yes,At Large
+156,Zoya Zachariah,181,49,Male,Kadapa,No,Arrested
+157,Baiju Shankar,159,26,Other,Eluru,No,Under Surveillance
+158,Riya Borra,321,53,Female,Serampore,Yes,Under Surveillance
+159,Khushi Kalla,197,44,Male,Hospet,Yes,Under Surveillance
+160,Yasmin Shanker,233,32,Male,Singrauli,No,At Large
+161,Kimaya Tripathi,40,34,Other,Bhilwara,Yes,Under Surveillance
+162,Shalv Bakshi,499,20,Female,Muzaffarnagar,Yes,Under Surveillance
+163,Aarav Sura,406,47,Female,Ludhiana,Yes,Arrested
+164,Ivan Raja,273,41,Other,Gurgaon,No,Arrested
+165,Divij Bhatti,288,36,Male,Ahmedabad,No,At Large
+166,Zoya Sangha,310,58,Female,Erode,No,At Large
+167,Shamik Lal,271,55,Other,Tenali,No,Under Surveillance
+168,Shlok Gola,498,47,Female,Vasai-Virar,Yes,Under Surveillance
+169,Pari Madan,473,39,Male,Bongaigaon,Yes,Arrested
+170,Saanvi Gandhi,238,35,Other,Karaikudi,No,Under Surveillance
+171,Faiyaz Dixit,485,26,Female,Sambalpur,No,At Large
+172,Jayan Varma,18,29,Female,Patiala,Yes,Arrested
+173,Kashvi Kara,204,22,Other,Parbhani,Yes,At Large
+174,Ivana Date,325,48,Female,Bareilly,No,Arrested
+175,Priyansh Dhaliwal,346,31,Female,Jamalpur,No,At Large
+176,Miraan Bobal,163,45,Other,Hospet,Yes,At Large
+177,Yashvi Sandhu,404,54,Female,Ajmer,No,Under Surveillance
+178,Yakshit Bora,347,21,Female,Katni,No,Under Surveillance
+179,Advik Dhar,260,44,Other,Vijayawada,No,Under Surveillance
+180,Vritika Lad,382,28,Male,Ratlam,Yes,Under Surveillance
+181,Siya Kumer,275,60,Other,Bhalswa Jahangir Pur,Yes,At Large
+182,Mohanlal Badami,192,53,Male,Surat,No,Arrested
+183,Kiaan Chakraborty,446,31,Male,North Dumdum,Yes,Under Surveillance
+184,Ritvik Dutta,28,38,Male,Bijapur,Yes,Under Surveillance
+185,Aradhya Jani,201,50,Male,Kanpur,Yes,Under Surveillance
+186,Adah Krish,364,44,Female,Bilaspur,Yes,At Large
+187,Amani Bal,195,38,Other,Phagwara,No,Arrested
+188,Ishita Bhavsar,484,53,Female,Sonipat,Yes,At Large
+189,Jiya Grover,161,32,Other,Nanded,Yes,Under Surveillance
+190,Ishita Chana,98,45,Female,Durgapur,No,At Large
+191,Nitara Kurian,136,27,Male,Rajkot,No,At Large
+192,Aayush Agarwal,196,58,Female,Udaipur,No,At Large
+193,Aaina Brahmbhatt,297,41,Other,Sagar,No,Arrested
+194,Ritvik Sandal,36,19,Male,Sangli-Miraj & Kupwad,Yes,Under Surveillance
+195,Yuvraj  Lall,377,40,Male,Maheshtala,Yes,At Large
+196,Gokul Roy,124,37,Female,Tirunelveli,Yes,Under Surveillance
+197,Pihu Kalla,280,53,Male,Pali,Yes,Under Surveillance
+198,Umang Mallick,127,39,Male,Tirunelveli,No,At Large
+199,Shalv Gupta,276,46,Male,Sonipat,No,Arrested
+200,Jivin Lalla,446,28,Male,Vellore,No,At Large
+201,Keya Raj,434,42,Other,Bhimavaram,No,Under Surveillance
+202,Shaan Handa,25,46,Female,Eluru,No,At Large
+203,Mohanlal Setty,248,45,Other,Dhanbad,Yes,Arrested
+204,Amira Tandon,112,44,Female,Ratlam,No,Arrested
+205,Trisha Ramesh,447,58,Male,Phagwara,Yes,Arrested
+206,Jiya Gera,430,55,Female,Medininagar,Yes,Arrested
+207,Ela Dave,108,41,Female,Kurnool,No,At Large
+208,Lagan Sagar,9,19,Other,Maheshtala,Yes,At Large
+209,Tanya Baria,397,51,Other,Pimpri-Chinchwad,Yes,Arrested
+210,Dishani Mahal,410,46,Other,Kamarhati,Yes,Arrested
+211,Neelofar Sule,157,47,Female,Durg,No,Arrested
+212,Jhanvi Contractor,217,28,Female,Mumbai,No,At Large
+213,Vedika Sampath,297,29,Female,Raebareli,Yes,At Large
+214,Veer Varughese,408,28,Other,Agra,No,Arrested
+215,Anika Ganguly,106,26,Female,Patiala,No,At Large
+216,Kashvi Jain,461,28,Female,Ozhukarai,Yes,Arrested
+217,Farhan Chanda,296,28,Female,Bhilwara,Yes,Under Surveillance
+218,Ahana  Bora,438,25,Female,Faridabad,No,Under Surveillance
+219,Trisha Dubey,100,56,Other,Patna,No,Under Surveillance
+220,Vidur Tank,109,42,Male,Purnia,Yes,At Large
+221,Vanya Thaman,495,25,Other,Katihar,Yes,At Large
+222,Misha Bali,142,30,Male,Coimbatore,Yes,Arrested
+223,Reyansh Madan,163,52,Male,Raiganj,Yes,Under Surveillance
+224,Raghav Subramaniam,436,21,Other,Sambalpur,No,Under Surveillance
+225,Armaan Bhatia,457,58,Other,Hajipur,Yes,Under Surveillance
+226,Ryan Wagle,89,42,Male,Patiala,Yes,Arrested
+227,Sumer Divan,288,19,Male,Kishanganj,Yes,Arrested
+228,Rohan Dhar,491,51,Female,Ratlam,Yes,Under Surveillance
+229,Hridaan Bir,239,49,Female,Surat,No,At Large
+230,Dharmajan Bedi,228,26,Female,Burhanpur,Yes,At Large
+231,Anika Butala,220,35,Other,Danapur,No,Arrested
+232,Samar Kashyap,347,20,Other,Ambala,No,Arrested
+233,Prisha Gopal,366,48,Male,Bhimavaram,Yes,At Large
+234,Samiha Kant,111,48,Male,Thoothukudi,No,Under Surveillance
+235,Sana Grover,393,23,Other,Kamarhati,Yes,Under Surveillance
+236,Amani Chaudhari,222,48,Other,Chandrapur,No,Arrested
+237,Adira Kari,471,52,Female,Bilaspur,No,Arrested
+238,Emir Suresh,134,49,Other,Mango,No,Arrested
+239,Eshani Sura,384,57,Other,Mango,No,Under Surveillance
+240,Samar Dube,342,58,Female,Amroha,Yes,At Large
+241,Ryan Lad,408,51,Female,Varanasi,No,Under Surveillance
+242,Rhea Raman,158,21,Female,Tiruvottiyur,Yes,At Large
+243,Advika Jain,257,59,Female,Gangtok,No,Arrested
+244,Rasha Yohannan,496,46,Other,Varanasi,No,Under Surveillance
+245,Navya Yogi,284,41,Other,Dhanbad,No,Under Surveillance
+246,Hunar Brar,271,54,Female,Srikakulam,Yes,Under Surveillance
+247,Jivika Bhardwaj,143,49,Female,Tadepalligudem,No,Under Surveillance
+248,Jayan Ram,31,46,Female,Arrah,No,At Large
+249,Rania Dhar,239,39,Male,Vijayanagaram,Yes,At Large
+250,Armaan Balay,39,48,Male,Burhanpur,Yes,At Large
+251,Zain Gole,472,42,Female,Jalgaon,No,Under Surveillance
+252,Keya Rout,320,39,Male,Jalandhar,No,At Large
+253,Raghav Sachdev,251,49,Other,Bhalswa Jahangir Pur,No,Arrested
+254,Nehmat Manne,136,49,Other,Aurangabad,No,Arrested
+255,Ira Jha,377,30,Male,Gopalpur,No,Under Surveillance
+256,Raunak Gera,458,50,Other,Mysore,Yes,At Large
+257,Aarush Samra,64,38,Other,Aizawl,Yes,At Large
+258,Saksham Dasgupta,250,38,Female,Naihati,No,Arrested
+259,Taimur Bhatnagar,304,43,Female,Vadodara,Yes,Arrested
+260,Anay Ahluwalia,165,21,Female,Kochi,No,At Large
+261,Lakshay Tara,193,41,Other,Nagpur,No,At Large
+262,Vivaan Wadhwa,16,46,Other,Dehradun,No,Arrested
+263,Faiyaz Zachariah,91,21,Other,Kolkata,No,Under Surveillance
+264,Eshani Singh,159,31,Other,Dindigul,Yes,At Large
+265,Amani Talwar,428,50,Male,Sultan Pur Majra,Yes,Arrested
+266,Kiara Ben,211,52,Male,Guwahati,No,Under Surveillance
+267,Samiha Ratta,107,19,Male,Salem,No,Arrested
+268,Nitya Mann,451,45,Female,Chennai,Yes,Under Surveillance
+269,Alia Agrawal,434,25,Other,Ghaziabad,No,Under Surveillance
+270,Saanvi Saini,192,27,Other,Dhule,Yes,At Large
+271,Farhan Dass,128,57,Female,Singrauli,No,Under Surveillance
+272,Khushi Dewan,75,45,Other,Narasaraopet,No,At Large
+273,Gokul Sridhar,67,50,Female,Jabalpur,Yes,Arrested
+274,Yasmin Bobal,148,22,Female,Ramgarh,Yes,At Large
+275,Adira Sagar,113,42,Other,Bihar Sharif,No,Arrested
+276,Anahi Rajagopal,418,47,Female,Arrah,No,At Large
+277,Advik Salvi,204,48,Male,Malda,No,Arrested
+278,Anika Cherian,455,53,Other,Bharatpur,Yes,Under Surveillance
+279,Yashvi Bajaj,383,55,Male,Imphal,No,At Large
+280,Samaira Walla,306,39,Male,Raipur,Yes,Arrested
+281,Madhav Lala,59,35,Male,Hospet,Yes,Arrested
+282,Taimur Deep,375,21,Female,Danapur,No,At Large
+283,Gatik Mand,384,40,Female,Katihar,No,At Large
+284,Divit Varkey,435,20,Male,Jodhpur,Yes,Arrested
+285,Anay Rao,13,42,Other,Srikakulam,Yes,At Large
+286,Onkar Wali,170,29,Male,Baranagar,Yes,Arrested
+287,Sahil Handa,458,46,Other,Kamarhati,Yes,At Large
+288,Saksham Sami,453,33,Female,Cuttack,Yes,Under Surveillance
+289,Akarsh Soni,246,38,Other,Kishanganj,Yes,Under Surveillance
+290,Lavanya D’Alia,262,30,Female,Mahbubnagar,No,At Large
+291,Jayesh Dar,415,46,Female,Malegaon,Yes,At Large
+292,Misha Srinivas,446,24,Male,Hospet,Yes,At Large
+293,Vardaniya Salvi,166,39,Male,Yamunanagar,Yes,Under Surveillance
+294,Kaira Sidhu,366,19,Female,Sambalpur,No,At Large
+295,Nitya Raman,217,45,Other,Sagar,No,Arrested
+296,Ahana  Goswami,489,53,Other,Surendranagar Dudhrej,No,Arrested
+297,Lagan Sur,50,26,Female,Gudivada,Yes,At Large
+298,Indrajit Chad,39,51,Female,Ahmedabad,No,Arrested
+299,Mannat Lata,159,23,Other,Ambala,No,At Large
+300,Kaira Dugar,493,26,Female,Kurnool,No,Arrested
+301,Vedika Jha,219,59,Male,Bidhannagar,No,Under Surveillance
+302,Zara Konda,205,54,Other,Loni,No,Under Surveillance
+303,Fateh Bansal,376,43,Female,Motihari,No,At Large
+304,Veer Dhar,32,28,Female,Katni,Yes,Under Surveillance
+305,Bhamini Maharaj,350,21,Female,Dehri,No,Arrested
+306,Farhan Dube,115,44,Other,Naihati,No,Arrested
+307,Amani Banerjee,421,46,Other,Dehradun,No,At Large
+308,Tiya Dhaliwal,161,25,Other,Davanagere,Yes,Arrested
+309,Tarini Divan,477,52,Female,Rohtak,Yes,Arrested
+310,Mamooty Deshpande,354,42,Female,Sangli-Miraj & Kupwad,No,Under Surveillance
+311,Ayesha Khalsa,258,25,Other,Jorhat,Yes,Arrested
+312,Kabir Divan,41,31,Female,Ambarnath,No,Arrested
+313,Aarush Bhardwaj,62,34,Female,Khammam,Yes,At Large
+314,Lavanya Varkey,294,56,Other,Amroha,Yes,Under Surveillance
+315,Nakul Sani,112,29,Female,Dewas,No,Arrested
+316,Anvi Swaminathan,222,23,Female,Unnao,Yes,At Large
+317,Akarsh Ratti,60,30,Male,Kanpur,No,Arrested
+318,Sumer Lad,243,37,Male,Rajahmundry,No,Under Surveillance
+319,Taimur Banik,162,49,Male,Hapur,Yes,Under Surveillance
+320,Ojas Raja,23,21,Other,Bhagalpur,No,Under Surveillance
+321,Zeeshan Raval,357,25,Other,Mira-Bhayandar,Yes,Under Surveillance
+322,Ahana  Sha,246,24,Male,Raichur,No,Arrested
+323,Samiha Walla,198,37,Other,Guna,Yes,Arrested
+324,Rhea Dhingra,163,41,Other,Durg,Yes,Under Surveillance
+325,Farhan Dey,249,54,Female,Orai,Yes,Arrested
+326,Arhaan Gala,480,23,Female,Bhagalpur,No,Under Surveillance
+327,Dhanuk Kothari,394,49,Female,Indore,No,Arrested
+328,Nehmat Kale,181,51,Other,Kolhapur,Yes,Under Surveillance
+329,Aarav Jha,396,54,Male,Kalyan-Dombivli,Yes,Arrested
+330,Divij Chopra,195,39,Male,Tiruchirappalli,Yes,Arrested
+331,Shalv Chowdhury,66,56,Female,Jamalpur,No,Arrested
+332,Kashvi Bassi,96,35,Other,Bijapur,Yes,Under Surveillance
+333,Adira Bora,436,45,Other,Amaravati,Yes,Arrested
+334,Romil Kata,428,50,Female,Shimla,Yes,At Large
+335,Prerak Sankar,69,31,Female,Morbi,No,At Large
+336,Krish Agarwal,333,43,Male,Nadiad,No,Under Surveillance
+337,Indrans Joshi,480,50,Other,Morbi,Yes,At Large
+338,Neelofar Dani,164,18,Other,Sultan Pur Majra,Yes,Under Surveillance
+339,Yasmin Chopra,415,34,Male,Amaravati,No,Arrested
+340,Anya Tank,338,59,Female,Ongole,Yes,Arrested
+341,Jhanvi Malhotra,52,28,Female,Tadipatri,Yes,Arrested
+342,Anya Dey,2,20,Other,Guntakal,No,Arrested
+343,Indranil Barman,423,32,Female,Bardhaman,No,Arrested
+344,Anvi Sunder,310,34,Male,Avadi,No,At Large
+345,Romil Bhagat,448,60,Other,South Dumdum,Yes,Under Surveillance
+346,Jivin Shroff,260,53,Male,Proddatur,Yes,Arrested
+347,Ayesha Bhatt,441,45,Male,Nagaon,Yes,Under Surveillance
+348,Nirvaan Wadhwa,401,48,Other,Junagadh,Yes,Under Surveillance
+349,Nitara Bail,158,41,Male,Haridwar,Yes,At Large
+350,Ojas Agrawal,352,27,Male,Vadodara,No,At Large
+351,Mishti Wali,343,20,Other,Gaya,No,Arrested
+352,Sumer Barad,271,37,Male,Jalna,Yes,Under Surveillance
+353,Saira Sachar,39,22,Male,Bhopal,No,Under Surveillance
+354,Vivaan Bhat,467,33,Other,Nashik,No,Under Surveillance
+355,Zoya Vohra,365,32,Female,Bhavnagar,Yes,At Large
+356,Prerak Majumdar,360,31,Other,Coimbatore,No,Under Surveillance
+357,Damini Bahl,230,18,Other,Nagaon,No,Under Surveillance
+358,Raghav Bhargava,213,52,Other,Hubli–Dharwad,Yes,Under Surveillance
+359,Neysa Suri,364,49,Female,Ghaziabad,Yes,Arrested
+360,Reyansh Gade,187,25,Other,Kumbakonam,No,Under Surveillance
+361,Kismat Kar,63,34,Male,Dibrugarh,Yes,Under Surveillance
+362,Alisha Thaman,340,34,Female,Mumbai,Yes,Arrested
+363,Emir Buch,486,44,Other,Rewa,Yes,Under Surveillance
+364,Keya Brahmbhatt,482,22,Other,Ludhiana,Yes,Under Surveillance
+365,Nitara Sehgal,324,51,Other,Tirunelveli,No,Arrested
+366,Navya Handa,247,40,Other,Hapur,No,Arrested
+367,Mohanlal Dubey,245,33,Other,Patiala,No,Under Surveillance
+368,Tushar Cherian,226,31,Male,Jalgaon,Yes,Under Surveillance
+369,Hunar Lalla,488,60,Female,Bhiwani,Yes,Arrested
+370,Nakul Contractor,141,60,Other,Jamshedpur,Yes,At Large
+371,Diya Mangat,87,59,Other,Bhalswa Jahangir Pur,Yes,At Large
+372,Samaira Bakshi,281,23,Female,Gulbarga,No,At Large
+373,Yashvi Bala,318,37,Other,Rampur,Yes,Arrested
+374,Yuvaan Choudhry,85,25,Female,Satara,No,At Large
+375,Ishaan Yadav,138,31,Female,Faridabad,No,At Large
+376,Jiya Mall,310,26,Male,Mangalore,No,Arrested
+377,Jivin Dada,217,43,Female,Morbi,Yes,Arrested
+378,Anaya Kumer,265,51,Other,Coimbatore,No,Arrested
+379,Neysa Loke,128,19,Male,Secunderabad,Yes,Arrested
+380,Kabir Mani,383,52,Male,Mangalore,Yes,Arrested
+381,Biju Apte,152,29,Other,Yamunanagar,No,Under Surveillance
+382,Uthkarsh Viswanathan,475,58,Other,Lucknow,No,Under Surveillance
+383,Vritika Venkatesh,292,53,Other,Mysore,Yes,At Large
+384,Keya Kashyap,490,31,Male,Chittoor,No,Arrested
+385,Vedika Dass,47,23,Male,Bhavnagar,Yes,Under Surveillance
+386,Saksham Mahal,54,60,Male,Suryapet,No,Under Surveillance
+387,Neysa Dixit,296,60,Male,Durg,Yes,Arrested
+388,Pihu Bhalla,489,39,Female,Jalna,Yes,Under Surveillance
+389,Dhanush Chandran,113,25,Other,Ichalkaranji,No,At Large
+390,Damini Bhargava,74,38,Male,Vijayawada,Yes,Arrested
+391,Baiju Dhillon,356,24,Other,Thiruvananthapuram,No,Arrested
+392,Stuvan Varghese,492,18,Male,Amravati,Yes,At Large
+393,Zara Varghese,271,39,Female,Deoghar,Yes,At Large
+394,Zara Cheema,480,50,Male,Hubli–Dharwad,Yes,Arrested
+395,Lakshay Sani,314,57,Male,Jehanabad,No,At Large
+396,Jayant Gill,52,60,Male,Kozhikode,Yes,At Large
+397,Elakshi Biswas,90,50,Male,Morbi,No,Arrested
+398,Arhaan Mall,173,44,Female,Eluru,Yes,Arrested
+399,Hiran Chawla,307,33,Other,Miryalaguda,Yes,At Large
+400,Prerak Dave,210,27,Female,Pali,Yes,Under Surveillance
+401,Manikya Das,427,60,Male,Jehanabad,No,At Large
+402,Indranil Vora,175,33,Other,Bahraich,No,Arrested
+403,Raunak Mannan,124,43,Female,Bareilly,Yes,At Large
+404,Manjari Raval,209,19,Male,Vijayawada,No,Arrested
+405,Purab Dara,422,35,Female,Katihar,Yes,Arrested
+406,Elakshi Dhillon,134,36,Other,Kolkata,No,Arrested
+407,Arhaan Mahajan,484,37,Other,Tumkur,No,At Large
+408,Zaina Bedi,374,18,Female,Bokaro,Yes,At Large
+409,Parinaaz D’Alia,441,21,Other,Chittoor,No,At Large
+410,Tara Dewan,466,52,Female,Kota,No,Under Surveillance
+411,Myra Suresh,214,49,Other,Ranchi,No,At Large
+412,Aaina Sule,275,52,Male,Panihati,No,At Large
+413,Adah Khosla,203,52,Female,Tumkur,Yes,Under Surveillance
+414,Anya Bali,436,42,Female,Coimbatore,Yes,Arrested
+415,Farhan Sant,470,45,Other,Pimpri-Chinchwad,No,At Large
+416,Lagan Mall,100,27,Other,Kanpur,No,Under Surveillance
+417,Kismat Lall,107,35,Male,Cuttack,Yes,Arrested
+418,Vedika Chacko,450,60,Female,Amritsar,Yes,Under Surveillance
+419,Shalv Raj,492,46,Other,Ambala,No,Under Surveillance
+420,Divij Ghosh,420,39,Other,Bhimavaram,Yes,Arrested
+421,Renee Swamy,14,47,Other,Arrah,Yes,Under Surveillance
+422,Anya Wali,334,27,Female,Amritsar,No,Arrested
+423,Krish Bal,200,59,Female,Alwar,No,Under Surveillance
+424,Ira Salvi,370,54,Female,Ratlam,No,Arrested
+425,Shalv Tiwari,249,27,Female,Tiruppur,No,At Large
+426,Charvi Datta,39,29,Male,Tiruvottiyur,No,Arrested
+427,Eshani Sura,333,19,Other,Nanded,Yes,At Large
+428,Sumer Sridhar,358,49,Male,Hubli–Dharwad,No,At Large
+429,Ishita Contractor,212,59,Other,Durg,No,Under Surveillance
+430,Ahana  Rama,452,53,Other,Berhampur,No,Under Surveillance
+431,Vivaan Acharya,376,19,Other,Parbhani,Yes,At Large
+432,Raghav Rana,14,21,Female,Aligarh,No,At Large
+433,Kabir Yogi,494,53,Male,Sirsa,Yes,Arrested
+434,Vanya Kashyap,169,39,Male,Vellore,No,At Large
+435,Badal Hayer,198,38,Other,Sikar,No,Under Surveillance
+436,Shray Kala,451,46,Other,Ambattur,Yes,At Large
+437,Abram Baria,353,34,Male,Jamshedpur,Yes,At Large
+438,Vaibhav Shukla,463,35,Female,Rajpur Sonarpur,Yes,Under Surveillance
+439,Madhup Hari,197,54,Other,Karimnagar,No,Under Surveillance
+440,Neelofar Mannan,414,27,Male,Bally,No,Under Surveillance
+441,Samarth Maharaj,227,27,Male,Katni,Yes,At Large
+442,Myra Grewal,189,59,Other,Junagadh,Yes,At Large
+443,Kimaya Din,335,44,Male,Kozhikode,No,Arrested
+444,Shamik Bali,370,56,Male,Hospet,Yes,Arrested
+445,Hunar Gandhi,402,46,Female,Bilaspur,No,At Large
+446,Miraan Thakkar,140,57,Other,Unnao,Yes,Under Surveillance
+447,Ojas Sane,219,28,Other,Jalna,Yes,Arrested
+448,Nehmat Dash,460,41,Female,Surat,No,At Large
+449,Ritvik Loke,180,54,Female,Udupi,No,Under Surveillance
+450,Piya Tak,343,39,Male,Parbhani,No,Under Surveillance
+451,Abram Chadha,391,59,Male,Rampur,Yes,Arrested
+452,Adah Rout,385,37,Male,Malegaon,Yes,Arrested
+453,Vanya Dey,179,21,Male,Chandigarh,No,Under Surveillance
+454,Hunar Wali,267,33,Other,Delhi,Yes,Arrested
+455,Shayak Dani,120,52,Male,New Delhi,Yes,Arrested
+456,Mahika Bahl,310,51,Other,Bongaigaon,No,Under Surveillance
+457,Nishith Thakkar,469,44,Female,Coimbatore,No,Arrested
+458,Miraya Sheth,263,50,Male,North Dumdum,No,Arrested
+459,Myra Contractor,149,42,Other,Kadapa,No,Under Surveillance
+460,Jivika Mani,392,33,Female,Jammu,No,At Large
+461,Oorja Chad,52,57,Female,Patiala,No,Under Surveillance
+462,Yasmin Uppal,83,52,Female,Kharagpur,No,Under Surveillance
+463,Riya Sant,300,36,Other,Amravati,Yes,At Large
+464,Zaina Comar,321,39,Female,Burhanpur,Yes,Under Surveillance
+465,Zara Tailor,67,43,Other,Buxar,No,Under Surveillance
+466,Rania Rattan,359,53,Female,Guwahati,No,Arrested
+467,Miraan Sundaram,131,50,Other,Ranchi,Yes,Arrested
+468,Biju Dada,20,53,Female,Hindupur,No,Under Surveillance
+469,Aarush Contractor,273,35,Other,Tirupati,Yes,Arrested
+470,Renee Hegde,254,21,Male,Hapur,Yes,Arrested
+471,Ritvik Anand,230,40,Other,Thanjavur,No,Arrested
+472,Raghav Ramanathan,138,21,Female,Satara,No,Under Surveillance
+473,Trisha Vohra,270,46,Female,Ghaziabad,Yes,Under Surveillance
+474,Navya Dhingra,122,39,Male,Jehanabad,No,At Large
+475,Tanya Goyal,396,48,Male,Chandrapur,No,At Large
+476,Raghav Raju,248,49,Female,Guntakal,No,Arrested
+477,Taran Amble,138,20,Female,Hajipur,Yes,Under Surveillance
+478,Sara Rama,155,50,Female,Tinsukia,No,Arrested
+479,Ayesha Bedi,493,36,Female,Bokaro,No,Arrested
+480,Vanya Desai,350,58,Male,Haldia,No,At Large
+481,Kartik Raval,277,39,Female,Ghaziabad,No,Under Surveillance
+482,Aaryahi Bawa,324,56,Other,Tiruppur,Yes,Under Surveillance
+483,Shanaya Swaminathan,436,51,Other,Jamalpur,Yes,Under Surveillance
+484,Kavya Lad,368,34,Female,Chennai,No,Arrested
+485,Jivin Sehgal,410,52,Male,Surendranagar Dudhrej,Yes,At Large
+486,Tejas Sethi,254,31,Female,Nandyal,No,At Large
+487,Nishith Chand,314,47,Other,Sasaram,Yes,At Large
+488,Zaina Sankar,103,49,Other,Thoothukudi,Yes,Under Surveillance
+489,Biju Dubey,298,29,Other,Ranchi,No,Under Surveillance
+490,Aniruddh Jaggi,375,30,Other,Medininagar,Yes,Under Surveillance
+491,Suhana Chandran,229,34,Other,Dhule,No,Under Surveillance
+492,Vivaan Devan,144,22,Male,North Dumdum,No,Arrested
+493,Anay Deo,422,56,Other,Jalgaon,Yes,Under Surveillance
+494,Purab Bajwa,355,27,Male,Chandrapur,Yes,Arrested
+495,Taran Khare,40,40,Other,Jalgaon,No,Arrested
+496,Tiya Rajagopal,340,55,Male,Madanapalle,No,Under Surveillance
+497,Vardaniya Kale,282,55,Female,Kalyan-Dombivli,Yes,At Large
+498,Umang Chaudhari,350,60,Male,Unnao,Yes,At Large
+499,Mohanlal Wali,312,37,Male,Durgapur,Yes,Arrested
+500,Jiya Sankaran,45,44,Male,Nellore,Yes,At Large

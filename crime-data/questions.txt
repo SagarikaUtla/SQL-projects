@@ -1,0 +1,34 @@
+Basic:
+How many crimes were reported in each state?
+List the top 5 most frequent crime types.
+Find the number of officers working in each police station.
+Get the count of suspects by gender.
+What is the average age of suspects for each crime type?
+Find all crimes that were reported as 'Closed'.
+List all officers who have more than 20 years of service.
+Show total number of crimes reported each month.
+List all crime types along with their total count
+List all unique officer specializations
+
+
+
+Intermediate:
+Which police station has reported the highest number of 'Cybercrime' cases?
+Get the names of officers working in stations located in 'Delhi'.
+Show the total victim count by crime type.
+Find the average number of officers in stations established before 2000.
+List all crimes along with suspect names and their arrest status.
+Get the names of officers who specialize in 'Homicide' and are above 50 years of age.
+Find the top 5 most common crime types.
+Show the count of open cases per police station
+List all crimes that involved more than 3 victims and are still pending.
+
+
+
+Advanced:
+Find the top 3 police stations with the highest number of crimes reported.
+Identify the crime types that have the highest number of repeat offenders.
+Show the monthly trend of crimes over the last year.
+Find stations where more than 20% of crimes are still open.
+List suspects associated with more than one crime.
+Calculate the arrest rate (percentage) of suspects per crime type.

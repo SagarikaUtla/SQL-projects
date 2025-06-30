@@ -1,0 +1,501 @@
+station_id,name,location,contact_number,incharge_name,num_officers,established_year,jurisdiction_area
+1,Raiganj Police Station,Tamil Nadu,1562710165,Jayesh Gupta,51,2016,52 sq km
+2,Tiruppur Police Station,Delhi,+914516483335,Ryan Batra,18,1962,78 sq km
+3,Imphal Police Station,Tamil Nadu,+914343534595,Badal Balan,91,1976,61 sq km
+4,Khandwa Police Station,Bihar,7873299641,Aayush Sama,99,1953,79 sq km
+5,Sirsa Police Station,Bihar,02442227000,Aarav Sridhar,31,1969,77 sq km
+6,Alwar Police Station,Karnataka,5418239702,Ritvik Mahal,61,1981,70 sq km
+7,Warangal Police Station,Delhi,5026956756,Riaan Baral,65,2017,55 sq km
+8,Raichur Police Station,Karnataka,02645760738,Madhav Agate,58,1957,21 sq km
+9,Bhagalpur Police Station,Tamil Nadu,+911567985980,Hunar Mahal,78,2014,12 sq km
+10,Coimbatore Police Station,Gujarat,+917084886238,Vedika Hayre,77,1956,93 sq km
+11,Rajahmundry Police Station,Punjab,02276770627,Elakshi Zacharia,86,1965,17 sq km
+12,Hindupur Police Station,Punjab,3841567659,Riaan Madan,32,2013,7 sq km
+13,Bhagalpur Police Station,Punjab,+914161069085,Chirag Balay,41,1970,10 sq km
+14,Dindigul Police Station,Karnataka,+913218520317,Anaya Rout,15,1964,44 sq km
+15,Solapur Police Station,Punjab,+915468448802,Divyansh Bhatia,90,1972,25 sq km
+16,Gopalpur Police Station,Uttar Pradesh,+917611884528,Sumer Dixit,98,2011,45 sq km
+17,Munger Police Station,West Bengal,7617376789,Emir Setty,35,1968,100 sq km
+18,Eluru Police Station,Delhi,0396073359,Adah Issac,86,1990,60 sq km
+19,Bahraich Police Station,Gujarat,+916896132145,Uthkarsh Sant,25,1968,60 sq km
+20,Agra Police Station,Karnataka,4632383022,Lakshit Borah,86,2009,38 sq km
+21,Bhimavaram Police Station,Uttar Pradesh,9527353957,Madhav Chakrabarti,98,1995,100 sq km
+22,Jamshedpur Police Station,Rajasthan,8539389382,Ahana  Dugal,96,1992,53 sq km
+23,Surendranagar Dudhrej Police Station,Uttar Pradesh,+917963561727,Shayak Mand,65,1963,47 sq km
+24,Avadi Police Station,Bihar,+911034252135,Fateh Das,94,1975,98 sq km
+25,Barasat Police Station,Punjab,09572824877,Neelofar Srinivasan,59,1974,21 sq km
+26,Visakhapatnam Police Station,Bihar,+912332616279,Renee Chandran,26,1981,41 sq km
+27,Rourkela Police Station,Tamil Nadu,0998467987,Yashvi Gole,99,1972,33 sq km
+28,Haridwar Police Station,Maharashtra,08072123297,Manikya Lalla,47,2022,26 sq km
+29,Ludhiana Police Station,West Bengal,+914017476611,Charvi Mahal,49,1982,47 sq km
+30,Thanjavur Police Station,Rajasthan,+913429303753,Anika Kumer,97,1951,34 sq km
+31,Rourkela Police Station,West Bengal,+918816118490,Pari Lad,10,1977,10 sq km
+32,Ratlam Police Station,Uttar Pradesh,00407805405,Divit Shenoy,42,1954,29 sq km
+33,Kharagpur Police Station,Karnataka,05046602136,Kismat Babu,28,2013,88 sq km
+34,Solapur Police Station,Punjab,1593419425,Onkar Sachar,36,1968,71 sq km
+35,Barasat Police Station,Karnataka,+915576444252,Indrajit Yadav,95,1968,18 sq km
+36,Pune Police Station,Tamil Nadu,05565742986,Seher Balay,67,2011,44 sq km
+37,Bellary Police Station,Delhi,+910440579966,Kiaan Borah,100,1975,32 sq km
+38,Dehradun Police Station,Delhi,2069074334,Lavanya Anand,16,1981,73 sq km
+39,Hazaribagh Police Station,Maharashtra,+912069945859,Miraan Dass,81,1973,86 sq km
+40,Pali Police Station,Maharashtra,9031067923,Dhruv Brahmbhatt,28,1960,78 sq km
+41,Raebareli Police Station,Gujarat,+910757598094,Dhanush Chanda,54,1957,97 sq km
+42,Kirari Suleman Nagar Police Station,Tamil Nadu,09322235224,Hansh Johal,19,1957,95 sq km
+43,Silchar Police Station,Tamil Nadu,+916123019664,Saksham D’Alia,75,1996,90 sq km
+44,Nellore Police Station,Delhi,8377492014,Pihu Tandon,34,1983,80 sq km
+45,Allahabad Police Station,West Bengal,+917789637161,Tushar Sridhar,11,1951,12 sq km
+46,Saharsa Police Station,Karnataka,2092410346,Vardaniya Bal,12,1957,23 sq km
+47,Solapur Police Station,Uttar Pradesh,+918600403900,Nishith Gara,78,1997,7 sq km
+48,Parbhani Police Station,Gujarat,4855492815,Nakul Sheth,95,1959,54 sq km
+49,Sonipat Police Station,Punjab,8076155275,Miraya Mand,49,1976,78 sq km
+50,Munger Police Station,Delhi,5562461523,Darshit Dey,88,1996,5 sq km
+51,Ramagundam Police Station,Rajasthan,0657021189,Indrajit Datta,76,1977,99 sq km
+52,Jehanabad Police Station,Bihar,06680036470,Nayantara Jain,94,2010,58 sq km
+53,Mahbubnagar Police Station,Gujarat,2085292998,Piya Mane,18,1954,62 sq km
+54,Panipat Police Station,Bihar,+911190251011,Sana Kapoor,55,1996,18 sq km
+55,Asansol Police Station,Maharashtra,0268427735,Pranay Wali,31,1970,73 sq km
+56,Shimoga Police Station,Karnataka,05928565580,Aayush Sem,70,2019,25 sq km
+57,Secunderabad Police Station,Karnataka,8493888242,Trisha Vyas,33,1995,29 sq km
+58,Jhansi Police Station,Karnataka,02069010192,Zain Ghosh,32,2005,39 sq km
+59,Agartala Police Station,Uttar Pradesh,05197699597,Hiran Golla,81,1989,23 sq km
+60,Kavali Police Station,West Bengal,5049703996,Yakshit Sagar,33,1995,18 sq km
+61,Kishanganj Police Station,Uttar Pradesh,08423923066,Tanya Cheema,15,2015,38 sq km
+62,Dhanbad Police Station,Rajasthan,+910581180269,Arnav Dixit,45,1994,95 sq km
+63,Thane Police Station,West Bengal,06844626331,Ayesha Ahuja,41,1951,22 sq km
+64,Imphal Police Station,Maharashtra,09495414248,Ojas Khanna,36,1967,58 sq km
+65,Mau Police Station,Karnataka,00227707171,Anay Bhat,34,1999,97 sq km
+66,Madurai Police Station,Uttar Pradesh,00208825470,Saksham Rajagopalan,29,2013,41 sq km
+67,Visakhapatnam Police Station,West Bengal,+910006476468,Alia Lanka,96,1977,79 sq km
+68,Ghaziabad Police Station,West Bengal,1607274656,Anahi Bobal,13,1985,83 sq km
+69,Nandyal Police Station,Bihar,1121948378,Samarth Ramanathan,77,1952,28 sq km
+70,Kota Police Station,Gujarat,02361485837,Suhana Raval,63,1960,65 sq km
+71,Asansol Police Station,Bihar,1287459487,Aarav Cheema,83,2004,75 sq km
+72,Firozabad Police Station,Karnataka,4959014265,Sahil Uppal,88,1996,100 sq km
+73,Bhopal Police Station,Delhi,03144152184,Nirvaan Dass,98,1997,99 sq km
+74,Panihati Police Station,Delhi,05887158629,Vedika Kalita,65,1996,64 sq km
+75,Jorhat Police Station,Punjab,+915609893806,Raghav Hegde,94,1979,100 sq km
+76,Jalgaon Police Station,Rajasthan,04435429211,Fateh Butala,84,1950,50 sq km
+77,Rourkela Police Station,Rajasthan,00778238120,Ela Ramesh,66,2009,71 sq km
+78,Khora  Police Station,Gujarat,+912067595694,Chirag Mann,87,1972,62 sq km
+79,Madurai Police Station,Punjab,+917229571465,Khushi Rastogi,45,1991,32 sq km
+80,Dibrugarh Police Station,Gujarat,+917008022318,Bhamini Bedi,23,1958,32 sq km
+81,Phagwara Police Station,Punjab,+915030166442,Dhanuk Bhatt,64,1998,5 sq km
+82,Kottayam Police Station,Rajasthan,3643365897,Ira Bawa,61,1970,6 sq km
+83,Howrah Police Station,Bihar,8257596754,Alisha Sarkar,20,2011,55 sq km
+84,Junagadh Police Station,Gujarat,3201531201,Aayush Sabharwal,58,1987,54 sq km
+85,Amroha Police Station,Uttar Pradesh,01366262559,Kabir Apte,40,1951,92 sq km
+86,Panvel Police Station,Rajasthan,+919710629715,Eva Sankaran,24,1973,10 sq km
+87,Mangalore Police Station,West Bengal,9010582220,Ayesha Sinha,71,1957,82 sq km
+88,Rampur Police Station,Uttar Pradesh,7596119575,Adira Soni,16,2003,74 sq km
+89,Avadi Police Station,Delhi,+919961460094,Nirvaan Chad,100,1988,67 sq km
+90,Mathura Police Station,Bihar,05245389179,Himmat Dasgupta,31,2001,69 sq km
+91,Panihati Police Station,Tamil Nadu,8704778520,Piya Kadakia,43,2001,62 sq km
+92,Hapur Police Station,Rajasthan,4097336054,Aarush Thaker,69,1959,81 sq km
+93,Aizawl Police Station,Uttar Pradesh,6131924319,Aarush Mand,82,1960,9 sq km
+94,Belgaum Police Station,Gujarat,02404641853,Umang Kohli,62,1984,17 sq km
+95,Jaipur Police Station,Rajasthan,+917262637604,Riya Dubey,16,2000,12 sq km
+96,Bikaner Police Station,Uttar Pradesh,+918032928561,Jiya Chandran,40,1969,44 sq km
+97,Udupi Police Station,Delhi,02440228077,Manikya Kata,24,2014,99 sq km
+98,Akola Police Station,Uttar Pradesh,+911715563213,Hridaan Hegde,71,2011,29 sq km
+99,Kolkata Police Station,Bihar,+915911442138,Neelofar Buch,92,1979,5 sq km
+100,Agra Police Station,Gujarat,+915366074762,Rohan Balay,54,2010,40 sq km
+101,Bathinda Police Station,Uttar Pradesh,+913823476181,Misha Gola,65,2002,53 sq km
+102,Varanasi Police Station,Gujarat,1868240548,Mishti Som,92,1993,84 sq km
+103,Bhalswa Jahangir Pur Police Station,Karnataka,04202306868,Ivan Jayaraman,24,1992,92 sq km
+104,Mau Police Station,Maharashtra,05593707753,Inaaya  Gade,12,1959,42 sq km
+105,Jalna Police Station,Maharashtra,05352951063,Divij Devi,82,1978,50 sq km
+106,Deoghar Police Station,West Bengal,+916981307515,Ryan Acharya,58,1973,16 sq km
+107,Amaravati Police Station,Uttar Pradesh,9855706974,Taimur Borra,44,2004,88 sq km
+108,Jalna Police Station,Gujarat,03111330584,Jiya Master,31,1963,27 sq km
+109,Panihati Police Station,Rajasthan,9303572421,Vardaniya Swaminathan,94,2017,7 sq km
+110,North Dumdum Police Station,Delhi,01964054028,Jayan Johal,54,2017,25 sq km
+111,Kozhikode Police Station,Tamil Nadu,+915476530735,Miraan Krishnamurthy,73,2018,12 sq km
+112,Jalna Police Station,Tamil Nadu,+914228535349,Emir Madan,70,1967,18 sq km
+113,Jhansi Police Station,Delhi,02246499337,Ishita Aurora,73,2014,88 sq km
+114,Surendranagar Dudhrej Police Station,Tamil Nadu,1345702117,Anay Aurora,17,1999,35 sq km
+115,Malegaon Police Station,West Bengal,3658951513,Dhanush Vala,28,2019,5 sq km
+116,Gopalpur Police Station,Rajasthan,6091129147,Divit Apte,37,1982,37 sq km
+117,Yamunanagar Police Station,Punjab,09399865321,Sahil Das,38,2018,93 sq km
+118,Parbhani Police Station,Uttar Pradesh,+914105693566,Anay Badami,68,1997,50 sq km
+119,Rampur Police Station,Karnataka,+918014450190,Jayesh Rout,58,1988,43 sq km
+120,Dharmavaram Police Station,Rajasthan,08149959035,Vedika Kari,60,2001,47 sq km
+121,Berhampore Police Station,Rajasthan,3923244904,Zain Dada,92,1967,38 sq km
+122,Serampore Police Station,Bihar,00340338352,Heer Sarkar,27,1993,80 sq km
+123,Hosur Police Station,Gujarat,3409483557,Lakshay Chandran,62,1990,52 sq km
+124,Mau Police Station,Delhi,02360021342,Jayant Khatri,97,1993,68 sq km
+125,Anantapuram Police Station,Gujarat,07968641335,Aniruddh Gandhi,22,1967,79 sq km
+126,Purnia Police Station,Delhi,5013246826,Kashvi Comar,64,2011,24 sq km
+127,Anand Police Station,Tamil Nadu,07956099209,Hiran Ramakrishnan,73,1978,94 sq km
+128,Moradabad Police Station,Bihar,02181510704,Ira Kalita,57,2016,26 sq km
+129,Belgaum Police Station,Punjab,9033615476,Samiha Venkataraman,23,2019,44 sq km
+130,Jaunpur Police Station,Maharashtra,1085774900,Ryan Wason,75,1992,40 sq km
+131,Sasaram Police Station,Delhi,07039465282,Saksham Babu,36,1952,82 sq km
+132,Agartala Police Station,Gujarat,3393560346,Inaaya  Mangal,59,1955,18 sq km
+133,Panihati Police Station,Uttar Pradesh,+915230957137,Seher Mandal,43,2000,13 sq km
+134,Siwan Police Station,Uttar Pradesh,09149950965,Yuvaan Warrior,100,2001,32 sq km
+135,Dhanbad Police Station,Uttar Pradesh,+913787418805,Mehul Comar,19,1996,40 sq km
+136,Panipat Police Station,Uttar Pradesh,+919403707530,Charvi Bhattacharyya,43,2013,10 sq km
+137,Nagercoil Police Station,West Bengal,+913590589278,Jiya Krishnan,35,1999,14 sq km
+138,Rampur Police Station,Delhi,05329917120,Nirvaan Sarkar,55,1995,77 sq km
+139,Gangtok Police Station,Punjab,8597743852,Nakul Bajwa,32,1998,36 sq km
+140,Erode Police Station,Karnataka,03072360882,Armaan Kapoor,81,1953,6 sq km
+141,Avadi Police Station,Delhi,07527661886,Nitara Barman,11,2016,73 sq km
+142,Jamshedpur Police Station,Karnataka,04470626576,Shaan Tiwari,39,1995,6 sq km
+143,Vadodara Police Station,Bihar,+910838206605,Yashvi Barman,51,2008,57 sq km
+144,Saharsa Police Station,Gujarat,3222876561,Biju Dara,69,2002,98 sq km
+145,Varanasi Police Station,Bihar,03983333547,Riaan Setty,56,1982,35 sq km
+146,Maheshtala Police Station,Uttar Pradesh,9729817639,Rohan Kothari,63,1993,43 sq km
+147,Kishanganj Police Station,Karnataka,+910837913881,Purab Joshi,44,1967,61 sq km
+148,Anantapuram Police Station,Gujarat,00539618466,Oorja Sant,89,1989,96 sq km
+149,Asansol Police Station,Bihar,1602330652,Faiyaz Boase,61,1984,7 sq km
+150,Varanasi Police Station,Karnataka,06151876992,Taimur Sagar,24,1957,5 sq km
+151,Katni Police Station,Bihar,+910787437270,Mahika Kapadia,61,1994,86 sq km
+152,Aurangabad Police Station,Delhi,+916096710611,Chirag Golla,39,1996,91 sq km
+153,Guntakal Police Station,Gujarat,06366335123,Manjari Rajagopalan,99,2005,90 sq km
+154,Tenali Police Station,Karnataka,01625143847,Keya Master,62,1963,65 sq km
+155,Jalna Police Station,Rajasthan,2333888303,Aarush Lad,93,1989,99 sq km
+156,Darbhanga Police Station,West Bengal,1126079619,Anaya Buch,14,1965,13 sq km
+157,Hosur Police Station,Karnataka,+915483610282,Dharmajan Mandal,96,1986,54 sq km
+158,Srikakulam Police Station,Gujarat,8737492012,Chirag Batra,16,1963,70 sq km
+159,Latur Police Station,Delhi,+918512135782,Vidur Varkey,96,1967,89 sq km
+160,Purnia Police Station,Delhi,5849545613,Kismat Garde,72,1996,50 sq km
+161,Bhimavaram Police Station,Gujarat,3010545954,Kabir Kale,24,2022,45 sq km
+162,Miryalaguda Police Station,Tamil Nadu,07032953476,Mahika Yohannan,22,2006,94 sq km
+163,Ghaziabad Police Station,Maharashtra,8554922033,Tiya Shroff,40,2006,84 sq km
+164,Belgaum Police Station,Punjab,9122110505,Mannat Setty,45,1953,8 sq km
+165,Naihati Police Station,Maharashtra,2075643894,Kismat Khosla,89,1955,15 sq km
+166,Akola Police Station,Delhi,6973184584,Suhana Basu,99,2018,46 sq km
+167,Surat Police Station,Bihar,0097338934,Neelofar Babu,96,1999,61 sq km
+168,Secunderabad Police Station,Gujarat,+918212459322,Saanvi Brahmbhatt,78,2004,28 sq km
+169,Mau Police Station,Punjab,5690382217,Stuvan Datta,39,1967,72 sq km
+170,Sambalpur Police Station,Uttar Pradesh,04070103766,Nayantara Khalsa,12,2006,6 sq km
+171,Haldia Police Station,Punjab,00517982059,Kiaan Wali,86,1976,69 sq km
+172,Kurnool Police Station,Tamil Nadu,+917636152580,Neysa Majumdar,32,1954,24 sq km
+173,Jaipur Police Station,Maharashtra,8091278137,Shaan Sen,96,1988,97 sq km
+174,Belgaum Police Station,Maharashtra,09294714566,Nakul Swamy,61,1992,42 sq km
+175,Varanasi Police Station,Delhi,00241289399,Jiya Randhawa,95,2020,66 sq km
+176,Chapra Police Station,Rajasthan,+918195597550,Hazel Chawla,57,1960,99 sq km
+177,Kumbakonam Police Station,Punjab,+910055000656,Bhavin Sehgal,34,1969,61 sq km
+178,Gandhidham Police Station,Karnataka,+913682260621,Anya Bakshi,44,1971,97 sq km
+179,Hospet Police Station,Tamil Nadu,1126556115,Urvi Khatri,53,2010,11 sq km
+180,Noida Police Station,Gujarat,+910435951225,Hiran Sagar,18,2004,84 sq km
+181,Tirupati Police Station,Uttar Pradesh,04775788446,Nayantara Divan,69,1950,17 sq km
+182,Mahbubnagar Police Station,West Bengal,7368278579,Samiha Magar,100,1989,31 sq km
+183,Panihati Police Station,Rajasthan,04860884018,Ishita Kapur,25,1980,32 sq km
+184,Dehradun Police Station,Maharashtra,+917298677983,Rhea Mani,57,1974,71 sq km
+185,Morbi Police Station,Punjab,+914996621387,Vardaniya Thaker,84,1980,84 sq km
+186,Jammu Police Station,Delhi,08663656554,Himmat Dua,25,1993,35 sq km
+187,Durgapur Police Station,Uttar Pradesh,+918879032545,Mamooty Dyal,45,2009,34 sq km
+188,Ulhasnagar Police Station,Maharashtra,+914844972122,Sana Tella,78,1992,65 sq km
+189,Raebareli Police Station,Punjab,03147219121,Shalv Tiwari,73,1991,41 sq km
+190,Bellary Police Station,Rajasthan,+914963010540,Drishya Bose,55,2013,69 sq km
+191,Khammam Police Station,West Bengal,05463932748,Veer Majumdar,61,1952,23 sq km
+192,Motihari Police Station,Maharashtra,+914563407774,Hridaan Grewal,46,1978,48 sq km
+193,Surendranagar Dudhrej Police Station,Gujarat,3254473882,Divij Lad,40,1984,18 sq km
+194,Indore Police Station,Rajasthan,04914377243,Dharmajan Bobal,14,1954,71 sq km
+195,Dewas Police Station,Punjab,+910109350278,Miraya Bir,74,1998,88 sq km
+196,Khandwa Police Station,West Bengal,02218934152,Dishani Sandhu,85,2011,18 sq km
+197,Nellore Police Station,Uttar Pradesh,09448745960,Hrishita Ratta,74,1987,41 sq km
+198,Hajipur Police Station,Tamil Nadu,+915066415341,Advik Gole,14,1995,32 sq km
+199,Bhavnagar Police Station,Delhi,+918073216609,Stuvan Mallick,47,1960,50 sq km
+200,Akola Police Station,Karnataka,4834045659,Rohan Dani,43,1956,46 sq km
+201,Aurangabad Police Station,Bihar,+911136471770,Faiyaz Mallick,63,1952,37 sq km
+202,Sangli-Miraj & Kupwad Police Station,Gujarat,1717775681,Pari Gulati,72,2017,66 sq km
+203,Proddatur Police Station,Punjab,5428367262,Saksham Mane,42,1962,58 sq km
+204,Kulti Police Station,Bihar,1251669827,Rania Dhar,84,1974,50 sq km
+205,Anantapuram Police Station,Delhi,0548884659,Tarini Roy,21,2001,59 sq km
+206,Anand Police Station,West Bengal,+919301172452,Anaya Kamdar,10,1958,43 sq km
+207,Ujjain Police Station,Delhi,9142725579,Aarna Barman,18,2016,39 sq km
+208,Sambalpur Police Station,Gujarat,1548685189,Nehmat Raman,53,1985,72 sq km
+209,Delhi Police Station,Gujarat,+912051689397,Hunar Dube,17,1954,50 sq km
+210,Phusro Police Station,Rajasthan,1341636833,Dhruv Saran,88,1980,18 sq km
+211,Sasaram Police Station,Karnataka,04660630206,Mannat Kuruvilla,45,1994,56 sq km
+212,Ichalkaranji Police Station,Delhi,1412353257,Indrajit Sem,58,2012,80 sq km
+213,Salem Police Station,Delhi,+914660915197,Ivana Sridhar,34,1971,67 sq km
+214,Udaipur Police Station,Rajasthan,1276905365,Purab Ray,37,1957,40 sq km
+215,Solapur Police Station,Delhi,+915178098763,Tarini Singhal,20,1953,70 sq km
+216,Amravati Police Station,West Bengal,3672000897,Vaibhav Chowdhury,14,1994,72 sq km
+217,Muzaffarnagar Police Station,Maharashtra,00928255184,Raghav Goyal,22,1985,20 sq km
+218,Nandyal Police Station,West Bengal,+916672667779,Divit Korpal,20,1996,84 sq km
+219,Chapra Police Station,Gujarat,00830189053,Rhea Khatri,94,2021,18 sq km
+220,Chinsurah Police Station,Tamil Nadu,+918404006804,Hridaan Gola,16,2011,70 sq km
+221,Eluru Police Station,Uttar Pradesh,2571580213,Raghav Ravi,100,1963,65 sq km
+222,Chandrapur Police Station,Gujarat,+919653038478,Divij Keer,41,1986,60 sq km
+223,Kadapa Police Station,Tamil Nadu,6411724666,Vidur Bali,55,1970,72 sq km
+224,Belgaum Police Station,Maharashtra,+913496941146,Navya Mani,42,1969,32 sq km
+225,Dharmavaram Police Station,Punjab,+919155988324,Veer Behl,53,1974,78 sq km
+226,Tezpur Police Station,Punjab,+916070568267,Dharmajan Sanghvi,41,1971,64 sq km
+227,Udaipur Police Station,West Bengal,4314541667,Rania Karan,93,2006,100 sq km
+228,Amaravati Police Station,Gujarat,6937538695,Kanav Chaudhuri,68,1969,47 sq km
+229,Vadodara Police Station,West Bengal,7606059001,Sara Ram,62,1965,7 sq km
+230,Phusro Police Station,Rajasthan,4305633108,Emir Sur,48,1969,26 sq km
+231,Burhanpur Police Station,Rajasthan,08823613998,Vivaan Walla,56,1994,51 sq km
+232,Amroha Police Station,Karnataka,02561452368,Shamik Bansal,16,1979,71 sq km
+233,Bhalswa Jahangir Pur Police Station,Uttar Pradesh,7027379968,Emir Shankar,35,1988,60 sq km
+234,Vellore Police Station,West Bengal,00495686974,Oorja Rao,13,1951,62 sq km
+235,Ajmer Police Station,Maharashtra,+912771247583,Vihaan Choudhary,64,1985,48 sq km
+236,Guwahati Police Station,Tamil Nadu,+912461569936,Siya Sibal,18,1966,13 sq km
+237,Anantapuram Police Station,West Bengal,+917130986718,Jayant Mallick,77,1961,76 sq km
+238,Delhi Police Station,Delhi,+915696203726,Anika Saxena,73,2002,50 sq km
+239,Ujjain Police Station,Karnataka,9537498161,Sahil Virk,65,1967,90 sq km
+240,Ludhiana Police Station,Gujarat,4357608394,Hridaan Chaudhuri,25,2012,75 sq km
+241,Firozabad Police Station,West Bengal,+910924121271,Devansh Jaggi,12,1952,79 sq km
+242,Navi Mumbai Police Station,Gujarat,+916526457571,Mohanlal Bhatnagar,80,2000,32 sq km
+243,Ghaziabad Police Station,Uttar Pradesh,7240227814,Eshani Chhabra,15,1999,10 sq km
+244,Baranagar Police Station,Uttar Pradesh,+911072200688,Khushi Raman,28,1994,36 sq km
+245,Ranchi Police Station,Delhi,6122309362,Nirvaan Varghese,60,2007,68 sq km
+246,Sultan Pur Majra Police Station,Bihar,03957677381,Yasmin Bal,45,1986,42 sq km
+247,Pimpri-Chinchwad Police Station,Tamil Nadu,2867913689,Piya Khanna,33,1967,43 sq km
+248,Thane Police Station,Maharashtra,7275164742,Piya Kohli,87,1963,26 sq km
+249,Kadapa Police Station,Punjab,3908688321,Zara Yadav,80,1985,36 sq km
+250,Delhi Police Station,Maharashtra,2040717541,Amani Yogi,74,1985,72 sq km
+251,Pudukkottai Police Station,Tamil Nadu,+917364892118,Aradhya Bala,41,1980,86 sq km
+252,Hosur Police Station,Tamil Nadu,7292507148,Jivin Deshmukh,53,1965,58 sq km
+253,Ongole Police Station,Delhi,2534608795,Jhanvi Khurana,82,2009,16 sq km
+254,Nagaon Police Station,Maharashtra,4155973435,Ritvik Devan,64,1985,35 sq km
+255,Kolkata Police Station,Delhi,00770940660,Ritvik Ravi,72,1953,59 sq km
+256,Farrukhabad Police Station,Karnataka,8994025642,Divit Sampath,68,1955,28 sq km
+257,Madurai Police Station,Punjab,1895615065,Samaira Sachdeva,81,1998,74 sq km
+258,Dharmavaram Police Station,Rajasthan,02088814478,Samar Bhatnagar,30,1962,18 sq km
+259,Gulbarga Police Station,Rajasthan,2407071732,Himmat Ramachandran,39,1984,68 sq km
+260,Vijayanagaram Police Station,Gujarat,3084575891,Samaira Bhagat,31,2011,58 sq km
+261,Phagwara Police Station,Punjab,+919134479739,Himmat Rana,75,2007,63 sq km
+262,Ratlam Police Station,Punjab,08687506063,Miraya Dara,93,1978,29 sq km
+263,Agartala Police Station,Karnataka,+913324470472,Gatik Sur,75,2013,18 sq km
+264,Mathura Police Station,West Bengal,+911256543990,Yuvraj  Banik,42,1990,41 sq km
+265,Guntur Police Station,Rajasthan,00615974225,Pihu Kakar,86,1972,83 sq km
+266,Jehanabad Police Station,Rajasthan,+910907722266,Ayesha Hora,42,2010,37 sq km
+267,Amravati Police Station,Karnataka,04069837645,Vanya Srivastava,86,1982,58 sq km
+268,North Dumdum Police Station,Delhi,09787998243,Bhamini Choudhary,48,1969,95 sq km
+269,Hapur Police Station,Delhi,9759252904,Azad Raja,52,1960,12 sq km
+270,Deoghar Police Station,Rajasthan,0608171550,Hunar Basu,94,2002,6 sq km
+271,Jehanabad Police Station,West Bengal,+910920884070,Amani Golla,63,1962,87 sq km
+272,Imphal Police Station,Uttar Pradesh,5539684114,Anvi Varughese,11,1984,63 sq km
+273,Jammu Police Station,Tamil Nadu,06237841452,Madhup Master,74,2007,95 sq km
+274,Udupi Police Station,West Bengal,7186363550,Shlok Hegde,29,1976,78 sq km
+275,Surendranagar Dudhrej Police Station,Maharashtra,9002450903,Ranbir Rana,40,1986,78 sq km
+276,Thiruvananthapuram Police Station,Gujarat,01012493583,Aarna Khatri,53,1958,7 sq km
+277,Yamunanagar Police Station,Rajasthan,7157134364,Saksham Ranganathan,82,1958,71 sq km
+278,Naihati Police Station,Karnataka,+917268402613,Krish Dutta,35,1968,60 sq km
+279,Bhiwandi Police Station,Maharashtra,+919646924861,Armaan Ganguly,35,2000,28 sq km
+280,Satna Police Station,Gujarat,7963492269,Taimur Sagar,81,2001,27 sq km
+281,Ramagundam Police Station,Uttar Pradesh,+910849552264,Riya Thakkar,87,1963,89 sq km
+282,Navi Mumbai Police Station,Maharashtra,+916406735771,Mahika Yohannan,72,1954,7 sq km
+283,Dhanbad Police Station,Karnataka,2428307464,Aradhya Chhabra,24,1994,85 sq km
+284,Ulhasnagar Police Station,Punjab,5126111849,Vardaniya Upadhyay,68,1998,62 sq km
+285,Ozhukarai Police Station,Bihar,+913751920773,Samaira Rajagopal,93,2005,8 sq km
+286,Berhampur Police Station,Maharashtra,+916923864248,Kismat Char,26,2002,95 sq km
+287,Nashik Police Station,Maharashtra,5189191662,Ahana  Gala,69,1989,16 sq km
+288,Jalgaon Police Station,Gujarat,1391150924,Zara Sarraf,67,1968,45 sq km
+289,Serampore Police Station,Karnataka,06720611793,Dharmajan Dhingra,86,1964,50 sq km
+290,Tiruvottiyur Police Station,Karnataka,0649102415,Ritvik Tata,21,1993,14 sq km
+291,Karnal Police Station,Maharashtra,01729475138,Ritvik Subramaniam,79,1986,25 sq km
+292,Alwar Police Station,West Bengal,03573568201,Adah Chawla,75,2022,13 sq km
+293,Kavali Police Station,Punjab,9902994597,Bhavin Tara,49,1999,28 sq km
+294,Katni Police Station,West Bengal,+919579856975,Faiyaz Gaba,51,2012,97 sq km
+295,Jodhpur Police Station,Rajasthan,+916287163329,Alia Ratta,76,1956,76 sq km
+296,Mathura Police Station,West Bengal,07417722362,Ayesha Bansal,79,1960,46 sq km
+297,Kolhapur Police Station,Maharashtra,+913381016938,Hrishita Hari,65,2016,55 sq km
+298,Anand Police Station,Rajasthan,06462717548,Vanya Doctor,81,1955,65 sq km
+299,Ballia Police Station,Tamil Nadu,+914282627043,Rhea Devi,23,1982,54 sq km
+300,Malda Police Station,Punjab,4227770801,Devansh Garg,63,1957,18 sq km
+301,Agartala Police Station,Delhi,+919575097648,Bhamini Varkey,16,1989,10 sq km
+302,Guntakal Police Station,West Bengal,+917429676655,Jhanvi Krishna,53,2005,52 sq km
+303,Raebareli Police Station,Karnataka,07841949503,Jayan Krishnan,44,2019,8 sq km
+304,Raiganj Police Station,Karnataka,+914715056185,Miraya Keer,90,1992,88 sq km
+305,Rewa Police Station,Tamil Nadu,6102525776,Ahana  Dyal,93,2000,48 sq km
+306,Uluberia Police Station,Tamil Nadu,01587240034,Vihaan Gaba,45,1970,7 sq km
+307,Panihati Police Station,Uttar Pradesh,1074397623,Krish Dua,71,1967,82 sq km
+308,Bareilly Police Station,Uttar Pradesh,1940858769,Sumer Dara,18,2002,54 sq km
+309,Ratlam Police Station,Karnataka,04078486797,Adah Kashyap,27,1996,67 sq km
+310,Shimoga Police Station,Gujarat,+918756226104,Heer De,80,1999,62 sq km
+311,Barasat Police Station,Punjab,+915613653086,Shanaya Issac,39,1971,7 sq km
+312,Kochi Police Station,Gujarat,3838298299,Anya Golla,77,1961,57 sq km
+313,Patiala Police Station,Bihar,4356007192,Kavya Shetty,43,2020,23 sq km
+314,Aurangabad Police Station,Bihar,03778970296,Vedika Sahni,22,1954,77 sq km
+315,Morena Police Station,Uttar Pradesh,01549004202,Krish Mangat,41,2001,84 sq km
+316,Ahmednagar Police Station,Karnataka,09246570404,Advika Datta,31,1987,78 sq km
+317,Patna Police Station,Rajasthan,08730248614,Advik Solanki,85,2013,67 sq km
+318,Rajkot Police Station,Maharashtra,01779834878,Lavanya Khalsa,72,1978,33 sq km
+319,Thrissur Police Station,Karnataka,+916362524311,Ehsaan Dada,61,1952,46 sq km
+320,Bhilwara Police Station,Uttar Pradesh,+913151294663,Lakshit Mane,83,2020,100 sq km
+321,Howrah Police Station,West Bengal,2373415978,Kartik Rajagopal,13,1991,55 sq km
+322,Thoothukudi Police Station,Punjab,+919659792769,Chirag Contractor,98,2005,15 sq km
+323,Sultan Pur Majra Police Station,Gujarat,9436143958,Kabir Doctor,34,2017,91 sq km
+324,Bathinda Police Station,Rajasthan,04125307488,Fateh Brar,34,2006,9 sq km
+325,Sultan Pur Majra Police Station,Rajasthan,02963090353,Divij Karpe,32,1996,79 sq km
+326,Machilipatnam Police Station,West Bengal,06922133548,Ivana Dhar,59,2000,57 sq km
+327,Sambalpur Police Station,Punjab,0654147511,Sahil Tripathi,82,1995,40 sq km
+328,Bahraich Police Station,Rajasthan,+919160932926,Prisha Krish,54,2002,66 sq km
+329,Gorakhpur Police Station,Punjab,06012572233,Mahika Sachdev,68,1951,66 sq km
+330,Silchar Police Station,Tamil Nadu,5815405751,Kabir Raja,69,2003,69 sq km
+331,Phusro Police Station,Maharashtra,01028347034,Dhruv Sachar,87,2021,100 sq km
+332,Ujjain Police Station,West Bengal,+910633671481,Rasha Ramakrishnan,48,1988,48 sq km
+333,Salem Police Station,Delhi,+912719040411,Emir Dhingra,84,1979,17 sq km
+334,Kishanganj Police Station,Tamil Nadu,+916684989799,Hrishita Master,72,1960,94 sq km
+335,Shahjahanpur Police Station,Tamil Nadu,+912482829552,Kimaya Setty,19,2000,66 sq km
+336,Guntakal Police Station,Tamil Nadu,8703564160,Madhup Gupta,17,1979,7 sq km
+337,Ajmer Police Station,Delhi,05135401236,Ahana  Loke,89,2021,57 sq km
+338,Tiruppur Police Station,Tamil Nadu,6206042905,Dishani Ravel,56,1957,69 sq km
+339,Yamunanagar Police Station,Karnataka,03365113508,Ira Venkatesh,43,2020,76 sq km
+340,Sikar Police Station,Tamil Nadu,02791635200,Aniruddh Wagle,78,2011,56 sq km
+341,Delhi Police Station,Bihar,01134425639,Badal Sarna,87,2021,34 sq km
+342,Raiganj Police Station,Delhi,+912202002098,Dhruv Bhagat,92,2012,53 sq km
+343,Ajmer Police Station,Bihar,+916532699430,Zain Mani,40,2006,61 sq km
+344,Nagpur Police Station,Punjab,09791616347,Amani Rajan,77,1982,53 sq km
+345,Aurangabad Police Station,Punjab,+913086242732,Tejas Sura,82,2004,70 sq km
+346,Kumbakonam Police Station,Bihar,8191927094,Farhan Bajaj,20,2019,10 sq km
+347,Miryalaguda Police Station,Punjab,+917665045545,Riaan Suri,75,1973,97 sq km
+348,Khandwa Police Station,Delhi,04942213541,Himmat Dani,27,1993,76 sq km
+349,Vijayawada Police Station,Punjab,01223759566,Shanaya Halder,94,1960,55 sq km
+350,Solapur Police Station,Karnataka,00530907884,Chirag Ben,87,1956,28 sq km
+351,Saharanpur Police Station,Uttar Pradesh,4346556203,Dhanuk Shetty,20,1968,48 sq km
+352,Mehsana Police Station,Uttar Pradesh,9152856416,Anay Dutta,100,1952,32 sq km
+353,Darbhanga Police Station,Uttar Pradesh,07517800882,Adira Khalsa,84,1973,21 sq km
+354,Muzaffarpur Police Station,Bihar,7759402187,Siya Seth,52,1958,79 sq km
+355,Serampore Police Station,Rajasthan,8506553978,Nayantara Lal,45,1950,44 sq km
+356,Darbhanga Police Station,Karnataka,3448395209,Onkar Vyas,12,1955,80 sq km
+357,Jaipur Police Station,Maharashtra,09119135499,Aradhya Borra,66,1956,29 sq km
+358,Ujjain Police Station,Uttar Pradesh,03441135446,Shaan Bail,86,1989,97 sq km
+359,Coimbatore Police Station,Rajasthan,1306667726,Farhan Karnik,45,1973,80 sq km
+360,Sambalpur Police Station,Gujarat,9733581243,Eva Chand,83,1982,25 sq km
+361,Kulti Police Station,Karnataka,1398180933,Kimaya Vyas,51,1951,6 sq km
+362,Vellore Police Station,Karnataka,2271620353,Piya Barman,17,2013,73 sq km
+363,Alappuzha Police Station,Tamil Nadu,08962011818,Neelofar Ramachandran,36,1969,21 sq km
+364,Rewa Police Station,Punjab,+911237932982,Navya Sarin,91,1973,41 sq km
+365,Aurangabad Police Station,West Bengal,1985103507,Tara Sur,42,1998,90 sq km
+366,Jalgaon Police Station,Tamil Nadu,09171704968,Neelofar Goel,92,1969,94 sq km
+367,Satara Police Station,Gujarat,06133765422,Hrishita De,41,1953,60 sq km
+368,Nadiad Police Station,Maharashtra,3691322626,Samarth Sangha,52,2006,89 sq km
+369,Medininagar Police Station,West Bengal,03475688973,Miraya Dalal,19,1983,43 sq km
+370,Tumkur Police Station,Karnataka,+916769652014,Madhav Loyal,63,1986,63 sq km
+371,Ongole Police Station,Maharashtra,05946046737,Myra Dugar,100,1972,79 sq km
+372,Ambala Police Station,Gujarat,+910425404686,Mishti Sood,61,2011,68 sq km
+373,Raiganj Police Station,Uttar Pradesh,9816171216,Dharmajan Ramaswamy,45,2022,10 sq km
+374,Barasat Police Station,Punjab,+919365643551,Umang Ratta,52,1980,25 sq km
+375,Pudukkottai Police Station,Maharashtra,+918097936594,Arhaan Sura,57,2001,66 sq km
+376,Mirzapur Police Station,Gujarat,0100908317,Divij Bedi,74,1959,73 sq km
+377,Ahmednagar Police Station,Gujarat,9545905468,Vedika Boase,42,1995,46 sq km
+378,Kharagpur Police Station,Uttar Pradesh,07752691334,Taran Dara,35,1983,36 sq km
+379,Tinsukia Police Station,Karnataka,+912256818005,Abram Koshy,36,2007,56 sq km
+380,Siwan Police Station,Gujarat,2330314292,Ishita Chauhan,80,1956,39 sq km
+381,Tirupati Police Station,Karnataka,+919696644941,Samiha Taneja,12,1968,78 sq km
+382,Gulbarga Police Station,Bihar,06294656879,Farhan Sharma,44,1979,85 sq km
+383,Patna Police Station,Maharashtra,+911126751286,Kiaan Sama,11,1976,70 sq km
+384,Kolhapur Police Station,Karnataka,+916146366389,Samiha Varma,35,2001,82 sq km
+385,Chennai Police Station,Uttar Pradesh,7882291836,Yasmin Dash,23,1982,7 sq km
+386,Rohtak Police Station,Tamil Nadu,2304002461,Mahika Ahluwalia,92,1962,65 sq km
+387,Hubli–Dharwad Police Station,Punjab,6335506289,Kaira Vasa,95,1991,97 sq km
+388,Anand Police Station,Rajasthan,+918858037570,Misha Gokhale,90,1958,86 sq km
+389,Udaipur Police Station,Bihar,02036025979,Jiya Chad,59,1966,91 sq km
+390,Kolhapur Police Station,Karnataka,04494270113,Badal Sarraf,77,1960,20 sq km
+391,Dindigul Police Station,Karnataka,4077558512,Eva Som,71,2019,29 sq km
+392,Sasaram Police Station,Tamil Nadu,04610733595,Amira Chatterjee,34,1989,55 sq km
+393,Gwalior Police Station,Tamil Nadu,7671008448,Hridaan Bawa,14,2001,99 sq km
+394,Tirunelveli Police Station,West Bengal,08740203714,Chirag Bhatti,29,1981,70 sq km
+395,Chandrapur Police Station,West Bengal,02879602806,Rasha Thaman,26,1980,61 sq km
+396,Phusro Police Station,Gujarat,5210174901,Sara Cheema,65,2012,97 sq km
+397,Bhubaneswar Police Station,Uttar Pradesh,6928996549,Anay Hans,59,2018,21 sq km
+398,Katihar Police Station,Punjab,+910422380656,Vidur Taneja,69,1975,48 sq km
+399,Vasai-Virar Police Station,Maharashtra,+919338600757,Aayush Rama,75,2007,49 sq km
+400,Ozhukarai Police Station,Tamil Nadu,7033715213,Aarna Saxena,97,1985,99 sq km
+401,Bulandshahr Police Station,West Bengal,06636820141,Kavya Subramaniam,16,2000,87 sq km
+402,Ujjain Police Station,Rajasthan,+918882508686,Indrajit Wali,95,2008,18 sq km
+403,Bhilai Police Station,West Bengal,09389869647,Nirvaan Luthra,55,1991,79 sq km
+404,Aurangabad Police Station,Uttar Pradesh,06716551457,Zain Grover,81,1965,94 sq km
+405,Tiruvottiyur Police Station,Tamil Nadu,1814622707,Rati Khurana,76,1999,25 sq km
+406,Ozhukarai Police Station,Bihar,01914378418,Bhavin Jaggi,71,1959,79 sq km
+407,Khammam Police Station,Gujarat,08424695963,Shaan Jayaraman,84,1997,5 sq km
+408,Bareilly Police Station,Karnataka,+910074041299,Tara Dash,51,1986,13 sq km
+409,Ghaziabad Police Station,Rajasthan,03664050230,Manikya Anne,51,1981,77 sq km
+410,Amravati Police Station,West Bengal,8046908963,Urvi Banik,96,1951,96 sq km
+411,Agartala Police Station,West Bengal,7194564503,Shaan Korpal,27,2009,43 sq km
+412,Phagwara Police Station,Rajasthan,07541491844,Diya Subramaniam,78,2016,40 sq km
+413,Latur Police Station,Rajasthan,08493470757,Divyansh Chatterjee,13,1964,37 sq km
+414,Gulbarga Police Station,Punjab,+915087380537,Miraan Kakar,19,1950,76 sq km
+415,Bidhannagar Police Station,West Bengal,+913692819462,Tejas Iyengar,41,1950,26 sq km
+416,Ramgarh Police Station,Karnataka,+916048335303,Siya Gupta,83,1968,41 sq km
+417,Vellore Police Station,Uttar Pradesh,+913350597604,Nehmat Mani,36,1968,16 sq km
+418,Rampur Police Station,West Bengal,+911721378159,Inaaya  Dave,70,2009,34 sq km
+419,Mira-Bhayandar Police Station,Gujarat,0435903464,Ira Virk,56,1987,31 sq km
+420,Sikar Police Station,Maharashtra,+913701712753,Nirvi Sidhu,42,1995,87 sq km
+421,Cuttack Police Station,Punjab,5138822238,Urvi Balasubramanian,91,1976,69 sq km
+422,Indore Police Station,Delhi,+912741056510,Prerak Ganesh,85,1981,87 sq km
+423,Anantapuram Police Station,Karnataka,+913900468499,Eva Viswanathan,97,1964,22 sq km
+424,Siliguri Police Station,Maharashtra,4931971514,Divij Lanka,99,2001,34 sq km
+425,Chittoor Police Station,Rajasthan,+910547999132,Nitara Grover,49,1971,20 sq km
+426,Udupi Police Station,West Bengal,03022511981,Divyansh Badal,63,1950,91 sq km
+427,Tiruppur Police Station,Uttar Pradesh,+918987271555,Keya Divan,56,2007,69 sq km
+428,Giridih Police Station,West Bengal,+912476907935,Hrishita Deol,96,2013,12 sq km
+429,Hubli–Dharwad Police Station,Uttar Pradesh,+918989569014,Neelofar Warrior,65,2006,88 sq km
+430,Sultan Pur Majra Police Station,Bihar,0581885849,Navya Behl,45,1976,90 sq km
+431,Bhatpara Police Station,Bihar,+917299630064,Nishith Atwal,67,1992,75 sq km
+432,Ramagundam Police Station,Punjab,+917680012664,Anahita Choudhry,98,1961,52 sq km
+433,Bareilly Police Station,Rajasthan,+912593639840,Amani Gour,59,1980,44 sq km
+434,Noida Police Station,Maharashtra,2299379310,Yasmin Chander,97,1982,92 sq km
+435,Tiruchirappalli Police Station,Gujarat,+917409695995,Anahita Mandal,53,1985,77 sq km
+436,Chandigarh Police Station,Rajasthan,6292365836,Indranil Sahota,68,1964,63 sq km
+437,Avadi Police Station,Karnataka,6616782318,Saanvi Verma,59,1953,48 sq km
+438,Tiruppur Police Station,Uttar Pradesh,4030115689,Raunak Shah,24,1996,46 sq km
+439,Salem Police Station,Bihar,8139439734,Nitya Devan,73,1964,35 sq km
+440,Thane Police Station,Uttar Pradesh,01488535578,Saanvi Gulati,57,2009,100 sq km
+441,Dharmavaram Police Station,Tamil Nadu,00445901515,Samarth Iyer,98,2012,6 sq km
+442,Pallavaram Police Station,Rajasthan,06666602061,Gatik Tandon,61,2005,75 sq km
+443,Ajmer Police Station,Bihar,9678144343,Vedika Goswami,47,2022,95 sq km
+444,Tiruchirappalli Police Station,Punjab,9366723815,Yuvaan Wali,67,1980,80 sq km
+445,Bahraich Police Station,West Bengal,+913615482514,Mohanlal Zacharia,27,1987,13 sq km
+446,Buxar Police Station,Bihar,7794178336,Vritika Lall,61,1988,50 sq km
+447,Adoni Police Station,Rajasthan,+914177790243,Samar De,70,2001,65 sq km
+448,Nandyal Police Station,Delhi,02632474297,Rati Mand,86,1952,37 sq km
+449,Hubli–Dharwad Police Station,Gujarat,+918362455017,Nitara Dua,59,1980,25 sq km
+450,Anantapuram Police Station,Uttar Pradesh,2654786058,Vedika Sathe,28,2001,17 sq km
+451,Shivpuri Police Station,Delhi,05349676165,Nirvaan Gaba,30,1964,71 sq km
+452,Ratlam Police Station,Uttar Pradesh,+918944949485,Indrajit Bumb,13,1952,46 sq km
+453,Bongaigaon Police Station,Tamil Nadu,6095835474,Arhaan Dixit,64,1998,66 sq km
+454,Gandhinagar Police Station,Gujarat,02522831214,Zara Devi,77,1999,29 sq km
+455,Bhiwandi Police Station,Maharashtra,08403015672,Nitya Mannan,81,2014,40 sq km
+456,Meerut Police Station,West Bengal,05075010244,Mahika Taneja,65,1991,100 sq km
+457,Panipat Police Station,Tamil Nadu,06692667152,Rati Bahri,14,1960,100 sq km
+458,Singrauli Police Station,Punjab,6705939483,Misha Bahl,41,1997,11 sq km
+459,Dehri Police Station,West Bengal,+912288301899,Zara Dayal,33,1984,21 sq km
+460,Farrukhabad Police Station,Karnataka,7978913711,Kaira Brahmbhatt,35,1960,74 sq km
+461,Bihar Sharif Police Station,Bihar,04729253062,Darshit Dhillon,57,1979,18 sq km
+462,Gulbarga Police Station,Bihar,+918958984314,Devansh Aurora,82,1969,80 sq km
+463,Srikakulam Police Station,Maharashtra,9551921681,Aniruddh Gill,22,1957,81 sq km
+464,Anantapur Police Station,Bihar,+911250415617,Ryan Kaul,75,1968,59 sq km
+465,Ratlam Police Station,Rajasthan,+918288957192,Piya Krishnamurthy,84,1961,5 sq km
+466,Deoghar Police Station,Maharashtra,2861104592,Biju Basak,68,1990,58 sq km
+467,Morena Police Station,Karnataka,07953611449,Vanya Sathe,88,1998,84 sq km
+468,Surendranagar Dudhrej Police Station,Rajasthan,+916781304744,Kiara Shroff,72,1964,95 sq km
+469,Kanpur Police Station,Punjab,00115298458,Gokul Chawla,70,1964,48 sq km
+470,Miryalaguda Police Station,Tamil Nadu,+916116691410,Lavanya Lala,75,1971,80 sq km
+471,Bhatpara Police Station,Uttar Pradesh,+910131512013,Purab Atwal,41,1960,77 sq km
+472,Kishanganj Police Station,Karnataka,+913888054392,Kimaya Sanghvi,42,1971,91 sq km
+473,Morena Police Station,Karnataka,04531771394,Alia Upadhyay,76,1957,44 sq km
+474,Mangalore Police Station,West Bengal,3925857986,Ishita Chandra,31,1985,14 sq km
+475,Nellore Police Station,Bihar,1881279134,Mahika Dewan,75,1996,82 sq km
+476,Anantapur Police Station,Bihar,07466294800,Alia Warrior,93,1987,94 sq km
+477,Sikar Police Station,Punjab,2776191603,Eshani Rama,92,1994,92 sq km
+478,Udupi Police Station,Punjab,+910110348930,Keya Sha,73,1986,88 sq km
+479,Chandigarh Police Station,Bihar,+911399024569,Mahika Deep,36,1954,98 sq km
+480,Guna Police Station,Tamil Nadu,+914657679048,Gokul Vasa,67,1977,67 sq km
+481,Sambhal Police Station,West Bengal,06889983914,Krish Khatri,59,1991,68 sq km
+482,Amravati Police Station,Karnataka,7134099558,Ivan Sankar,59,1950,26 sq km
+483,Deoghar Police Station,Gujarat,+918484588927,Sana Dhar,25,1952,6 sq km
+484,Silchar Police Station,Punjab,04951466350,Ayesha Aggarwal,32,1999,27 sq km
+485,Arrah Police Station,West Bengal,1361127223,Nitara Badal,63,1960,17 sq km
+486,Ongole Police Station,Maharashtra,03006838091,Arnav Sodhi,81,1957,97 sq km
+487,Tadipatri Police Station,Karnataka,04351519209,Sana Salvi,94,2022,45 sq km
+488,Yamunanagar Police Station,Karnataka,3473360075,Badal Krishna,79,2013,82 sq km
+489,Jamshedpur Police Station,Rajasthan,+916932325140,Kabir Basu,20,2007,11 sq km
+490,Kumbakonam Police Station,Bihar,07473239007,Jayesh Chakraborty,20,1952,62 sq km
+491,Ramgarh Police Station,Karnataka,+910468592224,Aaryahi Dasgupta,88,2012,89 sq km
+492,Munger Police Station,Tamil Nadu,02192425526,Shalv Hegde,45,2019,81 sq km
+493,Akola Police Station,Maharashtra,0038520391,Divyansh Kakar,88,1972,31 sq km
+494,Madhyamgram Police Station,Tamil Nadu,6316634282,Ishita Kata,44,2014,57 sq km
+495,Shimoga Police Station,Delhi,+914293125920,Jhanvi Ravi,26,2016,36 sq km
+496,South Dumdum Police Station,Maharashtra,04106610171,Ela Gera,17,1963,12 sq km
+497,Nadiad Police Station,West Bengal,+914075235516,Samaira Brahmbhatt,73,1980,83 sq km
+498,Guntur Police Station,Tamil Nadu,08557804146,Nakul Gade,42,1966,63 sq km
+499,Jalna Police Station,Tamil Nadu,+912163600666,Yakshit Salvi,28,2004,64 sq km
+500,Phusro Police Station,Gujarat,+918255904778,Vaibhav Suresh,15,1994,22 sq km

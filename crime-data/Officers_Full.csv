@@ -1,0 +1,501 @@
+officer_id,name,station_id,rank,age,years_of_service,specialization,contact_number
+1,Neelofar Bir,7,Constable,50,33,Fraud,+916829356150
+2,Jivika Dhillon,393,Constable,57,8,Traffic,4571588701
+3,Yuvraj  Chandran,247,Constable,54,17,Traffic,04899880107
+4,Madhup Shukla,37,DSP,26,34,Homicide,2761905392
+5,Ivana Rattan,300,Constable,57,21,Narcotics,4235475939
+6,Krish Krishnamurthy,133,Inspector,51,34,Traffic,3540209418
+7,Baiju Comar,295,Inspector,49,12,Homicide,7899780503
+8,Lavanya Ramaswamy,436,Sub Inspector,31,25,Traffic,+917798256379
+9,Anaya Barad,498,DSP,53,14,Narcotics,+917448059771
+10,Ivan Lata,111,Head Constable,58,8,Narcotics,+916469311239
+11,Ivan Ghose,482,Head Constable,43,32,Fraud,2296149759
+12,Tejas Mahal,168,Head Constable,56,19,Traffic,+913192441763
+13,Oorja Gera,394,Inspector,51,31,Fraud,+912311079438
+14,Rohan Chakraborty,133,Constable,28,1,Traffic,09294894161
+15,Adira Sachar,485,DSP,27,21,Homicide,02356696007
+16,Kismat Tandon,47,Head Constable,26,15,Narcotics,+918693306051
+17,Romil Dada,173,DSP,31,15,Traffic,+918848455849
+18,Emir Dani,492,Inspector,29,25,Cybercrime,+915289074202
+19,Nakul Agarwal,408,DSP,35,25,Cybercrime,+917186924209
+20,Aradhya Kade,171,Constable,49,20,Narcotics,+911812269647
+21,Vedika Salvi,44,Sub Inspector,57,10,Homicide,4919186112
+22,Oorja Borah,343,Constable,58,29,Homicide,+914778595202
+23,Vritika Aggarwal,299,Sub Inspector,33,26,Homicide,6922642499
+24,Aaryahi Kanda,361,Constable,52,32,Homicide,+910770157558
+25,Nishith Ravel,231,Sub Inspector,59,31,Fraud,00994892055
+26,Kismat Dutta,151,DSP,35,33,Traffic,9628850131
+27,Anya Din,170,Inspector,43,21,Homicide,+912221980497
+28,Fateh Varughese,384,Inspector,44,15,Homicide,+919315496614
+29,Ranbir Gupta,233,Constable,33,17,Homicide,+914595203110
+30,Taimur Mani,450,Constable,50,4,Homicide,8615435315
+31,Dishani Borah,227,Sub Inspector,55,3,Cybercrime,+914058278560
+32,Shaan Suri,444,Inspector,32,30,Cybercrime,+915845744224
+33,Jivika Dixit,322,Constable,52,5,Fraud,+911382050451
+34,Ahana  Joshi,169,Head Constable,26,3,Traffic,01134853323
+35,Yuvraj  Bhatnagar,329,DSP,32,33,Narcotics,4542242595
+36,Siya Kumar,80,DSP,60,15,Narcotics,08194193750
+37,Rasha Bassi,229,Inspector,60,28,Narcotics,08845831620
+38,Kiaan Hayer,472,Head Constable,37,16,Cybercrime,+918800252850
+39,Hridaan Tripathi,191,Inspector,51,3,Traffic,06840132977
+40,Romil Bhattacharyya,495,Constable,37,6,Narcotics,0275460673
+41,Yashvi Rastogi,66,Head Constable,58,30,Traffic,+915115822091
+42,Gokul Bala,292,Head Constable,60,8,Traffic,03774293717
+43,Vritika Kalita,136,Inspector,60,10,Fraud,05691762696
+44,Chirag Taneja,176,Head Constable,26,22,Fraud,2007236457
+45,Umang Ahluwalia,397,Constable,54,10,Homicide,+912203957398
+46,Navya Dar,133,Sub Inspector,55,7,Homicide,5180386603
+47,Dhanuk Joshi,197,Head Constable,25,7,Narcotics,+910759150936
+48,Trisha Varkey,286,Head Constable,55,8,Traffic,+912975146892
+49,Lavanya Dyal,12,Constable,55,10,Homicide,06903575048
+50,Prerak Borah,407,Inspector,56,11,Cybercrime,+914829978777
+51,Akarsh Raval,238,DSP,59,30,Fraud,4370566422
+52,Hridaan Sem,60,Sub Inspector,38,16,Traffic,+916794193294
+53,Kimaya Gandhi,192,Head Constable,37,17,Homicide,08977477928
+54,Adah Singh,457,Constable,29,34,Homicide,+913092472260
+55,Anya Sridhar,357,Constable,43,30,Homicide,09927790231
+56,Adah Sengupta,295,Head Constable,35,8,Homicide,06177393202
+57,Samaira Chawla,191,Head Constable,37,34,Narcotics,+919891302687
+58,Yakshit Zacharia,169,Inspector,50,32,Narcotics,06929295858
+59,Aarna Mane,188,Constable,56,27,Traffic,01928649806
+60,Divij Bali,481,Head Constable,53,7,Cybercrime,2523286169
+61,Manjari Sidhu,462,Constable,41,23,Narcotics,3544971989
+62,Jayant Madan,365,DSP,54,26,Fraud,+919862385592
+63,Dhruv Basu,164,Inspector,45,15,Traffic,9852580192
+64,Tarini Gaba,234,DSP,56,7,Cybercrime,02612757551
+65,Inaaya  Kapur,95,DSP,31,2,Homicide,3532892380
+66,Devansh Sharma,112,Sub Inspector,52,24,Homicide,09656718315
+67,Kiara Chand,479,Sub Inspector,51,1,Narcotics,+917713094970
+68,Alia Chowdhury,493,Inspector,55,26,Cybercrime,+913808525271
+69,Prisha Brahmbhatt,307,Constable,50,21,Traffic,9895995907
+70,Tejas Samra,471,Inspector,38,26,Cybercrime,04670683365
+71,Keya Sani,8,Sub Inspector,29,11,Cybercrime,9633147460
+72,Vidur Lanka,27,Sub Inspector,57,7,Cybercrime,+918801174524
+73,Prerak Saran,248,Sub Inspector,29,5,Cybercrime,05857952221
+74,Misha Goswami,161,DSP,38,27,Fraud,+912534919777
+75,Drishya Thakur,218,Inspector,25,4,Fraud,00699152392
+76,Elakshi Joshi,261,DSP,47,4,Fraud,+916096993776
+77,Manjari Zachariah,185,DSP,43,19,Fraud,07197371526
+78,Abram Sethi,128,Head Constable,37,22,Narcotics,07827522488
+79,Priyansh Vyas,245,Sub Inspector,36,2,Fraud,05770166422
+80,Alia Sibal,47,DSP,38,3,Homicide,+916230332123
+81,Aaina Kuruvilla,345,Head Constable,41,20,Homicide,07732870168
+82,Kabir Divan,16,Sub Inspector,55,19,Traffic,01311332363
+83,Aniruddh Deshmukh,382,Constable,58,5,Homicide,03627502716
+84,Tanya Srinivasan,32,Sub Inspector,57,11,Fraud,+918002147816
+85,Nirvi Deep,407,Sub Inspector,28,8,Traffic,06890905086
+86,Dharmajan Dutta,82,Constable,53,34,Narcotics,+913745541912
+87,Tushar Aggarwal,455,Inspector,44,12,Traffic,+918565391673
+88,Tara Kala,143,Constable,53,17,Narcotics,04377081288
+89,Inaaya  Raju,7,Inspector,59,27,Traffic,+914387327598
+90,Eshani Krishnan,152,Constable,60,22,Narcotics,8304270319
+91,Sumer Chandra,267,DSP,43,25,Cybercrime,+919452455495
+92,Lakshit Dubey,363,Head Constable,27,16,Narcotics,+914641916660
+93,Aarush Chad,200,Head Constable,36,25,Traffic,4180307750
+94,Nakul Brar,420,Sub Inspector,45,19,Narcotics,4854484271
+95,Ira Solanki,290,Constable,41,1,Traffic,8121814009
+96,Faiyaz Char,420,Constable,39,26,Homicide,7690915888
+97,Zoya Chaudhary,197,Sub Inspector,43,2,Homicide,07937917636
+98,Shaan Srinivasan,121,Sub Inspector,53,33,Homicide,7679999538
+99,Vihaan Tara,373,Head Constable,31,23,Narcotics,03379134431
+100,Kavya Chawla,454,DSP,42,19,Cybercrime,3845791696
+101,Eshani Malhotra,352,Head Constable,28,6,Narcotics,+912223839985
+102,Krish Manne,105,Head Constable,26,29,Fraud,5569522172
+103,Ryan Sami,413,Inspector,30,12,Homicide,+916027846376
+104,Ahana  Dasgupta,464,Sub Inspector,40,16,Fraud,+914437508988
+105,Nirvi Shukla,371,Sub Inspector,52,24,Fraud,03167535770
+106,Taimur Mann,265,Head Constable,59,21,Fraud,06036067394
+107,Priyansh De,98,Head Constable,56,2,Homicide,08567671022
+108,Vivaan Garde,45,Sub Inspector,47,13,Homicide,+915920676317
+109,Anahi Mammen,407,Head Constable,32,4,Cybercrime,0026007374
+110,Anya Keer,25,DSP,38,15,Cybercrime,09831204998
+111,Siya Goswami,105,Constable,38,6,Fraud,6756576451
+112,Adah Saxena,373,DSP,59,23,Traffic,+914103357341
+113,Ela Gokhale,86,Inspector,52,23,Fraud,+916729475034
+114,Rhea Verma,218,Inspector,58,23,Homicide,1544652980
+115,Zain Sankar,60,Sub Inspector,40,31,Cybercrime,4236689688
+116,Tushar Sampath,331,Sub Inspector,59,3,Narcotics,+910311812154
+117,Pihu Tripathi,451,DSP,43,28,Fraud,00324961753
+118,Vihaan Devan,147,Sub Inspector,37,19,Cybercrime,+915629919418
+119,Pranay Suresh,211,Constable,26,25,Fraud,00015871463
+120,Eva Jain,220,Inspector,36,35,Narcotics,08200430984
+121,Arhaan Sheth,430,DSP,31,22,Cybercrime,09260607142
+122,Divij Das,401,Constable,51,5,Cybercrime,07848794611
+123,Zeeshan Krishnan,36,Inspector,39,31,Narcotics,01683880978
+124,Reyansh Tella,370,Head Constable,46,16,Traffic,6335395865
+125,Oorja Banerjee,46,Inspector,35,33,Narcotics,4872733494
+126,Aaina Singh,383,Sub Inspector,40,29,Narcotics,00868441134
+127,Baiju Agrawal,296,Sub Inspector,40,35,Homicide,0067631963
+128,Nitya Luthra,251,Sub Inspector,47,2,Cybercrime,0165591844
+129,Prerak Kannan,291,Inspector,27,10,Cybercrime,+919907509031
+130,Yuvaan Hayer,64,Inspector,60,11,Homicide,6257066330
+131,Lagan Loke,169,DSP,54,21,Traffic,07621623943
+132,Navya Sathe,268,Head Constable,33,17,Cybercrime,08317986532
+133,Dhruv Ravel,355,Sub Inspector,26,1,Narcotics,01813950958
+134,Aaina Goyal,399,Constable,48,8,Traffic,03861070946
+135,Ivan Sethi,324,Head Constable,25,16,Traffic,+918501572430
+136,Mohanlal Behl,155,Inspector,57,7,Traffic,04062209531
+137,Shayak Chaudhuri,8,DSP,56,27,Cybercrime,5458522432
+138,Neelofar Bajaj,134,Constable,33,7,Traffic,+918809369769
+139,Bhavin Butala,377,Head Constable,41,34,Traffic,07527758170
+140,Ranbir Saran,333,Head Constable,60,26,Traffic,+910142547154
+141,Kartik Ganguly,461,DSP,53,2,Fraud,1474129403
+142,Miraya Dave,39,Constable,35,35,Cybercrime,+918978428329
+143,Damini Batta,134,Constable,48,28,Cybercrime,08646852948
+144,Bhamini Brar,28,Inspector,31,3,Fraud,+910345996147
+145,Faiyaz Bala,167,Sub Inspector,27,12,Cybercrime,01858487344
+146,Renee Sachdev,462,Inspector,41,21,Narcotics,+915351283232
+147,Taran Talwar,41,Head Constable,45,14,Traffic,09988862307
+148,Heer Karnik,161,Inspector,58,13,Cybercrime,9220417796
+149,Lakshay Ramaswamy,128,DSP,53,8,Traffic,+910078806147
+150,Mohanlal Rajagopal,172,Head Constable,35,11,Cybercrime,+912288410791
+151,Vivaan Salvi,493,Head Constable,52,4,Fraud,+918709706683
+152,Madhup Sehgal,201,Inspector,45,33,Traffic,7629978844
+153,Trisha Sheth,302,Head Constable,36,10,Traffic,8755979295
+154,Sahil Chauhan,64,Sub Inspector,30,10,Fraud,7770721856
+155,Dhanuk Choudhry,234,DSP,49,7,Narcotics,00152369629
+156,Samaira Dara,428,Head Constable,59,20,Traffic,+919426387300
+157,Akarsh Sibal,392,Head Constable,51,34,Traffic,09153325067
+158,Aarush Srinivas,296,Inspector,57,22,Homicide,+917699316179
+159,Kiaan Dugar,428,DSP,29,34,Homicide,+916994530721
+160,Shayak Atwal,75,Constable,26,30,Homicide,+912931996338
+161,Parinaaz Krishnan,97,DSP,25,22,Homicide,6618343848
+162,Samar Chaudhary,148,Sub Inspector,41,8,Homicide,02612346068
+163,Zain Rau,202,Head Constable,30,1,Fraud,+912324668872
+164,Indrans Agarwal,302,Inspector,55,6,Homicide,+916630356378
+165,Abram Devan,79,Sub Inspector,49,13,Fraud,+915447428735
+166,Kismat Sachar,231,Constable,38,24,Traffic,8958503501
+167,Vidur Kala,396,DSP,47,17,Traffic,2850810448
+168,Advik Sood,133,Constable,31,24,Cybercrime,+910602209463
+169,Jivika Sinha,206,DSP,51,2,Traffic,00966721374
+170,Amani Wable,88,Inspector,45,19,Cybercrime,7315957126
+171,Tiya Bedi,88,DSP,38,11,Homicide,09137089279
+172,Shalv Vasa,177,Constable,50,9,Fraud,+915566769593
+173,Raghav Cherian,476,Head Constable,29,18,Traffic,+915874077291
+174,Nehmat Baria,209,Sub Inspector,26,21,Cybercrime,08524129214
+175,Stuvan Borde,410,Head Constable,33,14,Fraud,+919377325113
+176,Advik Das,299,Inspector,33,17,Homicide,03392329067
+177,Hunar Sane,429,DSP,41,3,Cybercrime,02619417532
+178,Pranay Vyas,423,Inspector,26,17,Traffic,6525220311
+179,Anika Badal,353,DSP,32,9,Cybercrime,5384632346
+180,Kavya Randhawa,38,Sub Inspector,30,11,Narcotics,+916737403462
+181,Nakul Sen,380,Inspector,27,31,Narcotics,05378434861
+182,Amani Dutt,39,Sub Inspector,37,9,Fraud,07912521105
+183,Sana Dewan,416,DSP,55,14,Traffic,01291205402
+184,Hridaan Kadakia,16,DSP,59,17,Cybercrime,+916978896749
+185,Zeeshan Majumdar,82,Sub Inspector,48,24,Fraud,07948540910
+186,Samarth Dugar,356,Inspector,33,6,Traffic,+916669541476
+187,Arhaan Karan,389,DSP,26,19,Cybercrime,+910648787045
+188,Advika Bahri,211,DSP,35,7,Homicide,+916365066277
+189,Trisha Kuruvilla,179,Head Constable,50,1,Traffic,06531966268
+190,Divij Iyer,210,DSP,37,4,Traffic,+917383706953
+191,Veer Raja,278,Sub Inspector,57,21,Fraud,8678346336
+192,Ivana Deo,17,DSP,56,24,Traffic,6814789178
+193,Hridaan Chakrabarti,321,Constable,43,20,Fraud,+910914400359
+194,Yuvaan Tank,163,Constable,48,26,Cybercrime,4354282735
+195,Ryan Mall,71,Inspector,58,5,Fraud,2217297116
+196,Yashvi Wable,394,Constable,33,23,Homicide,02970386357
+197,Siya Kale,258,Inspector,56,20,Fraud,3660348942
+198,Manjari Chana,224,Constable,56,27,Fraud,08815735268
+199,Ishita Dada,236,Head Constable,39,16,Cybercrime,05375319781
+200,Akarsh Vohra,177,Inspector,56,34,Narcotics,+918737080180
+201,Sara Chakrabarti,433,Sub Inspector,59,30,Cybercrime,+917926249850
+202,Kashvi Chandran,475,Sub Inspector,56,9,Traffic,+915694991536
+203,Jhanvi Shukla,376,Sub Inspector,48,13,Fraud,3269845649
+204,Azad Subramanian,69,Head Constable,29,9,Narcotics,1920215047
+205,Samiha Wali,309,DSP,58,11,Fraud,7623236595
+206,Ishaan Babu,463,Inspector,49,18,Narcotics,+910081777700
+207,Himmat Singh,44,DSP,41,32,Narcotics,0835093816
+208,Sahil Kaur,84,Inspector,59,1,Narcotics,6221803720
+209,Indranil Seshadri,25,Sub Inspector,42,3,Fraud,07223848512
+210,Farhan Kashyap,184,Head Constable,47,3,Cybercrime,+915208434302
+211,Ira Comar,309,Constable,45,29,Cybercrime,+915201331645
+212,Eshani Gill,33,Inspector,32,30,Homicide,+913554442647
+213,Uthkarsh Jha,292,Inspector,33,1,Homicide,2824744563
+214,Keya Joshi,73,Constable,36,4,Narcotics,08232591683
+215,Mamooty Cherian,45,Inspector,60,5,Traffic,7426738611
+216,Drishya Datta,500,DSP,52,21,Narcotics,+913353840038
+217,Madhav Dalal,104,Inspector,60,20,Narcotics,+919031544347
+218,Lakshay Chawla,472,DSP,33,12,Fraud,1823855665
+219,Armaan Upadhyay,463,Head Constable,39,7,Fraud,+918857965413
+220,Veer Setty,358,Head Constable,51,6,Homicide,9891923547
+221,Anya Bali,256,Constable,60,21,Traffic,06657459666
+222,Diya Goyal,362,DSP,46,14,Fraud,06603793924
+223,Mahika Boase,420,Sub Inspector,35,12,Cybercrime,7533126756
+224,Saira Talwar,124,Inspector,51,32,Fraud,+918127157122
+225,Biju Raj,221,Sub Inspector,44,33,Homicide,01115620845
+226,Dhanuk Joshi,41,Constable,58,24,Fraud,+919187914667
+227,Vidur Kar,299,DSP,39,27,Cybercrime,1220583506
+228,Sumer Balay,304,Sub Inspector,54,21,Traffic,02536276616
+229,Neysa Sant,118,Head Constable,49,24,Cybercrime,+918898289925
+230,Romil Sama,89,Constable,53,4,Traffic,7700503912
+231,Nirvaan Wagle,340,Head Constable,54,20,Cybercrime,+915217436502
+232,Mohanlal Borde,188,DSP,30,25,Narcotics,05415931896
+233,Aarav Apte,456,DSP,58,21,Cybercrime,+914162444669
+234,Bhamini Krish,114,Constable,50,7,Traffic,+915129670595
+235,Kashvi Koshy,329,Sub Inspector,54,2,Fraud,5303189998
+236,Fateh Bhakta,467,Constable,40,23,Narcotics,+914661227604
+237,Saira Kaur,99,DSP,31,32,Traffic,4588779753
+238,Baiju Tiwari,146,Inspector,56,4,Fraud,08672842934
+239,Raunak Sha,224,Inspector,32,10,Narcotics,1025678303
+240,Jhanvi Solanki,186,Constable,56,31,Narcotics,03126748515
+241,Ishita Tara,97,Constable,50,15,Fraud,9655379523
+242,Taimur Ravel,46,Inspector,58,21,Homicide,+912760254019
+243,Samiha Rajagopal,156,Inspector,34,23,Fraud,04516103107
+244,Mannat Chaudhry,205,Constable,57,22,Fraud,08464163072
+245,Siya Dave,187,Sub Inspector,48,2,Cybercrime,+918198268442
+246,Rasha Varty,244,Constable,59,3,Narcotics,07175914338
+247,Drishya Mangal,283,Constable,39,8,Homicide,+912302500581
+248,Tanya Lal,248,DSP,35,22,Narcotics,05156019506
+249,Lakshit Chokshi,406,Head Constable,38,32,Cybercrime,01364451436
+250,Ritvik Chand,288,Constable,27,11,Homicide,+911036576959
+251,Dhruv Thakkar,18,Inspector,44,30,Fraud,02527225272
+252,Saanvi Chaudry,252,Constable,28,34,Narcotics,+910804347114
+253,Vaibhav Banik,175,Constable,56,7,Cybercrime,0412137557
+254,Madhav Lalla,266,Sub Inspector,39,12,Traffic,8799745815
+255,Kismat Dhar,141,Sub Inspector,28,3,Cybercrime,8567934393
+256,Ivan Madan,79,Constable,39,30,Traffic,02684129923
+257,Mamooty Sane,373,Inspector,31,18,Traffic,+913851952667
+258,Seher Ramakrishnan,498,Head Constable,35,15,Homicide,+914564922768
+259,Darshit Chakrabarti,291,Head Constable,45,32,Fraud,5901600465
+260,Kaira Sethi,145,Head Constable,52,18,Fraud,6811992839
+261,Ritvik Contractor,378,DSP,59,12,Narcotics,+913798260644
+262,Ivan Venkatesh,151,Inspector,37,15,Traffic,3087908391
+263,Dharmajan Subramanian,350,Sub Inspector,34,28,Cybercrime,6147471193
+264,Pari Tella,435,Inspector,35,22,Fraud,04421342144
+265,Raghav Garde,317,DSP,28,4,Fraud,7477089420
+266,Taran Sinha,137,Head Constable,59,14,Fraud,+913182833010
+267,Dharmajan Shere,240,Constable,30,34,Homicide,+910193711514
+268,Arhaan Thakkar,339,Inspector,38,11,Fraud,+916109364868
+269,Yasmin Halder,421,DSP,43,1,Cybercrime,00447698004
+270,Krish Ghosh,193,Inspector,32,26,Narcotics,+915928930484
+271,Aarna Kannan,272,Inspector,50,4,Narcotics,07997961799
+272,Seher Talwar,356,Head Constable,54,21,Narcotics,+915306213582
+273,Myra Dhawan,285,Constable,31,6,Narcotics,7957435451
+274,Bhavin Singh,187,Constable,47,16,Traffic,05094548357
+275,Samarth Ghose,341,Sub Inspector,49,19,Fraud,+912628746232
+276,Elakshi Sekhon,74,Inspector,37,34,Fraud,0538130487
+277,Himmat Kannan,134,Head Constable,54,18,Fraud,08533521358
+278,Stuvan Gokhale,240,Constable,55,4,Cybercrime,09684941397
+279,Mishti Devi,139,DSP,54,19,Narcotics,6607170928
+280,Rhea Raman,134,Constable,31,16,Narcotics,00882033407
+281,Hrishita Behl,6,DSP,46,34,Cybercrime,3847333165
+282,Onkar Lalla,437,Inspector,54,26,Traffic,+911842812652
+283,Tushar Solanki,200,Constable,54,20,Fraud,0658535531
+284,Ivana Sekhon,311,Constable,27,20,Homicide,5356485175
+285,Jiya Mangat,138,Constable,40,27,Traffic,+918453954962
+286,Samiha Mammen,229,Inspector,39,6,Narcotics,+913297440928
+287,Vaibhav Sengupta,422,Head Constable,34,35,Traffic,02058140856
+288,Sahil Ghose,140,Inspector,55,34,Cybercrime,+917250805736
+289,Inaaya  Trivedi,91,Sub Inspector,46,5,Traffic,09564344367
+290,Misha Majumdar,56,Sub Inspector,53,20,Traffic,+911475295829
+291,Zeeshan Hayre,116,DSP,25,1,Narcotics,+919245579501
+292,Madhav Vaidya,177,Head Constable,56,34,Homicide,5827031344
+293,Tejas Krish,206,Sub Inspector,28,29,Traffic,05093170565
+294,Yasmin Mani,58,Inspector,30,16,Narcotics,+914660740476
+295,Jayant Acharya,384,Head Constable,55,33,Narcotics,1074901393
+296,Armaan Borra,266,Head Constable,48,5,Narcotics,08016862766
+297,Alia Loyal,82,DSP,40,32,Narcotics,0705516142
+298,Saira Sood,102,Constable,30,2,Fraud,03415351394
+299,Neysa Shah,259,Head Constable,55,2,Traffic,8780186373
+300,Reyansh Boase,38,Sub Inspector,58,19,Fraud,+917774273550
+301,Yashvi Kapoor,97,Constable,26,9,Traffic,8622448104
+302,Kaira Bajwa,202,DSP,46,17,Narcotics,02660053827
+303,Dhanush Samra,122,Head Constable,25,3,Homicide,+910406659469
+304,Diya Kakar,268,Inspector,33,31,Cybercrime,1266053924
+305,Hunar Thaman,140,Head Constable,48,22,Narcotics,03898667150
+306,Nayantara Uppal,234,Sub Inspector,47,4,Cybercrime,05362318698
+307,Samar Shankar,239,Sub Inspector,45,11,Traffic,8703445927
+308,Ira Sant,295,DSP,57,7,Traffic,+919097543118
+309,Taran Dhar,86,Constable,39,23,Fraud,00849957971
+310,Zoya Konda,498,Constable,38,9,Cybercrime,2547319720
+311,Ishaan De,111,DSP,39,34,Cybercrime,+916459099444
+312,Navya Srinivas,294,Constable,49,9,Narcotics,+910758833122
+313,Yasmin Ramanathan,352,Sub Inspector,51,5,Traffic,02145657168
+314,Nitara Srinivas,3,Head Constable,26,4,Traffic,03376807960
+315,Aaina Tripathi,282,Sub Inspector,34,13,Cybercrime,05367769286
+316,Pranay Halder,241,Sub Inspector,53,2,Cybercrime,4606255176
+317,Anika Kar,16,DSP,53,2,Narcotics,+917856066232
+318,Yakshit Swamy,177,Constable,44,29,Homicide,02574722868
+319,Hiran Dave,366,Sub Inspector,51,12,Cybercrime,+916412213002
+320,Prisha Sama,329,Inspector,41,33,Traffic,+915988582024
+321,Nayantara Kaul,185,Inspector,43,23,Cybercrime,+917433730365
+322,Miraya Chakrabarti,435,Inspector,52,27,Fraud,0718217785
+323,Anaya Amble,260,Constable,50,26,Homicide,02689318449
+324,Tiya Grewal,94,Inspector,54,35,Traffic,+912617518468
+325,Sara Dutt,272,DSP,38,13,Cybercrime,09368124972
+326,Vedika Aurora,128,Constable,55,24,Cybercrime,+913685247326
+327,Gatik Basu,113,Head Constable,29,30,Traffic,9213064266
+328,Seher Deshmukh,187,Constable,32,34,Fraud,+916435419360
+329,Heer Hegde,409,Sub Inspector,60,6,Narcotics,2312405152
+330,Raghav Varghese,305,Head Constable,36,27,Traffic,6172457311
+331,Ishaan Rattan,148,Head Constable,43,3,Narcotics,+918137468183
+332,Arhaan Mani,69,Sub Inspector,54,9,Narcotics,4297533128
+333,Adah Kapoor,123,Sub Inspector,29,25,Fraud,+910335808405
+334,Zara Lanka,395,Sub Inspector,52,30,Homicide,+913591376402
+335,Adira Yogi,184,Head Constable,29,9,Homicide,0887314098
+336,Ryan Grewal,26,Head Constable,52,11,Narcotics,+912412980155
+337,Aarush Rastogi,56,Sub Inspector,52,11,Homicide,9093424278
+338,Divij Ahuja,121,DSP,27,20,Fraud,3877577402
+339,Damini Subramanian,298,Constable,38,3,Cybercrime,+910012971295
+340,Aarush Talwar,179,Constable,51,8,Homicide,+916855169325
+341,Vidur Sule,415,Constable,28,35,Homicide,+913305513176
+342,Pranay Jaggi,149,Constable,40,33,Narcotics,02364124791
+343,Adira Ramanathan,315,DSP,47,9,Cybercrime,00126501883
+344,Hazel Chacko,285,DSP,57,1,Fraud,08495633570
+345,Renee Agrawal,377,Sub Inspector,58,11,Narcotics,+915231149166
+346,Jhanvi Sachar,298,Constable,54,21,Traffic,+911695150210
+347,Jivika Arora,476,Sub Inspector,28,32,Traffic,8509313969
+348,Dharmajan Subramanian,342,Sub Inspector,50,12,Narcotics,+913405658148
+349,Lakshay Subramanian,133,Inspector,37,34,Fraud,04896844713
+350,Ishita Gala,172,Head Constable,59,15,Homicide,3640018422
+351,Tejas Mani,139,Inspector,46,23,Fraud,6109507941
+352,Hiran Chakraborty,281,Head Constable,50,18,Narcotics,+916206854939
+353,Neelofar Joshi,4,DSP,54,19,Fraud,07973388155
+354,Mannat Shroff,18,DSP,28,4,Narcotics,02113781955
+355,Trisha Babu,51,Constable,29,2,Homicide,03008039213
+356,Tushar Mangat,387,DSP,32,20,Traffic,0203622532
+357,Dishani Samra,343,Head Constable,34,1,Cybercrime,8096073586
+358,Diya Din,153,DSP,49,4,Cybercrime,2878206730
+359,Kimaya Sarna,80,Head Constable,40,2,Narcotics,+913596007175
+360,Vanya Bawa,178,Inspector,33,35,Traffic,06614115458
+361,Amira Dubey,405,Sub Inspector,26,27,Narcotics,4201525825
+362,Inaaya  Bassi,442,DSP,35,2,Narcotics,0507730238
+363,Hiran Hayer,104,Inspector,35,1,Homicide,00081361371
+364,Manjari Seth,422,Sub Inspector,54,14,Traffic,+910617185896
+365,Amira Suri,285,Head Constable,35,16,Narcotics,7625094371
+366,Samarth Varty,369,Head Constable,60,28,Cybercrime,+919976396188
+367,Rhea Kata,150,Sub Inspector,49,31,Fraud,+913109388455
+368,Samarth Venkatesh,485,Head Constable,43,2,Traffic,+910096474120
+369,Misha Vaidya,128,Constable,54,22,Fraud,06909271371
+370,Dhanush Upadhyay,496,Constable,39,21,Fraud,7474931229
+371,Shaan Dube,374,Sub Inspector,45,35,Narcotics,08100838165
+372,Piya Bansal,332,Inspector,37,4,Homicide,2013260202
+373,Anaya Dube,234,Constable,53,19,Fraud,04772893284
+374,Kiara Bobal,436,DSP,55,1,Narcotics,04482811759
+375,Rhea Sachar,310,Constable,53,23,Narcotics,+910972379802
+376,Hazel Samra,239,Sub Inspector,60,24,Narcotics,02806248887
+377,Dhanush Barad,260,DSP,54,12,Narcotics,7109281720
+378,Aarna Ram,407,DSP,28,9,Traffic,+915015246545
+379,Vedika Mann,121,Inspector,33,9,Fraud,09184750969
+380,Nishith Bawa,273,DSP,59,6,Fraud,0528171766
+381,Darshit Bava,371,DSP,28,15,Fraud,3503008508
+382,Prerak Ratta,79,Inspector,26,24,Homicide,+910460780922
+383,Emir Kapadia,217,DSP,29,11,Cybercrime,05567631603
+384,Purab Sawhney,97,Constable,29,35,Cybercrime,02643823886
+385,Darshit Sabharwal,249,Inspector,51,29,Cybercrime,+919362387708
+386,Sumer Savant,347,Sub Inspector,29,2,Fraud,+919675824495
+387,Vanya Tella,86,Inspector,50,31,Cybercrime,2123043354
+388,Hiran Bumb,415,Sub Inspector,51,24,Narcotics,05414251232
+389,Rasha Sule,456,Sub Inspector,35,24,Homicide,00884275498
+390,Ahana  Suri,6,Sub Inspector,53,8,Traffic,+914665774431
+391,Elakshi Butala,307,DSP,30,2,Narcotics,+916864402428
+392,Onkar Bhalla,265,DSP,52,25,Homicide,+911494576937
+393,Piya Sant,371,Constable,39,18,Traffic,08022660286
+394,Priyansh Mani,423,Constable,41,25,Traffic,4332247434
+395,Ira Rege,291,Sub Inspector,43,28,Fraud,+919880689024
+396,Zoya Sethi,457,Constable,49,18,Homicide,9534177525
+397,Vaibhav Dara,91,Head Constable,49,35,Cybercrime,1480455119
+398,Faiyaz Bera,23,DSP,40,35,Cybercrime,+915213943965
+399,Tanya Ratti,147,DSP,51,25,Traffic,06775935714
+400,Kanav Ramanathan,140,Constable,41,28,Narcotics,+919499380421
+401,Ivan Basu,25,DSP,49,20,Narcotics,04823790054
+402,Badal Balay,52,Inspector,31,9,Fraud,00168621774
+403,Tarini Kari,353,Sub Inspector,31,32,Cybercrime,1496167596
+404,Vihaan Mand,92,Constable,34,5,Homicide,+916218688329
+405,Shray Suresh,128,Inspector,52,21,Narcotics,04666863054
+406,Yuvraj  Chada,395,Constable,51,21,Narcotics,+917013703376
+407,Fateh Khalsa,314,DSP,39,31,Homicide,5878950213
+408,Rati Khalsa,306,Sub Inspector,50,12,Cybercrime,+911586009309
+409,Taran Sule,305,Inspector,26,24,Fraud,04962891527
+410,Pranay Solanki,8,Constable,46,16,Narcotics,01528088539
+411,Bhamini Mahajan,69,Sub Inspector,33,34,Cybercrime,2074449522
+412,Romil Sunder,488,Sub Inspector,40,23,Homicide,0590307798
+413,Shray Yogi,141,Head Constable,42,2,Cybercrime,03705936984
+414,Dhanuk Shanker,259,Inspector,32,26,Narcotics,1064007078
+415,Eshani Solanki,152,Sub Inspector,40,34,Fraud,02906145478
+416,Raghav Doctor,58,Sub Inspector,38,10,Traffic,02624668466
+417,Gokul Choudhury,338,Sub Inspector,29,11,Cybercrime,+910996167441
+418,Ahana  Mammen,159,Head Constable,30,33,Homicide,2145292181
+419,Bhamini Kapoor,112,Inspector,28,13,Homicide,+919655836406
+420,Samiha Gulati,165,DSP,54,4,Narcotics,+918832297778
+421,Fateh Kar,95,Sub Inspector,26,29,Cybercrime,+915307066010
+422,Ishaan Kulkarni,69,Head Constable,51,27,Traffic,+912571204025
+423,Himmat Butala,80,Head Constable,59,15,Homicide,03438019588
+424,Ivan Solanki,59,Inspector,25,30,Cybercrime,07836502176
+425,Amani Sengupta,205,Inspector,41,28,Narcotics,01105565772
+426,Samaira Atwal,255,Inspector,32,5,Cybercrime,09679331706
+427,Anaya Luthra,36,Inspector,54,20,Homicide,+917733593498
+428,Shaan Handa,64,Inspector,47,15,Traffic,01353206481
+429,Tiya Grewal,218,Inspector,32,10,Fraud,07862946872
+430,Renee Bhalla,26,Inspector,45,31,Homicide,+910223688659
+431,Bhamini Garg,369,Inspector,41,3,Traffic,+911533141601
+432,Emir Guha,277,Inspector,42,15,Homicide,+919654967914
+433,Urvi Bajaj,430,Constable,34,9,Homicide,01139416484
+434,Anya Kapoor,106,Sub Inspector,39,1,Narcotics,+913905554228
+435,Ayesha Bava,161,Sub Inspector,43,1,Fraud,00450287166
+436,Ritvik Rege,407,Head Constable,40,17,Fraud,3528240475
+437,Shray Krishna,39,Sub Inspector,60,7,Homicide,05564542809
+438,Oorja Borra,55,Head Constable,51,12,Cybercrime,+919821014082
+439,Nehmat Sekhon,22,DSP,52,12,Traffic,5207778398
+440,Miraya Batta,52,Constable,58,22,Narcotics,5326301494
+441,Urvi Salvi,287,Constable,29,21,Traffic,8363003085
+442,Ayesha Jayaraman,309,DSP,52,32,Fraud,+918924357653
+443,Ishita Kar,208,DSP,44,10,Fraud,00776440329
+444,Kartik Varkey,5,DSP,43,25,Narcotics,06213949004
+445,Divij Sarkar,17,Head Constable,29,21,Traffic,08921247561
+446,Shamik Shere,479,Head Constable,31,13,Homicide,09755264688
+447,Adah Dubey,109,Inspector,31,4,Traffic,+913104545689
+448,Eshani Vala,413,Sub Inspector,43,29,Narcotics,06204576085
+449,Elakshi Mane,185,Constable,27,21,Fraud,+910606717493
+450,Jayan Sundaram,60,Head Constable,28,33,Fraud,+911158426828
+451,Shray Rout,106,Sub Inspector,36,30,Traffic,03228159779
+452,Anvi Sanghvi,493,Inspector,57,3,Fraud,04022318637
+453,Yasmin Rau,207,Head Constable,59,33,Traffic,07083835383
+454,Samaira Anne,189,Inspector,28,9,Homicide,+914632662743
+455,Biju Dara,16,Sub Inspector,33,34,Narcotics,03941672982
+456,Tiya Dada,112,Constable,50,23,Narcotics,04708899103
+457,Pranay Gill,353,Constable,58,4,Narcotics,3964814925
+458,Jivika Raja,313,Sub Inspector,45,32,Homicide,+910929797574
+459,Jayan Bhagat,334,Head Constable,59,35,Narcotics,01695916164
+460,Indrajit Tara,334,Constable,28,14,Homicide,5848771702
+461,Tanya Kota,296,Constable,60,17,Narcotics,09424532875
+462,Raunak Lad,86,Inspector,50,32,Homicide,+915966524654
+463,Vritika Samra,49,DSP,53,20,Homicide,6988903560
+464,Hrishita Chaudhuri,380,DSP,57,5,Traffic,+911195510825
+465,Nayantara Kothari,478,Constable,50,16,Narcotics,05551881680
+466,Riaan Lal,95,Inspector,59,17,Traffic,6551742943
+467,Sumer Sura,79,Inspector,59,27,Traffic,03357553151
+468,Pranay Din,186,DSP,45,26,Homicide,02444907819
+469,Kiara Contractor,403,Sub Inspector,34,31,Traffic,4880544009
+470,Pari Bedi,356,Constable,42,14,Narcotics,+910306676394
+471,Zoya Tank,124,DSP,34,20,Cybercrime,5944168826
+472,Mishti Aggarwal,48,Head Constable,29,24,Fraud,01001786126
+473,Kiara Doshi,29,Sub Inspector,27,34,Narcotics,+916816498450
+474,Alia Bhakta,459,Sub Inspector,26,14,Fraud,00413712385
+475,Priyansh Uppal,57,Inspector,54,16,Homicide,04967619191
+476,Yasmin Sem,29,DSP,43,33,Traffic,08326395407
+477,Sana Venkataraman,24,Inspector,26,12,Homicide,01335381799
+478,Romil Chakraborty,399,Inspector,39,33,Homicide,3413784998
+479,Riaan Doctor,421,Sub Inspector,32,8,Homicide,+910717883627
+480,Dhanush Amble,403,Sub Inspector,59,28,Homicide,+912288961659
+481,Zoya Konda,259,Inspector,37,15,Cybercrime,+912522215681
+482,Elakshi Varkey,334,Sub Inspector,51,1,Traffic,02687536173
+483,Parinaaz Hans,2,Sub Inspector,28,7,Homicide,3252697895
+484,Heer Lad,235,Inspector,33,25,Cybercrime,+910144393643
+485,Kiaan Venkataraman,170,Sub Inspector,52,19,Fraud,+915483583268
+486,Vedika Raj,177,Inspector,42,29,Fraud,9614699509
+487,Pari Talwar,441,Sub Inspector,60,3,Fraud,+911353629103
+488,Hridaan Yadav,66,Constable,40,19,Narcotics,06914811122
+489,Anika Tara,157,DSP,54,5,Traffic,07603054724
+490,Tushar Sabharwal,474,Sub Inspector,29,33,Traffic,+918653293355
+491,Anay Bora,252,Head Constable,28,17,Cybercrime,7321342758
+492,Dhanuk Comar,99,Sub Inspector,28,15,Homicide,+916515375455
+493,Dharmajan Gour,138,Sub Inspector,30,30,Narcotics,9416620416
+494,Rasha Sinha,50,Constable,50,21,Fraud,+917276942882
+495,Tarini Goda,231,Sub Inspector,33,9,Homicide,2635244401
+496,Ishita Suri,287,DSP,40,11,Narcotics,+911367157998
+497,Khushi Bhardwaj,347,Inspector,48,12,Traffic,+910589796216
+498,Shanaya Dixit,137,Constable,58,28,Cybercrime,1465888255
+499,Baiju Raj,472,Constable,44,32,Fraud,03691231955
+500,Zeeshan Sampath,131,Sub Inspector,43,32,Fraud,02887054000
