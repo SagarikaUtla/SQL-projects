@@ -1,0 +1,51 @@
+train_id,name,source,destination,train_type,days_of_operation,avg_speed_kmph
+1,Ivory Express,Nagpur,Sambalpur,Passenger,Daily,75
+2,Peru Express,Kota,Gudivada,Express,Daily,57
+3,Lavender Express,Ludhiana,Bellary,Passenger,Weekends,109
+4,PeachPuff Express,Kishanganj,Bongaigaon,Passenger,Weekends,94
+5,DimGray Express,Sultan Pur Majra,Chennai,Passenger,Daily,51
+6,IndianRed Express,Mau,Bhatpara,Express,Daily,104
+7,DarkGray Express,Kota,Nadiad,Passenger,Weekends,65
+8,Salmon Express,Hapur,Varanasi,Mail,Daily,97
+9,LightYellow Express,Burhanpur,Suryapet,Superfast,Daily,60
+10,Brown Express,Gangtok,Coimbatore,Mail,Mon-Fri,75
+11,DarkGreen Express,Ramagundam,Muzaffarpur,Express,Daily,83
+12,DodgerBlue Express,Alwar,Bharatpur,Passenger,Daily,88
+13,Cornsilk Express,Raichur,Shimoga,Passenger,Mon-Fri,84
+14,SandyBrown Express,Deoghar,Ujjain,Superfast,Daily,98
+15,Chartreuse Express,Gopalpur,Anantapur,Passenger,Mon-Fri,50
+16,LightGreen Express,Patna,Rewa,Superfast,Weekends,119
+17,Salmon Express,Rajpur Sonarpur,Tenali,Superfast,Weekends,64
+18,WhiteSmoke Express,Bilaspur,Shahjahanpur,Passenger,Daily,69
+19,PaleGoldenRod Express,Bhimavaram,Ballia,Superfast,Daily,69
+20,Snow Express,Muzaffarnagar,Danapur,Passenger,Mon-Fri,75
+21,DimGray Express,Nashik,Jamnagar,Mail,Weekends,86
+22,Olive Express,Kavali,Kharagpur,Express,Mon-Fri,85
+23,Aqua Express,Dehri,Begusarai,Express,Weekends,74
+24,DarkOliveGreen Express,Jorhat,Mau,Passenger,Weekends,61
+25,AliceBlue Express,Raebareli,Malda,Express,Daily,99
+26,DarkMagenta Express,Orai,Guna,Mail,Mon-Fri,111
+27,Navy Express,Guna,Jamnagar,Express,Weekends,81
+28,MediumBlue Express,Panvel,Khora ,Passenger,Daily,44
+29,Linen Express,Surat,Mirzapur,Superfast,Mon-Fri,74
+30,Cyan Express,Howrah,Tezpur,Passenger,Daily,112
+31,DarkSalmon Express,Shivpuri,Katihar,Superfast,Daily,103
+32,Wheat Express,Fatehpur,Bilaspur,Mail,Weekends,98
+33,PaleGoldenRod Express,Rajpur Sonarpur,Bijapur,Express,Mon-Fri,57
+34,LightBlue Express,Bahraich,Jamshedpur,Express,Weekends,111
+35,Khaki Express,Rajkot,Jaipur,Superfast,Weekends,114
+36,Khaki Express,Chennai,Allahabad,Mail,Weekends,91
+37,Thistle Express,Patna,Madurai,Superfast,Daily,57
+38,Yellow Express,Alwar,Kakinada,Mail,Daily,46
+39,Sienna Express,Aurangabad,Latur,Passenger,Daily,120
+40,Plum Express,Jhansi,Jalandhar,Express,Weekends,94
+41,CadetBlue Express,Bhusawal,Bhind,Passenger,Mon-Fri,88
+42,DarkMagenta Express,Ghaziabad,Sonipat,Mail,Weekends,72
+43,RosyBrown Express,Nellore,Jorhat,Passenger,Weekends,54
+44,SandyBrown Express,Bhusawal,Alwar,Superfast,Weekends,83
+45,DarkGreen Express,Aurangabad,Jamalpur,Passenger,Mon-Fri,95
+46,LavenderBlush Express,Panvel,Tiruchirappalli,Express,Mon-Fri,40
+47,HotPink Express,Vellore,Ongole,Superfast,Weekends,62
+48,AliceBlue Express,Allahabad,Nadiad,Passenger,Weekends,78
+49,Peru Express,Bilaspur,Baranagar,Express,Daily,87
+50,IndianRed Express,Bhatpara,Sagar,Express,Weekends,107

@@ -1,0 +1,101 @@
+station_id,name,city,state,platforms,zone
+1,Ville Station,Satara,Arunachal Pradesh,1,CR
+2,Ville Station,Ambala,West Bengal,6,SR
+3,Ville Station,Danapur,Assam,1,NR
+4,Ville Station,Hindupur,Assam,6,WR
+5,Ville Station,Jamshedpur,Odisha,4,NR
+6,Ville Station,Udupi,Assam,4,CR
+7,Ville Station,Bhilwara,Gujarat,2,NR
+8,Ville Station,Bilaspur,Madhya Pradesh,8,NR
+9,Ville Station,Berhampore,Karnataka,9,ER
+10,Ville Station,Berhampore,Punjab,3,SR
+11,Ville Station,Siwan,Gujarat,9,ER
+12,Ville Station,Karnal,Assam,5,CR
+13,Ville Station,Anantapuram,Goa,10,SR
+14,Ville Station,Pudukkottai,Uttar Pradesh,4,CR
+15,Ville Station,Vasai-Virar,Chhattisgarh,4,WR
+16,Ville Station,Aligarh,Telangana,7,WR
+17,Ville Station,Ichalkaranji,Punjab,8,CR
+18,Ville Station,Kurnool,Sikkim,8,NR
+19,Ville Station,Chandrapur,West Bengal,4,ER
+20,Ville Station,Bhusawal,Uttarakhand,2,WR
+21,Ville Station,Delhi,Karnataka,1,CR
+22,Ville Station,Nanded,Telangana,9,ER
+23,Ville Station,Kishanganj,Andhra Pradesh,10,ER
+24,Ville Station,Jalgaon,Nagaland,1,NR
+25,Ville Station,Ballia,Nagaland,1,ER
+26,Ville Station,Warangal,Arunachal Pradesh,2,NR
+27,Ville Station,Thane,Kerala,6,NR
+28,Ville Station,Kota,Kerala,9,ER
+29,Ville Station,Patiala,West Bengal,5,SR
+30,Ville Station,Haridwar,Andhra Pradesh,4,CR
+31,Ville Station,Bulandshahr,Uttar Pradesh,3,CR
+32,Ville Station,Kozhikode,Uttar Pradesh,10,SR
+33,Ville Station,Agra,West Bengal,4,SR
+34,Ville Station,Kollam,Uttarakhand,7,ER
+35,Ville Station,Farrukhabad,Uttarakhand,2,NR
+36,Ville Station,Nagpur,Sikkim,7,WR
+37,Ville Station,Ozhukarai,Himachal Pradesh,7,SR
+38,Ville Station,Etawah,Rajasthan,8,NR
+39,Ville Station,Bhopal,Bihar,2,NR
+40,Ville Station,Amaravati,Himachal Pradesh,7,WR
+41,Ville Station,Kavali,Maharashtra,2,ER
+42,Ville Station,Junagadh,Punjab,4,ER
+43,Ville Station,Gangtok,Gujarat,9,SR
+44,Ville Station,Junagadh,Andhra Pradesh,3,SR
+45,Ville Station,Chinsurah,Assam,3,WR
+46,Ville Station,Amravati,Telangana,8,ER
+47,Ville Station,Alappuzha,Karnataka,2,SR
+48,Ville Station,Begusarai,Chhattisgarh,9,NR
+49,Ville Station,Nadiad,Sikkim,1,CR
+50,Ville Station,Machilipatnam,Nagaland,1,NR
+51,Ville Station,Baranagar,Gujarat,4,ER
+52,Ville Station,Kirari Suleman Nagar,Manipur,7,SR
+53,Ville Station,Sasaram,Meghalaya,8,ER
+54,Ville Station,Anantapuram,Mizoram,7,NR
+55,Ville Station,Noida,Sikkim,3,SR
+56,Ville Station,Davanagere,Chhattisgarh,1,SR
+57,Ville Station,Sambalpur,Meghalaya,5,SR
+58,Ville Station,Vijayanagaram,Rajasthan,5,SR
+59,Ville Station,Shimla,Madhya Pradesh,9,SR
+60,Ville Station,Kolkata,Tripura,3,ER
+61,Ville Station,Muzaffarnagar,Goa,5,ER
+62,Ville Station,Proddatur,Haryana,1,CR
+63,Ville Station,Guntur,Uttar Pradesh,9,NR
+64,Ville Station,Mango,Punjab,6,NR
+65,Ville Station,Kozhikode,Telangana,1,CR
+66,Ville Station,Rampur,Tripura,8,CR
+67,Ville Station,Saharsa,Meghalaya,9,ER
+68,Ville Station,Gandhidham,Assam,1,CR
+69,Ville Station,Darbhanga,Karnataka,2,ER
+70,Ville Station,Durgapur,Chhattisgarh,2,CR
+71,Ville Station,Jamnagar,Tamil Nadu,2,ER
+72,Ville Station,Vijayanagaram,Maharashtra,7,NR
+73,Ville Station,Vijayanagaram,Arunachal Pradesh,10,ER
+74,Ville Station,Pali,Tripura,10,CR
+75,Ville Station,Morena,Andhra Pradesh,1,CR
+76,Ville Station,Pali,West Bengal,2,SR
+77,Ville Station,Morbi,Haryana,10,CR
+78,Ville Station,Shivpuri,Andhra Pradesh,9,WR
+79,Ville Station,Machilipatnam,Telangana,5,ER
+80,Ville Station,Warangal,Punjab,6,ER
+81,Ville Station,Guntakal,Odisha,5,SR
+82,Ville Station,Haldia,Chhattisgarh,3,WR
+83,Ville Station,Dhanbad,Himachal Pradesh,8,WR
+84,Ville Station,Rajpur Sonarpur,Manipur,2,NR
+85,Ville Station,Nadiad,Himachal Pradesh,8,CR
+86,Ville Station,Jodhpur,Meghalaya,10,NR
+87,Ville Station,Etawah,Haryana,2,CR
+88,Ville Station,Ludhiana,Haryana,4,CR
+89,Ville Station,Jamnagar,Haryana,5,ER
+90,Ville Station,Raipur,Odisha,6,NR
+91,Ville Station,Bardhaman,Tripura,4,WR
+92,Ville Station,Medininagar,Punjab,5,ER
+93,Ville Station,Bijapur,Bihar,8,CR
+94,Ville Station,Ramgarh,Sikkim,5,CR
+95,Ville Station,Davanagere,Assam,9,NR
+96,Ville Station,Barasat,West Bengal,9,WR
+97,Ville Station,Sri Ganganagar,Nagaland,2,ER
+98,Ville Station,Coimbatore,Mizoram,5,NR
+99,Ville Station,Bidar,Uttarakhand,2,CR
+100,Ville Station,Bhiwani,Kerala,3,WR
