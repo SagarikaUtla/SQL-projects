@@ -1,0 +1,101 @@
+school_id,name,district_id,state,district,type,established_year,student_capacity
+1,"Ravi, Batta and Badal",11,West Bengal,Howrah,Government,1981,1618
+2,Gokhale-Kanda,5,Maharashtra,Pune,Government,1994,385
+3,Viswanathan Ltd,12,West Bengal,Siliguri,Government,2014,278
+4,Sehgal-Date,10,West Bengal,Kolkata,Private,1982,161
+5,Lad-Walia,2,Karnataka,Mysore,Government,1994,1134
+6,Rajan Ltd,10,West Bengal,Kolkata,Government,2015,507
+7,"Lad, Mann and Subramanian",12,West Bengal,Siliguri,Aided,2014,959
+8,Buch LLC,4,Maharashtra,Mumbai,Private,2017,669
+9,Seth-Gara,13,Telangana,Hyderabad,Government,1990,1529
+10,Tara LLC,7,Tamil Nadu,Chennai,Private,1997,418
+11,Badami PLC,4,Maharashtra,Mumbai,Private,1986,289
+12,Agrawal PLC,7,Tamil Nadu,Chennai,Government,2002,1835
+13,Mani Inc,6,Maharashtra,Nagpur,Aided,1996,1752
+14,Rao Group,1,Karnataka,Bangalore,Aided,2009,1198
+15,Lal-Bora,2,Karnataka,Mysore,Private,1985,1230
+16,Deshpande-Contractor,5,Maharashtra,Pune,Aided,2019,1913
+17,"Batra, Dhawan and Chakrabarti",14,Telangana,Warangal,Private,2016,493
+18,Loyal-Dara,12,West Bengal,Siliguri,Government,1982,1454
+19,"Shroff, Loyal and Dewan",4,Maharashtra,Mumbai,Private,1985,1851
+20,Bhat Inc,4,Maharashtra,Mumbai,Government,2004,669
+21,"Sengupta, Sachdeva and Bansal",8,Tamil Nadu,Coimbatore,Aided,2003,433
+22,Sarin LLC,6,Maharashtra,Nagpur,Private,1993,1472
+23,Hans-Mann,5,Maharashtra,Pune,Aided,1984,1347
+24,Ahluwalia-Sharma,11,West Bengal,Howrah,Government,2014,1593
+25,Chopra-Jha,4,Maharashtra,Mumbai,Government,2009,877
+26,"Gera, Bhatia and Hayer",5,Maharashtra,Pune,Aided,2015,549
+27,Mangal Inc,11,West Bengal,Howrah,Private,1983,569
+28,"Sen, Reddy and Bahri",14,Telangana,Warangal,Government,2000,921
+29,Rajan-Ravel,5,Maharashtra,Pune,Government,1993,1970
+30,Dua-Kota,10,West Bengal,Kolkata,Aided,2000,535
+31,Chopra-Salvi,11,West Bengal,Howrah,Private,2005,1911
+32,Khatri Group,15,Telangana,Nizamabad,Aided,2009,392
+33,"Bava, Wali and Sunder",5,Maharashtra,Pune,Government,1995,1625
+34,Korpal-Sani,9,Tamil Nadu,Madurai,Aided,1996,1629
+35,Bali Group,10,West Bengal,Kolkata,Private,2017,917
+36,Sem Ltd,6,Maharashtra,Nagpur,Government,1988,1143
+37,Kale LLC,8,Tamil Nadu,Coimbatore,Government,1983,1863
+38,Gulati Ltd,2,Karnataka,Mysore,Government,2020,427
+39,Iyengar Group,13,Telangana,Hyderabad,Aided,2007,1321
+40,Majumdar and Sons,2,Karnataka,Mysore,Private,2004,1320
+41,Dhar and Sons,8,Tamil Nadu,Coimbatore,Aided,1996,1233
+42,Bassi Inc,14,Telangana,Warangal,Government,1987,1496
+43,Chad and Sons,15,Telangana,Nizamabad,Aided,1997,1674
+44,Subramaniam Group,11,West Bengal,Howrah,Private,1987,701
+45,Sandal LLC,7,Tamil Nadu,Chennai,Government,2009,106
+46,Raj Inc,12,West Bengal,Siliguri,Aided,1996,1125
+47,Amble Ltd,13,Telangana,Hyderabad,Government,2012,1969
+48,Gaba-Devan,2,Karnataka,Mysore,Aided,1999,1823
+49,"Rajagopal, Kaur and Walia",11,West Bengal,Howrah,Aided,2018,507
+50,Anne Ltd,3,Karnataka,Hubli,Private,1990,1204
+51,"Tailor, Shah and Butala",13,Telangana,Hyderabad,Aided,1980,1326
+52,Loyal LLC,6,Maharashtra,Nagpur,Private,1981,329
+53,Cheema-Ghosh,15,Telangana,Nizamabad,Private,1999,590
+54,Ravel-Sheth,1,Karnataka,Bangalore,Government,2016,261
+55,"Dutt, Zacharia and Sharma",2,Karnataka,Mysore,Aided,2011,1771
+56,"Tella, Chada and Gupta",2,Karnataka,Mysore,Aided,1988,362
+57,Shere-Mani,11,West Bengal,Howrah,Private,2015,438
+58,Gaba-Swaminathan,5,Maharashtra,Pune,Aided,2018,966
+59,Zacharia-Dixit,4,Maharashtra,Mumbai,Aided,1992,1560
+60,Rout-Chowdhury,5,Maharashtra,Pune,Private,2003,997
+61,"Loyal, Dayal and Desai",15,Telangana,Nizamabad,Aided,2008,347
+62,"Choudhury, Guha and Tank",4,Maharashtra,Mumbai,Government,1984,792
+63,Sarin-Venkatesh,1,Karnataka,Bangalore,Aided,2015,571
+64,Mani-Dugal,10,West Bengal,Kolkata,Government,1980,245
+65,Basak-Gopal,12,West Bengal,Siliguri,Aided,1983,568
+66,"Sha, Dada and Manda",2,Karnataka,Mysore,Government,2001,245
+67,Sahota-Sundaram,9,Tamil Nadu,Madurai,Government,1997,1470
+68,"Luthra, Basu and Shenoy",8,Tamil Nadu,Coimbatore,Government,2014,370
+69,"Acharya, Ramachandran and Batta",12,West Bengal,Siliguri,Aided,2016,1068
+70,Deshpande Group,4,Maharashtra,Mumbai,Private,2006,489
+71,"Venkataraman, Jayaraman and Kari",2,Karnataka,Mysore,Government,2007,825
+72,Bhatti-Sengupta,7,Tamil Nadu,Chennai,Private,2009,1869
+73,"Edwin, Rajagopalan and Mahajan",12,West Bengal,Siliguri,Government,1986,224
+74,Srinivasan-Dalal,7,Tamil Nadu,Chennai,Aided,2001,1739
+75,Hayre Group,14,Telangana,Warangal,Government,1995,492
+76,Bhagat-D’Alia,4,Maharashtra,Mumbai,Aided,2008,387
+77,Varty Inc,7,Tamil Nadu,Chennai,Government,1997,1047
+78,Gola LLC,4,Maharashtra,Mumbai,Government,2008,1754
+79,Iyer and Sons,14,Telangana,Warangal,Aided,1986,203
+80,"Wali, Sama and Din",11,West Bengal,Howrah,Aided,1980,291
+81,Chadha Ltd,15,Telangana,Nizamabad,Government,1990,932
+82,Date and Sons,8,Tamil Nadu,Coimbatore,Private,1993,1870
+83,"Sanghvi, Kamdar and Aggarwal",7,Tamil Nadu,Chennai,Government,1990,876
+84,Dass PLC,1,Karnataka,Bangalore,Private,1996,1997
+85,"Jain, Bose and Sinha",13,Telangana,Hyderabad,Private,1998,966
+86,Bedi and Sons,12,West Bengal,Siliguri,Aided,2015,1455
+87,Devan-Kamdar,12,West Bengal,Siliguri,Private,1989,488
+88,Viswanathan-Rastogi,5,Maharashtra,Pune,Government,1983,1286
+89,Varty-Ratta,12,West Bengal,Siliguri,Aided,1983,1631
+90,"Bhardwaj, Hayer and Bhandari",6,Maharashtra,Nagpur,Government,1983,1296
+91,Sastry Inc,8,Tamil Nadu,Coimbatore,Aided,2013,422
+92,Zachariah Inc,1,Karnataka,Bangalore,Aided,1985,1843
+93,Kamdar LLC,3,Karnataka,Hubli,Government,2018,239
+94,"Khanna, Dara and Dugal",11,West Bengal,Howrah,Government,2005,345
+95,Verma-Babu,15,Telangana,Nizamabad,Aided,1995,1285
+96,Kapadia-Andra,10,West Bengal,Kolkata,Government,2019,267
+97,Toor LLC,7,Tamil Nadu,Chennai,Aided,2017,1257
+98,Sunder-Gulati,9,Tamil Nadu,Madurai,Private,1996,518
+99,Basak Group,11,West Bengal,Howrah,Aided,2000,588
+100,Kaul LLC,5,Maharashtra,Pune,Private,1988,1475

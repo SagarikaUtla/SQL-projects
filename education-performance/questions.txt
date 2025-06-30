@@ -1,0 +1,33 @@
+Basic Level:
+
+How many schools are there in each state?
+List all distinct school types in the dataset.
+Find the total number of students enrolled.
+Show the average marks in exams per subject.
+Get a list of all teachers with their subject and school name.
+Count the number of students in each grade.
+Find the number of male and female students in total.
+Display the top 5 most recently established schools.
+
+Intermediate Level:
+
+Find the number of students in each school.
+List all schools along with the count of teachers working there.
+Show the average marks per student for each subject.
+List the names of students who scored more than 90 in any exam.
+Find the average age of students by grade.
+Show total number of exams taken each year.
+Get the names of teachers teaching in schools located in ‘Hyderabad’.
+Display the average marks per school per subject.
+
+Advanced Level:
+
+Find the top 3 students with the highest average marks across all exams.
+Rank students within each grade based on their average marks.
+Identify students who have never scored below 50 in any exam.
+For each school, show the subject in which students scored the lowest average marks.
+Calculate the pass percentage (marks >= 40) by year for each subject.
+Find schools where the number of students exceeds their capacity.
+List teachers who teach a subject that no other teacher teaches.
+For each student, calculate their highest, lowest, and average marks across exams using window functions.
+
